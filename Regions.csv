@@ -1,0 +1,188 @@
+,X,Country,World..Bank,Region,Democracy.Index,Africa,Colony
+1,1,Algeria,Lower Middle Income,Africa,Authoritarian,North,French
+2,2,Benin,Lower Middle Income,Africa,Hybrid regime,West,French
+3,3,Burkina Faso,Low Income,Africa,Authoritarian,West,French
+4,4,Cameroon,Lower Middle Income,Africa,Authoritarian,Central,French
+5,5,Chad,Low Income,Africa,Authoritarian,Central,French
+6,6,Republic of the Congo,Lower Middle Income,Africa,Authoritarian,Central,French
+7,7,Gabon,Upper Middle Income,Africa,Authoritarian,Central,French
+8,8,Guinea,Low Income,Africa,Authoritarian,West,French
+9,9,Ivory Coast,Lower Middle Income,Africa,Hybrid regime,West,French
+10,10,Madagascar,Low Income,Africa,Hybrid regime,East,French
+11,11,Mali,Low Income,Africa,Authoritarian,West,French
+12,12,Mauritania,Lower Middle Income,Africa,Hybrid regime,North,French
+13,13,Morocco,Lower Middle Income,Africa,Hybrid regime,North,French
+14,14,Niger,Low Income,Africa,Authoritarian,West,French
+15,15,Senegal,Lower Middle Income,Africa,Hybrid regime,West,French
+16,16,Togo,Low Income,Africa,Authoritarian,West,French
+17,17,Tunisia,Lower Middle Income,Africa,Hybrid regime,North,French
+18,18,Angola,Lower Middle Income,Africa,Authoritarian,South,ND
+19,19,Botswana,Upper Middle Income,Africa,Flawed democracy,South,ND
+20,20,DR Congo,Low Income,Africa,Authoritarian,Central,ND
+21,21,Egypt,Lower Middle Income,Africa,Authoritarian,North,ND
+22,22,Equatorial Guinea,Upper Middle Income,Africa,Authoritarian,Central,ND
+23,23,Ethiopia,Low Income,Africa,Authoritarian,East,ND
+24,24,"Gambia, The",Low Income,Africa,Hybrid regime,West,ND
+25,25,Ghana,Lower Middle Income,Africa,Flawed democracy,West,ND
+26,26,Guinea-Bissau,Low Income,Africa,Authoritarian,West,ND
+27,27,Kenya,Lower Middle Income,Africa,Hybrid regime,East,ND
+28,28,Lesotho,Lower Middle Income,Africa,Flawed democracy,South,ND
+29,29,Liberia,Low Income,Africa,Hybrid regime,West,ND
+30,30,Libya,Upper Middle Income,Africa,Authoritarian,North,ND
+31,31,Malawi,Low Income,Africa,Hybrid regime,South,ND
+32,32,Mauritius,Upper Middle Income,Africa,Full democracy,East,ND
+33,33,Mozambique,Low Income,Africa,Authoritarian,East,ND
+34,34,Namibia,Upper Middle Income,Africa,Flawed democracy,South,ND
+35,35,Nigeria,Lower Middle Income,Africa,Hybrid regime,West,ND
+36,36,Rwanda,Low Income,Africa,Authoritarian,East,ND
+37,37,Sao Tome and Principe,Lower Middle Income,Africa,ND,Central,ND
+38,38,Sierra Leone,Low Income,Africa,Hybrid regime,West,ND
+39,39,Somalia,Low Income,Africa,ND,East,ND
+40,40,South Africa,Upper Middle Income,Africa,Flawed democracy,South,ND
+41,41,South Sudan,Low Income,Africa,ND,East,ND
+42,42,Sudan,Low Income,Africa,Authoritarian,East,ND
+43,43,Swaziland,Lower Middle Income,Africa,ND,South,ND
+44,44,Tanzania,Lower Middle Income,Africa,Hybrid regime,East,ND
+45,45,Uganda,Low Income,Africa,Hybrid regime,East,ND
+46,46,Zambia,Low Income,Africa,Hybrid regime,South,ND
+47,47,Zimbabwe,Lower Middle Income,Africa,Authoritarian,South,ND
+48,48,China,China,China,Authoritarian,ND,ND
+49,49,China (Hong Kong),China,China,Hybrid regime,ND,ND
+50,50,Japan,High Income,East Asia,Full democracy,ND,ND
+51,51,South Korea,High Income,East Asia,Full democracy,ND,ND
+52,52,Taiwan,High Income,East Asia,Full democracy,ND,ND
+53,53,Albania,Upper Middle Income,Europe,Flawed democracy,ND,ND
+54,54,Austria,High Income,Europe,Full democracy,ND,ND
+55,55,Belarus,Upper Middle Income,Europe,Authoritarian,ND,ND
+56,56,Belgium,High Income,Europe,Flawed democracy,ND,ND
+57,57,Bermuda,High Income,Europe,Full democracy,ND,ND
+58,58,Bosnia and Herzegovina,Upper Middle Income,Europe,Hybrid regime,ND,ND
+59,59,Bulgaria,Upper Middle Income,Europe,Flawed democracy,ND,ND
+60,60,Cayman Islands,High Income,Europe,Full democracy,ND,ND
+61,61,Croatia,High Income,Europe,Flawed democracy,ND,ND
+62,62,Cyprus,High Income,Europe,Flawed democracy,ND,ND
+63,63,Czech Republic,High Income,Europe,Flawed democracy,ND,ND
+64,64,Denmark,High Income,Europe,Full democracy,ND,ND
+65,65,Estonia,High Income,Europe,Flawed democracy,ND,ND
+66,66,Finland,High Income,Europe,Full democracy,ND,ND
+67,67,France,High Income,Europe,Full democracy,ND,ND
+68,68,Germany,High Income,Europe,Full democracy,ND,ND
+69,69,Greece,High Income,Europe,Flawed democracy,ND,ND
+70,70,Greenland,High Income,Europe,Full democracy,ND,ND
+71,71,Hungary,High Income,Europe,Flawed democracy,ND,ND
+72,72,Iceland,High Income,Europe,Full democracy,ND,ND
+73,73,Ireland,High Income,Europe,Full democracy,ND,ND
+74,74,Italy,High Income,Europe,Flawed democracy,ND,ND
+75,75,Kosovo,Upper Middle Income,Europe,ND,ND,ND
+76,76,Latvia,High Income,Europe,Flawed democracy,ND,ND
+77,77,Liechtenstein,High Income,Europe,ND,ND,ND
+78,78,Lithuania,High Income,Europe,Flawed democracy,ND,ND
+79,79,Luxembourg,High Income,Europe,Full democracy,ND,ND
+80,80,"Macedonia, FYR",Upper Middle Income,Europe,Flawed democracy,ND,ND
+81,81,Malta,High Income,Europe,Flawed democracy,ND,ND
+82,82,Monaco,High Income,Europe,ND,ND,ND
+83,83,Montenegro,Upper Middle Income,Europe,Flawed democracy,ND,ND
+84,84,Netherlands,High Income,Europe,Full democracy,ND,ND
+85,85,Norway,High Income,Europe,Full democracy,ND,ND
+86,86,Poland,High Income,Europe,Flawed democracy,ND,ND
+87,87,Portugal,High Income,Europe,Flawed democracy,ND,ND
+88,88,Romania,High Income,Europe,Flawed democracy,ND,ND
+89,89,Serbia,Upper Middle Income,Europe,Flawed democracy,ND,ND
+90,90,Slovak Republic,High Income,Europe,Flawed democracy,ND,ND
+91,91,Slovenia,High Income,Europe,Flawed democracy,ND,ND
+92,92,Spain,High Income,Europe,Full democracy,ND,ND
+93,93,Sweden,High Income,Europe,Full democracy,ND,ND
+94,94,Switzerland,High Income,Europe,Full democracy,ND,ND
+95,95,Ukraine,Lower Middle Income,Europe,Hybrid regime,ND,ND
+96,96,United Kingdom,High Income,Europe,Full democracy,ND,ND
+97,97,Antigua and Barbuda,High Income,Latin America,ND,ND,ND
+98,98,Argentina,Upper Middle Income,Latin America,Flawed democracy,ND,ND
+99,99,"Bahamas, The",High Income,Latin America,ND,ND,ND
+100,100,Belize,Upper Middle Income,Latin America,ND,ND,ND
+101,101,Bolivia,Lower Middle Income,Latin America,Hybrid regime,ND,ND
+102,102,Brazil,Upper Middle Income,Latin America,Flawed democracy,ND,ND
+103,103,Chile,High Income,Latin America,Full democracy,ND,ND
+104,104,Colombia,Upper Middle Income,Latin America,Flawed democracy,ND,ND
+105,105,Costa Rica,Upper Middle Income,Latin America,Full democracy,ND,ND
+106,106,Cuba,Upper Middle Income,Latin America,Authoritarian,ND,ND
+107,107,Curacao,High Income,Latin America,ND,ND,ND
+108,108,Dominican Republic,Upper Middle Income,Latin America,Flawed democracy,ND,ND
+109,109,Ecuador,Upper Middle Income,Latin America,Hybrid regime,ND,ND
+110,110,El Salvador,Lower Middle Income,Latin America,Hybrid regime,ND,ND
+111,111,Guatemala,Lower Middle Income,Latin America,Hybrid regime,ND,ND
+112,112,Guyana,Upper Middle Income,Latin America,Flawed democracy,ND,ND
+113,113,Haiti,Lower Middle Income,Latin America,Authoritarian,ND,ND
+114,114,Honduras,Lower Middle Income,Latin America,Hybrid regime,ND,ND
+115,115,Jamaica,Upper Middle Income,Latin America,Flawed democracy,ND,ND
+116,116,Mexico,Upper Middle Income,Latin America,Hybrid regime,ND,ND
+117,117,Nicaragua,Lower Middle Income,Latin America,Authoritarian,ND,ND
+118,118,Panama,High Income,Latin America,Flawed democracy,ND,ND
+119,119,Paraguay,Upper Middle Income,Latin America,Hybrid regime,ND,ND
+120,120,Peru,Upper Middle Income,Latin America,Hybrid regime,ND,ND
+121,121,Puerto Rico,High Income,Latin America,Full democracy,ND,ND
+122,122,St. Lucia,Upper Middle Income,Latin America,ND,ND,ND
+123,123,Suriname,Upper Middle Income,Latin America,Flawed democracy,ND,ND
+124,124,Trinidad and Tobago,High Income,Latin America,Flawed democracy,ND,ND
+125,125,Uruguay,High Income,Latin America,Full democracy,ND,ND
+126,126,Venezuela,Lower Middle Income,Latin America,Authoritarian,ND,ND
+127,127,Afghanistan,Low Income,Middle East,Authoritarian,ND,ND
+128,128,Armenia,Upper Middle Income,Middle East,Hybrid regime,ND,ND
+129,129,Azerbaijan,Upper Middle Income,Middle East,Authoritarian,ND,ND
+130,130,Bahrain,High Income,Middle East,Authoritarian,ND,ND
+131,131,Georgia,Upper Middle Income,Middle East,Hybrid regime,ND,ND
+132,132,Iran,Lower Middle Income,Middle East,Authoritarian,ND,ND
+133,133,Iraq,Upper Middle Income,Middle East,Authoritarian,ND,ND
+134,134,Israel,High Income,Middle East,Flawed democracy,ND,ND
+135,135,Jordan,Upper Middle Income,Middle East,Authoritarian,ND,ND
+136,136,Kuwait,High Income,Middle East,Authoritarian,ND,ND
+137,137,Lebanon,Lower Middle Income,Middle East,Authoritarian,ND,ND
+138,138,Palestine,Lower Middle Income,Middle East,Authoritarian,ND,ND
+139,139,Qatar,High Income,Middle East,Authoritarian,ND,ND
+140,140,Saudi Arabia,High Income,Middle East,Authoritarian,ND,ND
+141,141,Syrian Arab Republic,Low Income,Middle East,Authoritarian,ND,ND
+142,142,Turkey,Upper Middle Income,Middle East,Hybrid regime,ND,ND
+143,143,United Arab Emirates,High Income,Middle East,Authoritarian,ND,ND
+144,144,Yemen,Low Income,Middle East,Authoritarian,ND,ND
+145,145,ND,,ND,ND,ND,ND
+146,146,Canada,High Income,North America,Full democracy,ND,ND
+147,147,United States,High Income,North America,Flawed democracy,ND,ND
+148,148,Virgin Islands (U.S.),High Income,North America,Full democracy,ND,ND
+149,149,Australia,High Income,Pacific,Full democracy,ND,ND
+150,150,French Polynesia,High Income,Pacific,Full democracy,ND,ND
+151,151,Marshall Islands,Upper Middle Income,Pacific,ND,ND,ND
+152,152,Nauru,High Income,Pacific,ND,ND,ND
+153,153,New Caledonia,High Income,Pacific,Full democracy,ND,ND
+154,154,New Zealand,High Income,Pacific,Full democracy,ND,ND
+155,155,Papua New Guinea,Lower Middle Income,Pacific,Hybrid regime,ND,ND
+156,156,Solomon Islands,Lower Middle Income,Pacific,ND,ND,ND
+157,157,Kazakhstan,Upper Middle Income,Russia and Central Asia,Authoritarian,ND,ND
+158,158,Kyrgyz Republic,Lower Middle Income,Russia and Central Asia,Authoritarian,ND,ND
+159,159,Mongolia,Lower Middle Income,Russia and Central Asia,Flawed democracy,ND,ND
+160,160,Russia,Upper Middle Income,Russia and Central Asia,Authoritarian,ND,ND
+161,161,Tajikistan,Lower Middle Income,Russia and Central Asia,Authoritarian,ND,ND
+162,162,Uzbekistan,Lower Middle Income,Russia and Central Asia,Authoritarian,ND,ND
+163,163,Bangladesh,Lower Middle Income,South Asia,Hybrid regime,ND,ND
+164,164,Bhutan,Lower Middle Income,South Asia,Hybrid regime,ND,ND
+165,165,India,Lower Middle Income,South Asia,Flawed democracy,ND,ND
+166,166,Maldives,Upper Middle Income,South Asia,ND,ND,ND
+167,167,Nepal,Lower Middle Income,South Asia,Hybrid regime,ND,ND
+168,168,Pakistan,Lower Middle Income,South Asia,Hybrid regime,ND,ND
+169,169,Sri Lanka,Lower Middle Income,South Asia,Flawed democracy,ND,ND
+170,170,Cambodia,Lower Middle Income,South East Asia,Authoritarian,ND,ND
+171,171,Indonesia,Lower Middle Income,South East Asia,Flawed democracy,ND,ND
+172,172,Laos,Lower Middle Income,South East Asia,Authoritarian,ND,ND
+173,173,Malaysia,Upper Middle Income,South East Asia,Flawed democracy,ND,ND
+174,174,Myanmar,Lower Middle Income,South East Asia,Authoritarian,ND,ND
+175,175,Philippines,Lower Middle Income,South East Asia,Flawed democracy,ND,ND
+176,176,Singapore,High Income,South East Asia,Flawed democracy,ND,ND
+177,177,Thailand,Upper Middle Income,South East Asia,Flawed democracy,ND,ND
+178,178,Timor-Leste,Lower Middle Income,South East Asia,ND,ND,ND
+179,179,Vietnam,Lower Middle Income,South East Asia,Authoritarian,ND,ND
+180,180,Oman,High Income,Middle East,Authoritarian,ND,ND
+181,181,Guadeloupe,High Income,Latin America,Full democracy,ND,French
+182,182,Martinique,High Income,Latin America,Full democracy,ND,French
+183,183,Reunion,High Income,Africa,Full democracy,East,French
+184,184,Turkmenistan,Low Income,Russia and Central Asia,Authoritarian,ND,ND
+185,185,Brunei,High Income,South East Asia,Authoritarian,ND,ND
+186,186,Macao,High Income,China,Authoritarian,ND,ND
+187,187,Western Sahara,Lower Middle Income,Africa,Authoritarian,North,ND

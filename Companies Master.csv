@@ -1,0 +1,913 @@
+ID,Company.Name,Subsidiary.Name,Search,Share,Company.Type,Source,Notes,Country.of.Headquarters,Rystad.Upstream.Industry.Segment,Type.of.Subsidiary,Hydrocarbons.Production.in.2022..Oil..Gas..Condensate..NGL.,Production.Countries,Fracking,Tar.Sands,Coalbed.Methane,Extra.Heavy.Oil,Ultra.Deepwater,Arctic,Unconventional.Production,Resources.under.Development.and.Field.Evaluation.as.of.September.2023,Expansion.Countries,Unconventional.Expansion,X1.5�.C.Expansion.Overshoot.based.on.IEA.NZE..2021.2022.,Exploration.CAPEX.3.year.average..2021.2023.,Exploration.Countries,Fossil.Fuel.Share.of.Revenue,Data.Description,Reporting.Year,Project.Names,Project.Risks,Project.Descriptions,Remarks,GOGEL.ID,Upstream.Row.ID,RIC
+1,Government of Saudi Arabia,Saudi Arabian Oil Company (Saudi Aramco),Saudi Arabian Oil(Saudi Aramco|Aramco),0.81,Parent,,,Saudi Arabia,NOC,,"4798,2","Neutral Zone (Saudi Arabia/Kuwait), Saudi Arabia","0,21%",0%,0%,0%,0%,0%,"0,21%","16802,18","Neutral Zone (Saudi Arabia/Kuwait), Saudi Arabia","2,88%","44,3%","2765,84",Saudi Arabia,"99,23%",exact number,FY22,,,,,100001,548,2222.SE
+2,PJSC Gazprom,PJSC Gazprom,Gazprom,1,Parent,,,Russia,NOC,,"3176,82","Bolivia, Iraq, Libya, Netherlands, Russia, United Kingdom, Uzbekistan, Vietnam","3,39%",0%,0%,0%,0%,"66,35%","66,39%","10734,7","Russia, Uzbekistan","80,28%","25,89%","542,7","Bolivia, Libya, Netherlands, Russia, United Kingdom, Venezuela, Vietnam","95,23%",exact lower bound,FY22,"Nord Stream 2, Amazon Oil and Gas Drilling","Environmental Destruction, Social Harm",https://gogel.org/lookup/100002,,100002,480,GAZP.MM
+3,Ministry of Petroleum of Iran,National Iranian Oil Company (NIOC),National Iranian(NIOC),1,Parent,,,Iran,NOC,,"2822,63","Azerbaijan, Iran, United Kingdom",0%,0%,0%,0%,0%,0%,0%,"6426,64",Iran,not applicable,"58,64%","47,8","Azerbaijan, Iran, United Kingdom",90%,estimated lower bound interval,,Southern Gas Corridor,"Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100003,,100003,385,4296684146
+4,State-owned Assets Supervision and Administration Commission of the State Council,China National Petroleum Corporation (CNPC),China National Petroleum Corporation(CNPC),1,Parent,,,China,INOC,,"2238,76","Algeria, Angola, Australia, Azerbaijan, Brazil, Cameroon, Canada, China, Colombia, Ecuador, Egypt, Gabon, Indonesia, Iraq, Kazakhstan, Mexico, Mongolia, Nigeria, Russia, South Sudan, Syria, Trinidad and Tobago, United Kingdom, USA, Yemen","16,45%","0,18%","0,21%","3,51%","0,51%","1,56%","22,42%","6483,61","Brazil, Canada, China, Indonesia, Iraq, Kazakhstan, Niger, Qatar, Russia, UAE, Venezuela","72,45%","57,15%","5913,28","Afghanistan, Australia, Brazil, Canada, China, Ecuador, Indonesia, Kazakhstan, Mongolia, Myanmar, Niger, Oman, Peru, Russia, South Sudan, Sudan, Thailand, UAE, Uzbekistan, Venezuela","99,18%",exact number,FY22,"Scarborough Gas, Cabo Delgado, Yamal LNG and Arctic LNG 2, Myanmar Military, Alberta Tar Sands, Amazon Oil and Gas Drilling, Xinjiang","Environmental Destruction, Litigation, Social Harm, Conflict/Violence",https://gogel.org/lookup/100045,,100045,108,ChiNaP.UNL
+5,State-owned Assets Supervision and Administration Commission of the State Council,PetroChina Company Ltd,PetroChina,1,Parent,,,China,INOC,Subsidiary,"2008,35","Algeria, Australia, Canada, Chad, China, Indonesia, Iraq, Kazakhstan, Niger, Oman, Peru, Turkmenistan, UAE, Uzbekistan, Venezuela, Vietnam","18,34%","0,2%","0,23%","3,13%",0%,0%,"21,9%","4699,82","Canada, China, Indonesia, Iraq, Kazakhstan, Niger, UAE","72,29%","73,3%","5885,5","Australia, Brazil, Canada, China, Indonesia, Kazakhstan, Niger, Oman, Peru, Venezuela","88,6%",estimated lower bound,FY22,"Scarborough Gas, Alberta Tar Sands, Amazon Oil and Gas Drilling, Xinjiang","Environmental Destruction, Litigation, Social Harm, Conflict/Violence",https://gogel.org/lookup/100004,,100004,110,601857.SS
+6,Exxon Mobil Corporation,Exxon Mobil Corporation,Exxon Mobil(ExxonMobil),1,Parent,,,USA,Major,,"1633,88","Angola, Argentina, Australia, Azerbaijan, Canada, Equatorial Guinea, Germany, Guyana, Indonesia, Iraq, Kazakhstan, Malaysia, Mozambique, Netherlands, Nigeria, Papua New Guinea, Qatar, Russia, Thailand, UAE, United Kingdom, USA, Yemen","24,18%","10,37%","0,04%","0,7%","4,44%","2,46%","42,19%","7929,12","Angola, Argentina, Azerbaijan, Brazil, Canada, Guyana, Indonesia, Iraq, Kazakhstan, Netherlands, Nigeria, Papua New Guinea, Qatar, UAE, USA","66,74%","55,2%","1355,4","Angola, Argentina, Australia, Azerbaijan, Brazil, Canada, China, Colombia, Republic of the Congo, Cyprus, Egypt, Equatorial Guinea, Germany, Ghana, Greece, Guyana, Indonesia, Iraq, Ireland, Kazakhstan, Malaysia, Mauritania, Mozambique, Namibia, Netherlands, Nigeria, Nigeria/Sao Tome and Principe, Papua New Guinea, Romania, Russia, Somalia, Suriname, Tanzania, Thailand, United Kingdom, USA, Vietnam","92,32%",exact lower bound,FY22,"Vaca Muerta, Guyana Offshore, Cabo Delgado, Alberta Tar Sands, Permian Basin","Conflict/Violence, Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100006,,100006,222,XOM.N
+7,PJSC Rosneft Oil Company,PJSC Rosneft Oil Company,Rosneft,1,Parent,,,Russia,NOC,,"1606,62","Egypt, Iraq, Kazakhstan, Russia",0%,0%,0%,"1,14%",0%,"19,49%","19,49%","2019,62","Brazil, Russia","32,77%","78,14%","646,1","Brazil, Egypt, Iraq, Kazakhstan, Mozambique, Myanmar, Russia, Venezuela, Vietnam",90%,estimated lower bound interval,FY22,,,,,100005,485,ROSN.MM
+8,Chevron Corporation,Chevron Corporation,Chevron,1,Parent,,,USA,Major,,"1317,5","Angola, Argentina, Australia, Bangladesh, Canada, China, Republic of the Congo, Equatorial Guinea, Indonesia, Iraq, Israel, Kazakhstan, Myanmar, Neutral Zone (Saudi Arabia/Kuwait), Nigeria, Thailand, United Kingdom, USA, Venezuela","30,13%","1,59%",0%,"4,35%","6,46%","0,23%","42,76%","5914,17","Angola, Argentina, Canada, Equatorial Guinea, Israel, Kazakhstan, USA","78,07%","53,85%","1040,81","Angola, Argentina, Australia, Bangladesh, Brazil, Canada, China, Colombia, Republic of the Congo, Cyprus, Egypt, Equatorial Guinea, Indonesia, Iraq, Israel, Kazakhstan, Mexico, Myanmar, Namibia, Nigeria, Suriname, Thailand, United Kingdom, USA, Venezuela","92,64%",estimated lower bound,FY22,"Scarborough Gas, Vaca Muerta, Alberta Tar Sands, Permian Basin","Litigation, Environmental Destruction, Social Harm",https://gogel.org/lookup/100008,,100008,105,CVX.N
+9,Shell plc,Shell plc,Shell,1,Parent,,,United Kingdom,Major,,"1249,27","Argentina, Australia, Bolivia, Brazil, Brunei, Canada, China, Egypt, Germany, Iraq, Italy, Kazakhstan, Malaysia, Netherlands, Nigeria, Norway, Oman, Peru, Qatar, Russia, Syria, Trinidad and Tobago, Tunisia, UAE, United Kingdom, USA","3,76%","0,84%","4,68%","2,43%","17,54%","0,97%","30,2%","5653,5","Argentina, Australia, Brazil, Brunei, Canada, Egypt, Kazakhstan, Malaysia, Netherlands, Nigeria, Norway, Oman, Qatar, Syria, Trinidad and Tobago, United Kingdom, USA","36,1%","66,47%","2015,42","Albania, Algeria, Argentina, Australia, Barbados, Bolivia, Brazil, Brunei, Bulgaria, Canada, China, Colombia, Cyprus, Egypt, Germany, Indonesia, Italy, Kazakhstan, Malaysia, Mauritania, Mexico, Myanmar, Namibia, Netherlands, Nigeria, Norway, Oman, Philippines, Qatar, Russia, Sao Tome and Principe, Somalia, South Africa, Suriname, Tanzania, Thailand, Trinidad and Tobago, United Kingdom, USA, Uruguay","84,28%",estimated lower bound,FY22,"Scarborough Gas, Vaca Muerta, Alberta Tar Sands, Verde Island Passage, South Africa Offshore","Social Harm, Environmental Destruction, Litigation",https://gogel.org/lookup/100007,,100007,560,SHEL.L
+10,Ministry of Oil of Kuwait,Kuwait Petroleum Corporation (KPC),Kuwait Petroleum Corporation(KPC),1,Parent,,,Kuwait,NOC,,"1212,49","Australia, Canada, China, Egypt, Indonesia, Kuwait, Malaysia, Neutral Zone (Saudi Arabia/Kuwait), Norway, Pakistan, Yemen","0,53%",0%,0%,"1,54%",0%,0%,"2,07%","2114,29","Australia, Canada, Kuwait, Malaysia, Neutral Zone (Saudi Arabia/Kuwait), Norway, Pakistan","1,76%","14,2%","257,66","Australia, Canada, China, Egypt, Indonesia, Kuwait, Malaysia, Norway, Pakistan, United Kingdom","98,92%",exact lower bound,FY20-21,,,,,100009,337,IPO-KUWP.KW
+11,Government of Abu Dhabi,Abu Dhabi National Oil Company (ADNOC),Abu Dhabi National Oil Company(ADNOC),0.77,Parent,,,UAE,NOC,,"1118,79",UAE,"0,03%",0%,0%,0%,0%,0%,"0,03%","8997,61",UAE,"0,16%","92,73%","20,59","Azerbaijan, UAE",90%,estimated lower bound interval,,,,,,100012,6,ADNOC*
+12,BP plc,BP plc,BP,1,Parent,,,United Kingdom,Major,,"1060,78","Algeria, Angola, Argentina, Australia, Azerbaijan, Bolivia, Canada, Egypt, India, Indonesia, Iraq, Kazakhstan, Mexico, Norway, Oman, Russia, Trinidad and Tobago, UAE, United Kingdom, USA","18,08%","0,54%",0%,0%,"8,04%","0,08%","26,74%","2546,69","Angola, Argentina, Azerbaijan, Egypt, India, Indonesia, Mauritania, Mexico, Norway, Trinidad and Tobago, UAE, United Kingdom, USA","60,45%","49,81%","858,43","Angola, Argentina, Australia, Azerbaijan, Bolivia, Brazil, Canada, Egypt, Gambia, India, Indonesia, Iraq, Kazakhstan, Libya, Mauritania, Mexico, Mozambique, Myanmar, Norway, Oman, Russia, Sao Tome and Principe, Senegal, Trinidad and Tobago, UAE, United Kingdom, USA, Venezuela, Vietnam","89,36%",estimated lower bound,FY22,"Scarborough Gas, Greater Tortue Ahmeyim, Vaca Muerta, Southern Gas Corridor, Barents Sea, Permian Basin","Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100010,,100010,67,BP.L
+13,Government of Algeria,Sonatrach SpA,Sonatrach,1,Parent,,Holding 100%,Algeria,NOC,,"989,78","Algeria, Peru","0,51%",0%,0%,0%,0%,0%,"0,51%","1335,8",Algeria,not applicable,"37,83%","724,73","Algeria, Libya, Niger, Peru, Tunisia",90%,estimated lower bound interval,FY21,Amazon Oil and Gas Drilling,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100015,,100015,582,Sonatrach136.UNL
+14,Government of Qatar,QatarEnergy,QatarEnergy,1,Parent,,Government of Quatar investor N/A share,Qatar,NOC,,"982,07","Angola, Argentina, Brazil, Republic of the Congo, Qatar","0,12%",0%,0%,0%,"0,69%",0%,"0,81%","16517,84","Argentina, Brazil, Qatar, South Africa, USA","1,15%","41,78%","324,93","Angola, Argentina, Brazil, Canada, Republic of the Congo, Cote d'Ivoire, Cyprus, Egypt, Guyana, Kenya, Lebanon, Mexico, Morocco, Mozambique, Namibia, Oman, Qatar, South Africa, Suriname","96,48%",exact number,FY22,"Vaca Muerta, Guyana Offshore, South Africa Offshore","Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100013,,100013,506,QATAR205.UNL
+15,TotalEnergies SE,TotalEnergies SE,TotalEnergies(Total Energies|Total Solar),1,Parent,,,France,Major,,"974,21","Algeria, Angola, Argentina, Australia, Azerbaijan, Bolivia, Brazil, Brunei, Canada, China, Colombia, Republic of the Congo, Denmark, Egypt, Gabon, Indonesia, Iraq, Italy, Kazakhstan, Libya, Myanmar, Netherlands, Nigeria, Norway, Oman, Qatar, Russia, Syria, Thailand, UAE, United Kingdom, USA, Venezuela, Yemen","4,86%","4,06%","0,95%","0,22%","7,4%","5,42%","22,9%","7966,52","Angola, Argentina, Australia, Brazil, Denmark, Egypt, Iraq, Mexico, Mozambique, Nigeria, Norway, Oman, Papua New Guinea, Qatar, Russia, South Africa, UAE, Uganda, United Kingdom, USA","32,11%","57,14%","988,57","Algeria, Angola, Argentina, Australia, Azerbaijan, Bolivia, Brazil, Brunei, Bulgaria, Canada, China, Colombia, Republic of the Congo, Cote d'Ivoire, Cyprus, Denmark, Egypt, Gabon, Greece, Guyana, Iraq, Italy, Kazakhstan, Kenya, Lebanon, Libya, Malaysia, Mauritania, Mexico, Montenegro, Myanmar, Namibia, Netherlands, Nigeria, Nigeria/Sao Tome and Principe, Norway, Oman, Papua New Guinea, Qatar, Russia, Senegal, South Africa, Suriname, Syria, Thailand, Trinidad and Tobago, UAE, Uganda, United Kingdom, USA, Venezuela, Yemen",90%,estimated lower bound interval,FY22,"Vaca Muerta, Guyana Offshore, EACOP, Cabo Delgado, Yamal LNG and Arctic LNG 2, Alberta Tar Sands, Amazon Oil and Gas Drilling, Barents Sea, South Africa Offshore","Conflict/Violence, Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100011,,100011,631,TTEF.PA
+16,PJSC LUKOIL,PJSC LUKOIL,LUKOIL,1,Parent,,,Russia,Integrated,,"903,45","Azerbaijan, Republic of the Congo, Egypt, Iraq, Kazakhstan, Mexico, Russia, Uzbekistan",0%,"1,54%",0%,"0,2%",0%,"15,27%","17,01%","1582,74","Cameroon, Republic of the Congo, Egypt, Iraq, Kazakhstan, Russia, UAE, Uzbekistan","26,83%","60,92%","451,46","Azerbaijan, Cameroon, Egypt, Iraq, Kazakhstan, Mexico, Nigeria, Norway, Romania, Russia, UAE, Uzbekistan",90%,estimated lower bound interval,FY22,Southern Gas Corridor,"Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100016,,100016,483,LKOH.MM
+17,Petroleo Brasileiro SA – Petrobras,Petroleo Brasileiro SA – Petrobras,Petroleo Brasileiro(Petrobras),1,Parent,,,Brazil,NOC,,"864,87","Argentina, Bolivia, Brazil, Mexico, USA","0,42%",0%,0%,"6,69%","73,74%",0%,"80,85%","9571,66",Brazil,"94,07%","61,63%","654,09","Argentina, Bolivia, Brazil, Colombia, USA, Venezuela","98,81%",estimated lower bound,FY22,"Vaca Muerta, Amazon Oil and Gas Drilling","Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100014,,100014,460,PETR3.SA
+18,Mexico,Petroleos Mexicanos (PEMEX),Petroleos Mexicanos(PEMEX),1,Parent,,"Ownership data not available, wikipedia",Mexico,NOC,,"831,25",Mexico,"0,29%",0%,0%,"16,22%",0%,0%,"16,51%","1444,12",Mexico,"56,35%",100%,"2599,43",Mexico,"93,15%",exact lower bound,FY21,,,,,100017,462,5000089102
+19,ConocoPhillips,ConocoPhillips,ConocoPhillips,1,Parent,,,USA,Independent,,"743,93","Australia, Canada, China, Indonesia, Libya, Malaysia, Norway, Qatar, USA","59,27%","3,42%","6,66%","0,36%",0%,"12,61%","82,31%","3724,79","Canada, China, Malaysia, Norway, Qatar, USA","73,75%","76,49%","1053,77","Argentina, Australia, Cambodia, Canada, China, Colombia, Indonesia, Libya, Malaysia, Norway, Qatar, USA",100%,exact number,FY22,"Alberta Tar Sands, Permian Basin, Willow and NPR-A","Environmental Destruction, Social Harm",https://gogel.org/lookup/100025,,100025,139,COP.N
+20,Eni SpA,Eni SpA,Eni,1,Parent,,,Italy,Major,,"736,91","Algeria, Angola, Australia, China, Republic of the Congo, Cote d'Ivoire, Egypt, Ghana, Indonesia, Iraq, Italy, Kazakhstan, Libya, Mexico, Mozambique, Nigeria, Norway, Oman, Pakistan, Timor-Leste, Tunisia, Turkmenistan, UAE, United Kingdom, USA, Venezuela","0,22%",0%,0%,"1,03%","1,16%","6,78%","8,24%","3307,36","Angola, Republic of the Congo, Cote d'Ivoire, Egypt, Ghana, Italy, Kazakhstan, Libya, Mexico, Nigeria, Norway, Qatar, UAE, United Kingdom, USA, Venezuela","15,77%","70,99%","1010,69","Albania, Algeria, Angola, Argentina, Australia, Bahrain, Canada, China, Republic of the Congo, Cote d'Ivoire, Cyprus, Egypt, Gabon, Ghana, Indonesia, Ireland, Italy, Kazakhstan, Kenya, Lebanon, Libya, Mexico, Montenegro, Morocco, Mozambique, Myanmar, Nigeria, Norway, Oman, Pakistan, South Africa, Timor-Leste, Tunisia, UAE, Ukraine, United Kingdom, USA, Venezuela, Vietnam","93,95%",exact lower bound,FY22,"Cabo Delgado, Barents Sea","Conflict/Violence, Environmental Destruction, Social Harm, Litigation",https://gogel.org/lookup/100019,,100019,206,ENI.MI
+21,Government of Norway,Equinor ASA,Equinor,0.67,Parent,,,Norway,INOC,,"736,46","Algeria, Angola, Argentina, Azerbaijan, Brazil, Canada, Libya, Nigeria, Norway, Russia, United Kingdom, USA","10,67%",0%,0%,"1,66%","4,7%","18,81%","35,84%","3295,84","Angola, Argentina, Azerbaijan, Brazil, Canada, Norway, United Kingdom, USA","64,5%","70,62%","1139,57","Algeria, Angola, Argentina, Australia, Azerbaijan, Brazil, Canada, Colombia, Indonesia, Ireland, Libya, Mexico, Nicaragua, Nigeria, Norway, Russia, South Africa, Suriname, Tanzania, United Kingdom, USA, Venezuela","95,89%",exact lower bound,FY22,"Vaca Muerta, Barents Sea","Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100018,,100018,217,EQNR.OL
+22,State-owned Assets Supervision and Administration Commission of the State Council,CNOOC Ltd,CNOOC,1,Parent,,,China (Hong Kong),INOC,,"733,67","Argentina, Australia, Bolivia, Brazil, Canada, China, Colombia, Guyana, Indonesia, Iraq, Mexico, Nigeria, Trinidad and Tobago, UAE, United Kingdom, USA","2,59%","3,75%","3,55%","8,25%","12,42%",0%,"30,56%","4904,08","Argentina, Australia, Brazil, Canada, China, Guyana, Indonesia, Mexico, Russia, UAE, Uganda, United Kingdom, USA","54,11%","65,92%","3216,45","Argentina, Australia, Bolivia, Brazil, Canada, China, Colombia, Republic of the Congo, Gabon, Guyana, Indonesia, Ireland, Mexico, Mozambique, Nigeria, Papua New Guinea, Russia, Senegal, Trinidad and Tobago, Uganda, United Kingdom, USA, Vietnam","97,91%",exact number,FY22,"Scarborough Gas, Vaca Muerta, Guyana Offshore, EACOP, Yamal LNG and Arctic LNG 2, Alberta Tar Sands, Xinjiang","Litigation, Social Harm, Conflict/Violence, Environmental Destruction",https://gogel.org/lookup/100020,,100020,126,600938.SS
+23,State-owned Assets Supervision and Administration Commission of the State Council,China Petrochemical Corporation (Sinopec Group),China Petrochemical Corporation(Sinopec),1,Parent,,,China,INOC,,"635,78","Algeria, Angola, Australia, Azerbaijan, Brazil, Cameroon, Canada, Colombia, Ecuador, Egypt, Gabon, Iraq, Kazakhstan, Mongolia, Nigeria, South Sudan, Syria, Trinidad and Tobago, United Kingdom, USA, Yemen","10,86%","1,6%","4,6%","9,6%","4,02%",0%,"30,68%","2275,48","Angola, Brazil, Cameroon, Canada, China, Egypt, Gabon, Kazakhstan, Nigeria, Qatar, Russia, USA",83%,"82,19%","2416,34","Angola, Argentina, Australia, Brazil, Cameroon, Canada, China, Colombia, Ecuador, Egypt, Gabon, Indonesia, Iraq, Kazakhstan, Mexico, Mongolia, Nigeria, Nigeria/Sao Tome and Principe, Russia, South Sudan, Syria, Trinidad and Tobago, United Kingdom, USA, Venezuela, Yemen","70,27%",estimated lower bound,FY22,"Alberta Tar Sands, Amazon Oil and Gas Drilling, Xinjiang","Environmental Destruction, Social Harm, Conflict/Violence",https://gogel.org/lookup/100050,,100050,112,600028.SS
+24,Government of Malaysia,Petroliam Nasional Bhd (Petronas),Petroliam Nasional Bhd(Petronas),1,Parent,,"Ownership data not available, wikipedia",Malaysia,INOC,,"592,27","Argentina, Australia, Azerbaijan, Brazil, Canada, Chad, Egypt, Indonesia, Iraq, Malaysia, Malaysia/Thailand, Myanmar, Oman, South Sudan, Turkmenistan, United Kingdom, Vietnam","8,77%",0%,"1,56%","0,29%","0,8%",0%,"11,41%","1922,34","Argentina, Brazil, Brunei, Canada, Indonesia, Iraq, Malaysia, Malaysia/Thailand","33,06%","52,52%","595,63","Angola, Argentina, Australia, Azerbaijan, Brazil, Brunei, Canada, Republic of the Congo, Egypt, Gabon, Gambia, Indonesia, Ireland, Italy, Malaysia, Malaysia/Thailand, Mexico, Myanmar, Oman, South Sudan, Suriname, Turkmenistan, UAE, USA, Venezuela, Vietnam","94,27%",exact lower bound,FY22,Vaca Muerta,"Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100021,,100021,465,IPO-PETO.KL
+25,PAO NOVATEK,PAO NOVATEK,NOVATEK,1,Parent,,,Russia,Industrial,,"566,06",Russia,0%,0%,0%,0%,0%,"86,5%","86,5%","4112,23",Russia,100%,0%,"172,93","Lebanon, Montenegro, Russia","99,93%",exact lower bound,FY22,Yamal LNG and Arctic LNG 2,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100023,,100023,439,NVTK.MM
+26,Occidental Petroleum Corporation,Occidental Petroleum Corporation,Occidental(Oxy),1,Parent,,,USA,Independent,,"526,61","Algeria, Bolivia, Oman, Qatar, UAE, USA","53,62%",0%,"0,08%",3%,"6,6%",0%,"63,3%","2011,11","UAE, USA","96,28%","79,7%","403,02","Algeria, Bolivia, Canada, Colombia, Libya, Oman, Peru, Qatar, UAE, USA, Yemen","89,65%",estimated lower bound,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100022,,100022,414,OXY.N
+27,PJSC Surgutneftegas,PJSC Surgutneftegas,Surgutneftegas,1,Parent,,,Russia,Integrated,,"478,93",Russia,"0,36%",0%,0%,0%,0%,0%,"0,36%","75,95",Russia,"0,35%",100%,"360,94",Russia,100%,exact number,FY22,,,,,100027,487,SNGS.MM
+28,State-owned Assets Supervision and Administration Commission of the State Council,China Petroleum & Chemical Corporation (Sinopec Corp),Don’t search this one,1,Parent,,,China,NOC,Subsidiary,"478,71","Angola, China, Colombia, Ecuador, Gabon, Indonesia, Kazakhstan, Mexico, Russia","11,85%",0%,"0,47%","12,22%",0%,0%,"24,55%","1664,25","Angola, China, Gabon, Russia","89,52%","93,3%","2346,99","Angola, Brazil, China, Ecuador, Gabon, Indonesia, Kazakhstan, Mexico, Russia","94,54%",estimated lower bound,FY22,"Amazon Oil and Gas Drilling, Xinjiang","Environmental Destruction, Social Harm, Conflict/Violence",https://gogel.org/lookup/100024,,100024,113,600028.SS
+29,Canadian Natural Resources Ltd (CNRL),Canadian Natural Resources Ltd (CNRL),Canadian Natural Resources(CNRL),1,Parent,,,Canada,Independent,,"463,82","Canada, Cote d'Ivoire, United Kingdom","20,6%","52,91%",0%,"9,5%",0%,0%,"83,01%","989,99","Canada, South Africa",100%,"89,87%","73,26","Canada, Cote d'Ivoire, South Africa, United Kingdom","98,77%",estimated lower bound,FY22,"Alberta Tar Sands, South Africa Offshore","Environmental Destruction, Social Harm, Litigation",https://gogel.org/lookup/100028,,100028,84,CNQ.TO
+30,Turkmengaz State Concern,Turkmengaz State Concern,Turkmengaz,1,Parent,,Ownership data not available,Turkmenistan,NOC,,"436,28",Turkmenistan,0%,0%,0%,0%,0%,0%,0%,0,,0%,not applicable,0,,90%,estimated lower bound interval,,,,,,100033,647,4295962727
+31,EOG Resources Inc,EOG Resources Inc,EOG Resources,1,Parent,,,USA,Independent,,"410,56","Trinidad and Tobago, USA","95,9%",0%,"0,18%",0%,0%,0%,"96,08%","1945,66","Trinidad and Tobago, USA","98,16%","79,86%","374,3","Australia, China, Oman, Trinidad and Tobago, USA","99,54%",exact lower bound,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100031,,100031,213,EOG.N
+32,Petoro AS,Petoro AS,Petoro,1,Parent,,Ownership data not available,Norway,NOC,,"381,18",Norway,0%,0%,0%,0%,0%,"20,51%","20,51%","686,6",Norway,"69,83%","70,71%","189,03","Iceland, Norway",/,not applicable,FY22,Barents Sea,"Environmental Destruction, Litigation",https://gogel.org/lookup/100029,,100029,453,4297758571
+33,Government of India,Oil and Natural Gas Corporation Ltd (ONGC),Oil and Natural Gas(ONGC),0.59,Parent,,,India,INOC,,"372,41","Azerbaijan, Brazil, Colombia, India, Myanmar, Russia, South Sudan, Syria, UAE, Venezuela, Vietnam","0,76%",0%,"0,74%","1,13%","1,57%","5,36%","9,57%","1758,42","Azerbaijan, Brazil, India, Mozambique, Myanmar, Russia, UAE, Venezuela","30,82%","58,7%","1286,88","Azerbaijan, Bangladesh, Colombia, India, Israel, Kazakhstan, Libya, Myanmar, Russia, South Sudan, Venezuela, Vietnam","99,96%",estimated lower bound,FY22-23,"Cabo Delgado, Myanmar Military","Conflict/Violence, Environmental Destruction, Social Harm",https://gogel.org/lookup/100026,,100026,417,ONGC.NS
+34,EQT Corporation,EQT Corporation,EQT,1,Parent,,,USA,Independent,,"369,61",USA,"99,99%",0%,0%,0%,0%,0%,"99,99%","2656,27",USA,100%,"39,12%","55,9",USA,"99,82%",estimated lower bound,FY22,,,,,100034,216,EQT.N
+35,Southwestern Energy Company,Southwestern Energy Company,Southwestern Energy Company,1,Parent,,,USA,Independent,,"343,35",USA,"99,99%",0%,0%,0%,0%,0%,"99,99%","1434,01",USA,100%,"64,62%","46,21",USA,100%,exact number,FY22,,,,,100054,585,SWN.N
+36,Nigerian National Petroleum Company Ltd (NNPC),Nigerian National Petroleum Company Ltd (NNPC),Nigerian National Petroleum Company(NNPC),1,Parent,,Ownership data not available,Nigeria,NOC,,"336,08",Nigeria,0%,0%,0%,0%,"1,56%",0%,"1,56%","1554,23",Nigeria,not applicable,"85,36%","26,2",Nigeria,90%,estimated lower bound interval,FY21,,,,,100032,398,5000009711
+37,Petroleos de Venezuela SA (PDVSA),Petroleos de Venezuela SA (PDVSA),Petroleos de Venezuela(PDVSA),1,Parent,,Ownership data not available,Venezuela,NOC,,"309,98",Venezuela,0%,0%,0%,"31,38%",0%,0%,"31,38%","2346,03",Venezuela,"54,51%","67,79%","3,87","Cuba, Venezuela",90%,estimated lower bound interval,,,,,,100030,461,PDVSA.UNL
+38,Pioneer Natural Resources Company,Pioneer Natural Resources Company,Pioneer Natural Resources,1,Parent,,Ownership data not available,USA,Independent,,"297,37",USA,"98,44%",0%,0%,0%,0%,0%,"98,44%","1485,09",USA,100%,"81,94%","2084,79","Nigeria, USA",100%,exact number,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100058,The company is in the process of being acquired by Exxon Mobil Corporation (also on GOGEL). The transaction is expected to close in H1 2024.,100058,478,4295916203
+39,Chesapeake Energy Corporation,Chesapeake Energy Corporation,Chesapeake,1,Parent,,,USA,Independent,,"295,63",USA,"99,79%",0%,0%,0%,0%,0%,"99,79%","984,65",USA,100%,"64,92%","35,02",USA,100%,exact number,FY22,,,,,100046,104,CHK.O
+40,Government of Indonesia,PT Pertamina (Persero),Pertamina,1,Parent,,Ownership data not available,Indonesia,INOC,,"295,22","Algeria, Indonesia, Iraq, Malaysia, USA","0,27%",0%,"0,01%","12,29%",0%,0%,"12,57%","454,51","Indonesia, Iraq, USA","5,27%","97,32%","294,85","Algeria, Colombia, Indonesia, Libya, Malaysia, USA","80,29%",estimated lower bound,FY22,,,,,100035,501,5000067369
+41,Cenovus Energy Inc,Cenovus Energy Inc,Cenovus,1,Parent,,,Canada,Integrated,,"286,67","Canada, China, Indonesia","7,18%","72,23%",0%,"2,48%",0%,0%,"81,89%","1210,11","Canada, Indonesia","88,45%","46,22%","40,74","Canada, China, Indonesia","97,99%",estimated lower bound,FY22,Alberta Tar Sands,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100053,,100053,97,CVE.TO
+42,Suncor Energy Inc,Suncor Energy Inc,Suncor,1,Parent,,,Canada,Integrated,,"279,47","Canada, Libya, Norway, United Kingdom",0%,"87,7%",0%,0%,0%,0%,"87,7%","555,42",Canada,"75,65%","24,1%",38,"Canada, Libya, Norway, Syria, United Kingdom","94,32%",exact lower bound,FY22,Alberta Tar Sands,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100039,,100039,601,SU.N
+43,"Ministry of Oil, Iraq",Basra Oil Company (BOC),Basra Oil Company,1,Parent,,,Iraq,NOC,,"274,44",Iraq,0%,0%,0%,0%,0%,0%,0%,"1066,56",Iraq,not applicable,"6,16%",0,,90%,estimated lower bound interval,,,,,,100038,39,4298119863
+44,National Oil Corporation (NOC),National Oil Corporation (NOC),Lybia National Oil(NOC),1,Parent,,Government of Lybia Holding N/A,Libya,NOC,,"274,13","Algeria, Libya",0%,0%,0%,0%,0%,0%,0%,"346,93",Libya,not applicable,100%,"16,07",Libya,90%,estimated lower bound interval,,,,,,100085,386,5000074094
+45,Coterra Energy Inc,Coterra Energy Inc,Coterra,1,Parent,,,USA,Independent,,"273,03",USA,"99,82%",0%,0%,0%,0%,0%,"99,82%","1090,24",USA,100%,"72,5%","57,74",USA,"99,28%",exact lower bound,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100056,,100056,143,CTRA.K
+46,Devon Energy Corporation,Devon Energy Corporation,Devon Energy,1,Parent,,,USA,Independent,,"270,24",USA,"99,31%",0%,0%,0%,0%,0%,"99,31%","1320,66",USA,100%,"74,14%","311,61","Canada, USA",100%,exact number,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100051,,100051,167,
+47,Ministerio de Hacienda y Crédito Público de Colombia,Ecopetrol,Ecopetrol,0.88,Parent,,,Colombia,NOC,,"247,6","Colombia, Peru, USA","5,39%",0%,0%,"47,6%","0,57%",0%,"53,57%","447,56","Brazil, Colombia, USA","98,4%","67,19%","502,45","Brazil, Colombia, Mexico, USA","91,46%",estimated lower bound,FY22,"Amazon Oil and Gas Drilling, Permian Basin","Environmental Destruction, Social Harm",https://gogel.org/lookup/100041,,100041,185,ECO.CN
+48,JSC Uzbekneftegaz,JSC Uzbekneftegaz,Uzbekneftegaz,1,Parent,,Ownership data not available,Uzbekistan,NOC,,"237,05","Kyrgyzstan, Turkmenistan, Uzbekistan",0%,0%,0%,"0,02%",0%,0%,"0,02%","21,67",Uzbekistan,not applicable,"67,44%","123,99",Uzbekistan,"84,06%",exact lower bound,FY22,,,,,100036,317,4296892170
+49,Repsol SA,Repsol SA,Repsol,1,Parent,,,Spain,Integrated,,"234,49","Algeria, Bolivia, Brazil, Canada, Colombia, Indonesia, Libya, Norway, Peru, Spain, Trinidad and Tobago, United Kingdom, USA, Venezuela","22,59%",0%,0%,"1,42%","8,01%","0,35%","32,36%","1396,04","Brazil, Canada, Colombia, Iraq, Norway, Trinidad and Tobago, United Kingdom, USA, Venezuela","87,97%","86,67%","253,16","Algeria, Barbados, Bolivia, Brazil, Bulgaria, Canada, Colombia, Ecuador, Greece, Guyana, Indonesia, Libya, Malaysia, Mexico, Morocco, Norway, Peru, Russia, Timor-Leste, Trinidad and Tobago, United Kingdom, USA, Venezuela, Vietnam","78,28%",estimated lower bound,FY22,"Guyana Offshore, Amazon Oil and Gas Drilling, Willow and NPR-A","Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100037,,100037,518,REP.MC
+50,Wintershall Dea AG,Wintershall Dea AG,Wintershall Dea,1,Parent,,Ownership data not available,Germany,Independent,,"233,66","Algeria, Argentina, Denmark, Egypt, Germany, Libya, Mexico, Netherlands, Norway, Russia, United Kingdom","27,13%",0%,0%,"0,41%",0%,"58,6%","60,67%","662,84","Argentina, Egypt, Mexico, Netherlands, Norway, UAE","29,68%","95,32%","170,16","Argentina, Brazil, Denmark, Egypt, Germany, Libya, Mexico, Netherlands, Norway, Russia, UAE, United Kingdom","99,56%",exact lower bound,FY22,"Vaca Muerta, Barents Sea","Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100044,,100044,689,4298497340
+51,PTT PCL,PTT Exploration and Production Public Company Ltd (PTTEP),PTT(PTTEP),0.64,Parent,,,Thailand,INOC,,"233,03","Algeria, Indonesia, Kazakhstan, Malaysia, Malaysia/Thailand, Myanmar, Oman, Thailand, UAE, Vietnam","8,31%",0%,0%,"0,6%",0%,0%,"8,91%","656,36","Malaysia, Malaysia/Thailand, Mozambique, Myanmar, Oman, Vietnam",not applicable,"53,3%","195,85","Angola, Australia, Brazil, Indonesia, Malaysia, Mexico, Myanmar, Oman, Thailand, UAE, Vietnam","98,26%",estimated lower bound,FY22,"Cabo Delgado, Myanmar Military","Conflict/Violence, Environmental Destruction, Social Harm",https://gogel.org/lookup/100055,,100055,503,PTTEP.BK
+52,Ovintiv Inc,Ovintiv Inc,Ovintiv,1,Parent,,,USA,Independent,,"232,06","Canada, USA","99,34%",0%,0%,0%,0%,0%,"99,34%","978,97","Canada, USA",100%,"72,69%","93,59","Canada, USA","99,45%",exact lower bound,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100043,,100043,430,OVV.N
+53,Antero Resources Corporation,Antero Resources Corporation,Antero,1,Parent,,,USA,Independent,,"223,5",USA,100%,0%,0%,0%,0%,0%,100%,"1123,9",USA,100%,"76,36%","26,79",USA,100%,exact number,FY22,,,,,100040,20,AR.N
+54,OQ SAOC,Energy Development Oman SAOC (EDO),Energy Development Oman(EDO),1,Parent,,,Oman,Exploration Company,,"220,09",Oman,"1,17%",0%,0%,"14,38%",0%,0%,"15,55%","69,38",Oman,not applicable,"38,67%","109,24",Oman,90%,estimated lower bound interval,,,,,,100042,201,5079227074
+55,PJSC Tatneft,PJSC Tatneft,Tatneft,1,Parent,,,Russia,Integrated,,"217,02","Russia, Syria",0%,"11,87%",0%,"0,84%",0%,0%,"12,72%","47,76",Russia,"72,31%",100%,"60,25","Libya, Russia, Syria","92,85%",exact lower bound,FY22,,,,,100048,488,TATN.MM
+56,Continental Resources Inc,Continental Resources Inc,Continental Resources,1,Parent,,Ownership data not available,USA,Independent,,"212,35",USA,"98,82%",0%,0%,0%,0%,0%,"98,82%","1138,81",USA,100%,"74,62%","285,88",USA,100%,exact number,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100061,,100061,141,CLR^K22
+57,INPEX Corporation,INPEX Corporation,INPEX,1,Parent,,,Japan,Industrial,,"205,23","Angola, Australia, Azerbaijan, Canada, Egypt, Indonesia, Japan, Kazakhstan, Malaysia, Mexico, Norway, Russia, Timor-Leste, UAE, USA, Vietnam","1,9%",0%,0%,"0,16%","1,5%",0%,"3,57%","1124,54","Australia, Azerbaijan, Indonesia, Iraq, Norway, Russia, UAE","3,86%","57,58%","192,62","Angola, Australia, Azerbaijan, Democratic Republic of the Congo, Indonesia, Iraq, Japan, Kazakhstan, Malaysia, Mexico, Norway, Russia, Timor-Leste, UAE, USA, Venezuela","99,1%",exact lower bound,FY22,Barents Sea,"Environmental Destruction, Litigation",https://gogel.org/lookup/100047,,100047,291,1605.T
+58,Sovereign Wealth Fund Samruk-Kazyna JSC,JSC NC KazMunayGas (KMG),KazMunayGas(KMG),0.67,Parent,,,Kazakhstan,NOC,,"200,19",Kazakhstan,0%,0%,0%,"3,66%",0%,0%,"3,66%","470,61",Kazakhstan,not applicable,"4,79%","82,86","Kazakhstan, Romania, Russia","96,19%",exact number,FY22,,,,,100073,313,KMGZ.KZ
+59,YPF SA,YPF SA,YPF,1,Parent,,Ownership data not available,Argentina,NOC,,"184,35",Argentina,"46,74%",0%,0%,"1,1%",0%,0%,"47,85%","693,16",Argentina,100%,"93,3%","123,42","Argentina, Uruguay","92,52%",estimated lower bound,FY22,Vaca Muerta,"Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100057,,100057,695,YPFDm.BA
+60,Tourmaline Oil Corp,Tourmaline Oil Corp,Tourmaline,1,Parent,,,Canada,Independent,,"183,3",Canada,"95,93%",0%,"0,32%",0%,0%,0%,"96,25%","982,82",Canada,100%,82%,"52,35",Canada,100%,exact number,FY22,,,,,100074,633,TOU.TO
+61,Diamondback Energy Inc,Diamondback Energy Inc,Diamondback,1,Parent,,,USA,Independent,,"177,11",USA,"99,2%",0%,0%,0%,0%,0%,"99,2%","946,89",USA,100%,"66,98%","1606,63",USA,"99,2%",exact lower bound,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100067,,100067,169,FANG.O
+62,State Oil Company of the Azerbaijan Republic (SOCAR),State Oil Company of the Azerbaijan Republic (SOCAR),State Oil Company of the Azerbaijan Republic (SOCAR),1,Parent,,Ownership data not available,Azerbaijan,NOC,,"177,07",Azerbaijan,0%,0%,0%,"0,42%",0%,0%,"0,42%","658,99",Azerbaijan,not applicable,0%,"84,46",Azerbaijan,"99,1%",exact lower bound,FY22,Southern Gas Corridor,"Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100059,,100059,594,5000637032
+63,National Oil and Gas authority of Bahrain,Bapco Energies BSC,Bapco,1,Parent,,Holding 100%,Bahrain,NOC,,"176,63","Bahrain, Saudi Arabia",0%,0%,0%,0%,0%,0%,0%,0,,0%,not applicable,"2,32",Bahrain,"99,44%",exact lower bound,FY22,,,,Formerly known as The Oil and Gas Holding BSC (c) (nogaholding),100080,38,5041754295
+64,APA Corporation,APA Corporation,APA Corporation,1,Parent,,,USA,Independent,,"174,45","Egypt, United Kingdom, USA","51,88%",0%,0%,0%,0%,0%,"51,88%","657,5","Egypt, USA","96,84%","52,48%","336,39","Canada, Dominican Republic, Egypt, Suriname, United Kingdom, USA, Uruguay",100%,exact number,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100049,,100049,21,APA.O
+65,JSC Independent Petroleum Company (NNK),JSC Independent Petroleum Company (NNK),Independent Petroleum Company (NNK),1,Parent,,Not found,Russia,Independent,,"172,68","Kazakhstan, Russia",0%,0%,0%,"0,11%",0%,"11,66%","11,77%","0,11",Russia,not applicable,100%,"13,87",Russia,90%,estimated lower bound interval,,,,,,100276,312,5000038176
+66,Hilcorp Energy Company,Hilcorp Energy Company,Hilcorp,1,Parent,,Ownership data not available,USA,Independent,,"167,51",USA,"12,54%",0%,"11,69%",0%,0%,"34,4%","58,62%","59,48",USA,100%,"57,92%","58,49",USA,90%,estimated lower bound interval,,,,,,100077,278,4298009222
+67,OMV AG,OMV AG,OMV,1,Parent,,,Austria,INOC,,"164,75","Austria, Iraq, Libya, Malaysia, New Zealand, Norway, Romania, Russia, Tunisia, UAE, Yemen",0%,0%,0%,"4,05%",0%,"23,55%","27,6%","680,86","Iraq, Malaysia, Norway, Romania, UAE","3,68%","69,33%","187,49","Australia, Austria, Bulgaria, Georgia, Iraq, Libya, Malaysia, Mexico, New Zealand, Norway, Romania, Russia, Tunisia, UAE, Yemen","88,77%",estimated lower bound,FY22,"OMV Espionage Scandal, Barents Sea","Environmental Destruction, Social Harm, Litigation",https://gogel.org/lookup/100064,,100064,422,OMVV.VI
+68,Hess Corporation,Hess Corporation,Hess,1,Parent,,,USA,Independent,,"159,67","Guyana, Libya, Malaysia, Malaysia/Thailand, USA","42,69%",0%,0%,0%,"19,04%",0%,"61,73%","1565,58","Guyana, Malaysia, USA","99,57%","82,93%","465,89","Canada, Colombia, Denmark, Guyana, Indonesia, Libya, Malaysia, Malaysia/Thailand, Suriname, USA",100%,exact number,FY22,Guyana Offshore,"Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100062,The company is in the process of being acquired by Chevron Corporation (also on GOGEL). The transaction is expected to close in H1 2024.,100062,273,HES.N
+69,Woodside Energy Group Ltd,Woodside Energy Group Ltd,Woodside,1,Parent,,,Australia,Independent,,"159,13","Australia, Canada, Trinidad and Tobago, USA",0%,0%,0%,"1,18%","4,87%",0%,"6,06%","2384,75","Australia, Mexico, Senegal, USA","11,29%","13,19%","234,65","Australia, Barbados, Bulgaria, Canada, Republic of the Congo, Egypt, Ireland, Mexico, Myanmar, Senegal, South Korea, Timor-Leste, Trinidad and Tobago, United Kingdom, USA","98,74%",exact lower bound,FY22,Scarborough Gas,"Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100083,,100083,690,WDS.AX
+70,Marathon Oil Corporation,Marathon Oil Corporation,Marathon,1,Parent,,,USA,Independent,,"157,55","Equatorial Guinea, USA","82,31%",0%,0%,0%,0%,0%,"82,31%","687,36",USA,100%,"67,04%","166,68","Equatorial Guinea, USA",100%,exact number,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100052,,100052,360,MRO
+71,Mubadala Petroleum LLC (Mubadala Energy),Mubadala Petroleum LLC (Mubadala Energy),Mubadala,1,Parent,,Ownership data not available,UAE,Investor,,"153,37","Egypt, Indonesia, Israel, Malaysia, Oman, Qatar, Russia, Thailand",0%,0%,0%,"3,29%","8,12%",0%,"11,4%","25,04",Israel,"82,51%","55,69%","22,07","Egypt, Indonesia, Israel, Malaysia, Russia, Thailand, Vietnam",90%,estimated lower bound interval,,,,,,100068,379,5073354781
+72,Range Resources Corporation,Range Resources Corporation,Range Resources,1,Parent,,,USA,Independent,,"147,45",USA,"99,77%",0%,0%,0%,0%,0%,"99,77%","1129,5",USA,100%,"54,92%","34,21",USA,"99,76%",estimated lower bound,FY22,,,,,100060,510,RRC.N
+73,Ascent Resources LLC,Ascent Resources LLC,Ascent Resources,1,Parent,,Ownership data not available,USA,Independent,,"147,09",USA,100%,0%,0%,0%,0%,0%,100%,"577,21",USA,100%,"75,34%","12,64",USA,100%,exact number,FY22,,,,,100065,29,5046318393
+74,North Oil Company (NOC),North Oil Company (NOC),North Oil Company(NOC),1,Parent,,Ownership data not available,Iraq,NOC,,"135,96",Iraq,0%,0%,0%,"0,13%",0%,0%,"0,13%",0,,0%,not applicable,"0,04",Iraq,NA,data unavailable,,,,,,100071,404,5037357373
+75,Aethon Energy Management LLC,Aethon Energy Management LLC,Aethon,1,Parent,,Ownership data not available,USA,Investor,,"135,71",USA,"99,41%",0%,0%,0%,0%,0%,"99,41%","1069,14",USA,100%,"73,16%","185,9",USA,90%,estimated lower bound interval,,,,,,100096,9,5045915930
+76,ARC Resources Ltd,ARC Resources Ltd,ARC Resources,1,Parent,,,Canada,Independent,,"126,12",Canada,"99,44%",0%,0%,0%,0%,0%,"99,44%","801,7",Canada,100%,"72,83%","54,52",Canada,100%,exact number,FY22,,,,,100109,26,ARX.TO
+77,Endeavour Energy Resources LP,Endeavour Energy Resources LP,Endeavour,1,Parent,,Ownership data not available,USA,Independent,,"119,56",USA,"95,33%",0%,0%,0%,0%,0%,"95,33%","1149,06",USA,100%,"78,28%","298,35",USA,90%,estimated lower bound interval,,,,,,100097,197,4297131050
+78,Shaanxi Yanchang Petroleum (Group) Co Ltd,Shaanxi Yanchang Petroleum (Group) Co Ltd,Shaanxi Yanchang(SXYCPC),1,Parent,,Ownership data not available,China,Industrial,,"118,71",China,0%,0%,0%,0%,0%,0%,0%,0,,0%,not applicable,"0,87",China,"55,64%",estimated lower bound,FY22,,,,,100072,559,5000059947
+79,Empresa Publica de Hidrocarburos del Ecuador (EP Petroecuador),Empresa Publica de Hidrocarburos del Ecuador (EP Petroecuador),Empresa Publica de Hidrocarburos del Ecuador(Petroecuador),1,Parent,,Ownership data not available,Ecuador,NOC,,"114,54",Ecuador,0%,0%,0%,"14,12%",0%,0%,"14,12%",0,,0%,not applicable,"0,54",Ecuador,90%,estimated lower bound interval,,Amazon Oil and Gas Drilling,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100066,"As of January 2021, EP Petroecuador and upstream-focused Petroamazonas EP operate as one unified state-owned company under the name EP Petroecuador.",100066,194,5000452780
+80,Mitsui & Co Ltd,Mitsui & Co Ltd,Mitsui,1,Parent,,,Japan,Industrial,,"110,69","Australia, Equatorial Guinea, Indonesia, Italy, Oman, Qatar, Russia, Thailand, UAE, USA","19,32%",0%,"0,94%","0,65%",0%,0%,"20,92%","1188,49","Australia, Indonesia, Mozambique, Russia, UAE, USA, Vietnam","21,4%","17,96%","28,5","Argentina, Australia, Brazil, Indonesia, Malaysia, Myanmar, New Zealand, Oman, Russia, Thailand, United Kingdom, USA, Vietnam",NA,insufficient reporting,FY22-23,"Scarborough Gas, Cabo Delgado, Yamal LNG and Arctic LNG 2","Environmental Destruction, Litigation, Social Harm, Conflict/Violence",https://gogel.org/lookup/100078,,100078,375,8031.T
+81,CNX Resources Corporation,CNX Resources Corporation,CNX Resources,1,Parent,,,USA,Independent,,"110,66",USA,"92,26%",0%,"7,73%",0%,0%,0%,"99,99%","499,49",USA,100%,"53,46%","27,73",USA,100%,exact number,FY22,,,,,100086,127,CNX.N
+82,Aker BP ASA,Aker BP ASA,Aker BP,1,Parent,,,Norway,Independent,,"109,05",Norway,0%,0%,0%,0%,0%,"12,64%","12,64%","1110,77","Norway, United Kingdom","21,81%",100%,"456,64","Norway, United Kingdom",100%,exact number,FY22,Barents Sea,"Environmental Destruction, Litigation",https://gogel.org/lookup/100098,,100098,12,AKRBP.OL
+83,Blue Star Exploration Co.,Comstock Resources Inc,Comstock,0.67,Parent,,,USA,Independent,,"104,66",USA,"99,48%",0%,"0,01%",0%,0%,0%,"99,5%","550,5",USA,100%,"80,01%","77,05",USA,100%,exact number,FY22,,,,,100082,135,CRK.N
+84,Mewbourne Oil Company,Mewbourne Oil Company,Mewbourne,1,Parent,,Ownership data not available,USA,Independent,,"102,62",USA,"98,16%",0%,0%,0%,0%,0%,"98,16%","586,23",USA,100%,"85,32%","135,46",USA,90%,estimated lower bound interval,,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100102,,100102,369,4297930887
+85,Perenco SA,Perenco SA,Perenco,1,Parent,,Ownership data not available,France,Independent,,"99,43","Brazil, Cameroon, Chad, Colombia, Republic of the Congo, Democratic Republic of the Congo, Gabon, Guatemala, Mexico, Peru, Trinidad and Tobago, Tunisia, Turkey, United Kingdom, Venezuela, Vietnam",0%,0%,0%,"3,91%",0%,0%,"3,91%","198,33","Brazil, Cameroon, Republic of the Congo, Gabon, Vietnam",not applicable,"59,22%","66,68","Cameroon, Chad, Colombia, Republic of the Congo, Democratic Republic of the Congo, Egypt, Gabon, Peru, Trinidad and Tobago, Turkey, United Kingdom, Vietnam",90%,estimated lower bound interval,,Amazon Oil and Gas Drilling,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100088,,100088,450,4297451644
+86,Santos Ltd,Santos Ltd,Santos,1,Parent,,,Australia,Industrial,,"99,2","Australia, Papua New Guinea, Timor-Leste","0,06%",0%,"13,3%","0,82%","7,28%",0%,"21,47%","1386,61","Australia, Papua New Guinea, USA","35,83%","58,92%","271,07","Australia, Papua New Guinea, Timor-Leste, USA","98,84%",exact lower bound,FY22,"Narrabri CBM, Willow and NPR-A","Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100084,,100084,544,STO.AX
+87,Sonangol EP,Sonangol EP,Sonangol,1,Parent,,Ownership data not available,Angola,NOC,,"96,58","Angola, Brazil, Republic of the Congo, Iraq, Venezuela",0%,0%,0%,"0,61%","30,6%",0%,"31,22%","361,28",Angola,"33,9%","86,79%","130,67","Angola, Brazil, Republic of the Congo, Cuba","97,49%",exact lower bound,FY22,,,,,100070,581,5043378913
+88,PDC Energy Inc,PDC Energy Inc,PDC Energy,1,Parent,,Ownership data not available,USA,Independent,,"96,41",USA,"99,18%",0%,0%,0%,0%,0%,"99,18%",0,,0%,not applicable,"30,59",USA,"99,67%",exact lower bound,FY22,,,,,100094,443,5046050237
+89,NJSC Naftogaz of Ukraine,NJSC Naftogaz of Ukraine,Naftogaz,1,Parent,,Ownership data not available,Ukraine,NOC,,"92,98","Egypt, Ukraine",0%,0%,0%,0%,0%,0%,0%,0,,0%,not applicable,"15,51","Egypt, Ukraine","98,11%",exact lower bound,FY21,,,,,100079,399,4295918115
+90,Türkiye Petrolleri AO (TPAO),Türkiye Petrolleri AO (TPAO),Türkiye Petrolleri(TPAO),1,Parent,,Ownership data not available,Turkey,INOC,,"82,31","Azerbaijan, Iraq, Russia, Turkey",0%,0%,0%,"14,12%",0%,0%,"14,12%","874,21","Azerbaijan, Turkey","91,51%","97,81%","727,15","Afghanistan, Azerbaijan, Iraq, Russia, Turkey",90%,estimated lower bound interval,,Southern Gas Corridor,"Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100104,,100104,646,4296864278
+91,Oman Investment Authority,OQ SAOC,OQ,0.51,Parent,,,Oman,NOC,,81,"Kazakhstan, Oman","38,05%",0%,0%,"9,16%",0%,0%,"47,21%","71,55",Oman,not applicable,100%,"13,68","Kazakhstan, Oman","87,95%",exact number,FY22,,,,,100117,425,5000007790
+92,Rockcliff Energy LLC,Rockcliff Energy LLC,Rockcliff,1,Parent,,Ownership data not available,USA,Independent,,"80,28",USA,"99,11%",0%,0%,0%,0%,0%,"99,11%","437,73",USA,100%,"78,37%","83,45",USA,90%,estimated lower bound interval,,,,,,100106,531,5083313243
+93,Mitsubishi Corporation,Mitsubishi Corporation,Mitsubishi,1,Parent,,,Japan,Industrial,,"78,84","Australia, Brunei, Canada, Gabon, Indonesia, Iraq, Japan, Malaysia, Myanmar, Oman, Papua New Guinea, Russia, USA","43,14%",0%,0%,0%,0%,0%,"43,14%","301,24","Brunei, Canada, Indonesia, Iraq, USA","52,79%","52,86%","23,34","Australia, Brunei, Canada, China, Gabon, Indonesia, Malaysia, Myanmar, Russia, United Kingdom, Venezuela",NA,insufficient reporting,FY21-22,Scarborough Gas,"Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100089,,100089,374,8058.T
+94,Eni,Vaar Energi ASA,Vaar-(Vär-),0.8,Parent,,,Norway,Independent,Subsidiary,"77,17",Norway,0%,0%,0%,0%,0%,"52,01%","52,01%","621,4",Norway,"45,27%","40,98%","141,07",Norway,100%,exact number,FY22,Barents Sea,"Environmental Destruction, Litigation",https://gogel.org/lookup/100090,,100090,207,VAR.OL
+95,Civitas Resources Inc,Civitas Resources Inc,Civitas Resources,1,Parent,,,USA,E&P Company,,"75,21",USA,"99,63%",0%,0%,0%,0%,0%,"99,63%","706,06",USA,100%,"69,43%","56,61",USA,100%,exact number,FY22,,,,,100753,124,CIVI.K
+96,Harbour Energy plc,Harbour Energy plc,Harbour Energy,1,Parent,,,United Kingdom,Independent,,74,"Indonesia, United Kingdom, Vietnam",0%,0%,0%,0%,0%,0%,0%,"131,31","Mexico, United Kingdom",not applicable,"88,28%","156,57","Brazil, Falkland Islands (UK), Indonesia, Mexico, Norway, United Kingdom, Vietnam","98,54%",exact lower bound,FY22,,,,,100107,263,HBR.L
+97,Murphy Oil Corporation,Murphy Oil Corporation,Murphy,1,Parent,,,USA,Independent,,"72,85","Canada, USA","54,15%",0%,0%,0%,"19,24%",0%,"73,4%","251,34","Brunei, Canada, USA","91,99%","65,05%","108,63","Australia, Brazil, Brunei, Canada, Cote d'Ivoire, Mexico, USA, Vietnam","99,37%",exact lower bound,FY22,,,,,100100,381,MUR.N
+98,Gulfport Energy Corporation,Gulfport Energy Corporation,Gulfport,1,Parent,,,USA,Independent,,"70,79",USA,100%,0%,0%,0%,0%,0%,100%,"254,93",USA,100%,"49,81%","14,42",USA,100%,exact number,FY22,,,,,100099,259,GPOR.K
+99,Vietnam Oil and Gas Group (PetroVietnam),Vietnam Oil and Gas Group (PetroVietnam),Vietnam Oil and Gas(PetroVietnam),1,Parent,,,Vietnam,INOC,,"70,54","Algeria, Malaysia, Mongolia, Peru, Russia, Vietnam",0%,0%,0%,0%,0%,"15,82%","15,82%","429,25",Vietnam,not applicable,100%,"14,48","Cambodia, Republic of the Congo, Cuba, Malaysia, Mongolia, Peru, Russia, Venezuela, Vietnam",90%,estimated lower bound interval,,Amazon Oil and Gas Drilling,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100103,,100103,673,5000061087
+100,SM Energy Company,SM Energy Company,SM Energy,1,Parent,,,USA,Independent,,"67,2",USA,"99,5%",0%,0%,0%,0%,0%,"99,5%","379,63",USA,100%,"67,3%","123,85",USA,100%,exact number,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100110,,100110,572,SM.N
+101,Irkutsk Oil Company LLC,Irkutsk Oil Company LLC,Irkutsk Oil,1,Parent,,Ownership data not available,Russia,Independent,,"65,43",Russia,0%,0%,0%,0%,0%,0%,0%,0,,0%,not applicable,"4,9",Russia,90%,estimated lower bound interval,,,,,,100101,299,4298010207
+102,National Fuel Gas Company,National Fuel Gas Company,National Fuel Gas,1,Parent,,,USA,Industrial,,"64,55",USA,"97,7%",0%,0%,"2,01%",0%,0%,"99,71%","494,21",USA,100%,"52,21%","47,63",USA,"99,81%",estimated lower bound,FY21-22,,,,,100126,384,NFG.N
+103,Crescent Energy Company,Crescent Energy Company,Crescent Energy,1,Parent,,,USA,E&P Company,,"64,52",USA,"81,05%",0%,0%,0%,0%,0%,"81,05%","259,37",USA,100%,"74,78%","16,92",USA,"99,14%",estimated lower bound,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100667,,100667,148,CRGY.K
+104,PJSC RussNeft,PJSC RussNeft,RussNeft,1,Parent,,NK RUSSNEFT' PAO,Russia,Integrated,,"62,64",Russia,0%,0%,0%,"2,29%",0%,0%,"2,29%","102,29",Russia,not applicable,100%,"7,06",Russia,"98,69%",exact lower bound,FY22,,,,,100113,486,RNFT.MM
+105,PT Medco Daya Abadi Lestari,PT Medco Daya Abadi Lestari,MedcoEnergi(Medco),0.52,Parent,,,Indonesia,Industrial,,"61,37","Indonesia, Oman, Thailand, Vietnam, Yemen",0%,0%,0%,"1,9%",0%,0%,"1,9%","94,78",Indonesia,not applicable,"89,38%","18,15","Indonesia, Libya, Malaysia, Mexico, Oman, Tanzania, Thailand, Vietnam, Yemen","96,73%",estimated lower bound,FY22,,,,,100143,500,MEDC.JK
+106,Trinity Operating LLC,Trinity Operating LLC,Trinity,1,Parent,,Ownership data not available,USA,Independent,,"60,76",USA,"99,96%",0%,0%,0%,0%,0%,"99,96%","108,96",USA,100%,"52,37%","63,77",USA,90%,estimated lower bound interval,,,,,,100175,639,5083317758
+107,Korea Gas Corporation (KOGAS),Korea Gas Corporation (KOGAS),Korea Gas(KOGAS),1,Parent,,Not found,South Korea,Industrial,,"60,65","Australia, Canada, Indonesia, Iraq, Mozambique, Myanmar, Qatar, Uzbekistan","0,17%",0%,"8,27%",0%,"0,3%",0%,"8,75%","36,36","Canada, Indonesia, Myanmar","22,01%","80,92%","7,24","Australia, Cyprus, Indonesia, Myanmar","95,04%",exact lower bound,FY21,"Cabo Delgado, Myanmar Military","Conflict/Violence, Environmental Destruction, Social Harm",https://gogel.org/lookup/100114,,100114,332,036460.KS
+108,Delek Group Ltd,Delek Group Ltd,Delek,1,Parent,,Ownership data not available,Israel,Industrial,,"60,55","Israel, United Kingdom, USA",0%,0%,0%,"0,66%","50,85%",0%,"51,51%","237,24","Israel, United Kingdom","81,83%","93,25%","61,44","Canada, Cyprus, Iceland, Israel, United Kingdom, USA","99,9%",exact lower bound,FY22,,,,,100118,162,DLEKG.TA
+109,Encino Energy LLC,Encino Energy LLC,Encino,1,Parent,,Ownership data not available,USA,Independent,,"59,91",USA,100%,0%,0%,0%,0%,0%,100%,"248,4",USA,100%,"82,94%","33,42",USA,90%,estimated lower bound interval,,,,,,100123,196,5040046971
+110,Government of Pakistan,Oil and Gas Development Company Ltd (OGDC),Oil and Gas Development(OGDCL),0.67,Parent,,,Pakistan,NOC,,"59,18",Pakistan,0%,0%,0%,0%,0%,0%,0%,"20,09",Pakistan,0%,100%,"61,46","Pakistan, UAE",100%,exact number,FY22,,,,,100091,416,OGDC.PSX
+111,Diversified Energy Company PLC,Diversified Energy Company PLC,Diversified Energy,1,Parent,,,USA,Independent,,"59,15",USA,"69,08%",0%,"1,57%",0%,0%,0%,"70,65%","90,45",USA,100%,"49,78%","2,87",USA,100%,exact number,FY22,,,,,100153,173,DEC.L
+112,Government of Dubai,Emirates National Oil Company Ltd (ENOC) LLC,Emirates National Oil(ENOC),1,Parent,,Holding 100%,UAE,INOC,,"58,94","Egypt, Iraq, Turkmenistan",0%,0%,0%,0%,0%,0%,0%,"387,85","Egypt, Iraq, Turkmenistan",not applicable,100%,"3,43","Afghanistan, Algeria, Egypt, Iraq, Turkmenistan",NA,data unavailable,,,,,,100127,190,5000023925
+113,CrownQuest Operating LLC,CrownQuest Operating LLC,CrownQuest,1,Parent,,Ownership data not available,USA,Independent,,"57,73",USA,"98,66%",0%,0%,0%,0%,0%,"98,66%","449,94",USA,100%,"72,97%","90,5",USA,90%,estimated lower bound interval,,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100177,,100177,155,4298088714
+114,Chord Energy Corporation,Chord Energy Corporation,Chord,1,Parent,,,USA,Independent,,"57,01",USA,"99,91%",0%,0%,0%,0%,0%,"99,91%","312,4",USA,100%,"69,93%","16,19",USA,"99,99%",exact lower bound,FY22,,,,"After merging with Oasis Petroleum Inc (also on GOGEL) in July 2022, Whiting Petroleum Corporation now operates under the name of Chord Energy Corporation. Historical production and exploration figures for the period before the merger take only Whiting Petroleum's activities into account.",100140,118,CHRD.O
+115,KAR Group,KAR Group,KAR,1,Parent,,Ownership data not available,Iraq,NOC,,"55,71",Iraq,0%,0%,0%,0%,0%,0%,0%,0,,0%,not applicable,0,,NA,data unavailable,,,,,,100719,321,5039718162
+116,Matador Resources Company,Matador Resources Company,Matador,1,Parent,,,USA,Independent,,"54,51",USA,100%,0%,0%,0%,0%,0%,100%,"354,74",USA,100%,"75,84%","101,32",USA,100%,exact number,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100157,,100157,363,MTDR.K
+117,PJSC Joint Stock Oil Company Bashneft,PJSC Joint Stock Oil Company Bashneft,Bashneft,1,Parent,,Russian - to be checked,Russia,Integrated,,"54,09",Russia,0%,0%,0%,0%,0%,"6,32%","6,32%","52,09",Russia,"99,17%","0,83%","98,15","Iraq, Myanmar, Russia",90%,estimated lower bound interval,,,,,,100150,482,BANE.MM
+118,Tecpetrol Internacional SLU,Tecpetrol Internacional SLU,Tecpetrol,1,Parent,,Ownership data not available,Spain,Industrial,,"53,67","Argentina, Bolivia, Colombia, Ecuador, Mexico, Peru, Venezuela","50,89%",0%,0%,"4,48%",0%,0%,"55,37%","187,6",Argentina,100%,"92,59%","21,1","Argentina, Colombia, Mexico, Peru",90%,estimated lower bound interval,FY22,"Vaca Muerta, Amazon Oil and Gas Drilling","Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100151,,100151,614,4296543172
+119,Whitecap Resources Inc,Whitecap Resources Inc,Whitecap,1,Parent,,,Canada,Independent,,"53,6",Canada,"59,91%",0%,0%,"0,96%",0%,0%,"60,87%","180,8",Canada,100%,"82,06%","16,31",Canada,"99,25%",exact lower bound,FY22,Alberta Tar Sands,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100206,,100206,687,WCP.TO
+120,Tug Hill Operating LLC,Tug Hill Operating LLC,Tug Hill,1,Parent,,Ownership data not available,USA,Independent,,"53,2",USA,100%,0%,0%,0%,0%,0%,100%,0,,0%,not applicable,"63,01",USA,90%,estimated lower bound interval,,,,,,100159,643,5042310913
+121,BKV Corporation LLC,BKV Corporation LLC,BKV,1,Parent,,Ownership data not available,USA,E&P Company,,"51,86",USA,"94,78%",0%,0%,0%,0%,0%,"94,78%","79,15",USA,100%,"57,11%","4,48",USA,90%,estimated lower bound interval,,,,,,100224,56,BKV.N
+122,Neptune Energy Group Ltd,Neptune Energy Group Ltd,Neptune,1,Parent,,,United Kingdom,Independent,,"50,56","Algeria, Egypt, Germany, Indonesia, Netherlands, Norway, United Kingdom","1,55%",0%,0%,"0,02%",0%,"6,71%","8,27%","114,08","Germany, Norway, United Kingdom","25,2%","68,55%","141,61","Australia, Denmark, Egypt, Germany, Indonesia, Netherlands, Norway, United Kingdom","99,13%",exact lower bound,FY22,Barents Sea,"Environmental Destruction, Litigation",https://gogel.org/lookup/100112,The company is in the process of being acquired by Eni SpA and Vaar Energi ASA (both on GOGEL). The transactions are expected to close in Q1 2024 and do not include Neptune's operations in Germany.,100112,393,4297282967
+123,The South Gas Company,The South Gas Company,South Gas Company,1,Parent,,Not found,Iraq,NOC,,"48,88",Iraq,0%,0%,0%,0%,0%,0%,0%,"159,12",Iraq,not applicable,0%,0,,NA,data unavailable,,,,,,100158,623,5035931212
+124,PureWest Energy LLC,PureWest Energy LLC,PureWest,1,Parent,,Ownership data not available,USA,Independent,,"48,63",USA,100%,0%,0%,0%,0%,0%,100%,0,,0%,not applicable,0,,90%,estimated lower bound interval,,,,,,100155,504,5082045265
+125,Callon Petroleum Company,Callon Petroleum Company,Callon,1,Parent,,Ownership data not available,USA,Independent,,"48,2",USA,"99,64%",0%,0%,0%,0%,0%,"99,64%","249,85",USA,100%,"69,86%","109,02",USA,100%,exact number,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100131,,100131,80,CPE.MX
+126,Crescent Point Energy Corp,Crescent Point Energy Corp,Crescent Point,1,Parent,,Not found,Canada,Independent,,"47,71","Canada, USA","88,01%",0%,0%,0%,0%,0%,"88,01%","313,01","Canada, USA",100%,"79,97%","39,3","Canada, USA","99,01%",exact lower bound,FY22,,,,,100136,151,5000056599
+127,Brunei Energy Services & Trading Sdn Bhd (BEST),Brunei Energy Services & Trading Sdn Bhd (BEST),Brunei Energy Services & Trading,1,Parent,,Ownership data not available,Brunei,NOC,,"47,49","Brunei, Malaysia",0%,0%,0%,0%,0%,0%,0%,"15,71",Brunei,100%,100%,"0,28",Brunei,90%,estimated lower bound interval,,,,,,100116,71,5074204587
+128,Government of India,Oil India Ltd,Oil India,0.57,Parent,,,India,INOC,,"47,33","India, Russia, USA, Venezuela","0,16%",0%,0%,"4,31%",0%,"13,05%","17,52%","239,65","India, Mozambique, Russia, Venezuela","13,21%","37,77%","198,17","Bangladesh, Gabon, India, Israel, Libya, Russia, USA, Venezuela","99,75%",exact lower bound,FY22-23,Cabo Delgado,"Conflict/Violence, Environmental Destruction, Social Harm",https://gogel.org/lookup/100163,,100163,418,OILI.NS
+129,Government of Abu Dhabi,Abu Dhabi National Energy Company PJSC (TAQA),Abu Dhabi National Energy Company(TAQA),0.77,Parent,,,UAE,Industrial,,"46,9","Canada, Iraq, Netherlands, United Kingdom","41,45%",0%,"3,91%","0,66%",0%,0%,"46,02%","52,12","Canada, Netherlands","98,81%","76,93%","18,57","Canada, Iraq, Netherlands, United Kingdom","96,24%",estimated lower bound,FY22,,,,,100124,5,TAQA.AD
+130,Polskie Gornictwo Naftowe i Gazownictwo SA (PGNiG),Polskie Gornictwo Naftowe i Gazownictwo SA (PGNiG),Polskie Gornictwo Naftowe i Gazownictwo(PGNiG),1,Parent,,Ownership data not available,Poland,INOC,,"46,21","Norway, Pakistan, Poland","3,33%",0%,"0,12%",0%,0%,"32,27%","35,73%",0,,0%,not applicable,"69,65","Norway, Pakistan, Poland, Ukraine","92,78%",exact lower bound,FY21,,,,The company was acquired by ORLEN SA (also on GOGEL) in November 2022.,100162,492,PGN.WA^22
+131,Exxon Mobil Corporation,Imperial Oil Ltd,Imperial Oil,1,Parent,,,Canada,Integrated,Subsidiary,"45,74",Canada,"3,41%","94,78%",0%,0%,0%,"1,51%","99,69%","298,42",Canada,"99,73%","23,2%","3,37",Canada,100%,exact number,FY22,Alberta Tar Sands,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100135,,100135,223,IMO.TO
+132,JSC NK Neftisa,JSC NK Neftisa,Neftisa,1,Parent,,Ownership data not available,Russia,Independent,,"45,7",Russia,0%,0%,0%,0%,0%,"3,74%","3,74%","38,94",Russia,not applicable,"20,56%","2,39",Russia,"99,96%",exact lower bound,FY22,,,,,100137,314,5001350072
+133,Enerplus Corporation,Enerplus Corporation,Enerplus,1,Parent,,Ownership data not available,Canada,Independent,,"45,2","Canada, USA","96,37%",0%,0%,0%,0%,0%,"96,37%","196,23",USA,100%,"70,18%","7,51","Canada, USA","99,98%",exact lower bound,FY22,,,,,100172,203,ERF.TO^F24
+134,"Bangladesh Oil, Gas & Mineral Corporation (Petrobangla)","Bangladesh Oil, Gas & Mineral Corporation (Petrobangla)","Bangladesh Oil, Gas & Mineral(Petrobangla)",1,Parent,,Ownership data not available,Bangladesh,NOC,,"45,04",Bangladesh,0%,0%,0%,0%,0%,0%,0%,0,,0%,not applicable,"59,6",Bangladesh,"99,24%",exact lower bound,FY21-22,,,,,100122,37,4296933506
+135,Government of Iraq,Missan Oil Company,Missan,1,Parent,,Holding 100%,Iraq,NOC,,"45,01",Iraq,0%,0%,0%,0%,0%,0%,0%,"300,98",Iraq,not applicable,"8,28%","0,04",Iraq,90%,estimated lower bound interval,,,,,,100133,373,5035929703
+136,BHP Group Ltd,BHP Group Ltd,BHP,1,Parent,,,Australia,Independent,,"44,24","Algeria, Australia, Trinidad and Tobago, USA",0%,0%,0%,"1,29%","12,51%",0%,"13,79%",0,,0%,not applicable,"169,38","Australia, Barbados, Canada, Egypt, Mexico, Trinidad and Tobago, United Kingdom, USA","20,36%",exact number,FY22-23,,,,The company's upstream oil & gas assets were acquired by Woodside Energy Group Ltd (also on GOGEL) in June 2022.,100076,51,BHP.AX
+137,Government of Pakistan,Pakistan Petroleum Ltd (PPL),Pakistan Petroleum,0.68,Parent,,,Pakistan,NOC,,"43,09",Pakistan,"1,82%",0%,0%,"0,28%",0%,0%,"2,1%","14,83",Pakistan,not applicable,"97,73%","79,14","Iraq, Pakistan, UAE, Yemen","99,2%",estimated lower bound,FY22,,,,,100119,433,PPL.PSX
+138,Pluspetrol Resources Corporation BV,Pluspetrol Resources Corporation BV,Pluspetrol,1,Parent,,Ownership data not available,Netherlands,Integrated,,"42,61","Angola, Argentina, Bolivia, Colombia, Ecuador, Peru, Venezuela","16,55%",0%,0%,"0,73%",0%,0%,"17,28%","50,98",Argentina,100%,"95,92%","40,02","Angola, Argentina, Bolivia, Colombia, Ecuador, Peru, Suriname",90%,estimated lower bound interval,,"Vaca Muerta, Amazon Oil and Gas Drilling","Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100156,,100156,490,4298332086
+139,Permian Resources Corporation,Permian Resources Corporation,Permian Resources,1,Parent,,,USA,Independent,,"42,41",USA,100%,0%,0%,0%,0%,0%,100%,"332,87",USA,100%,"71,28%","48,61",USA,100%,exact number,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100178,"The company, formerly known as Centennial Resource Development Inc, merged with Colgate Energy Partners III LLC (also on GOGEL) to form Permian Resources Corporation in September 2022.",100178,452,PR.N
+140,Energie Beheer Nederland BV,Energie Beheer Nederland BV,Energie Beheer,1,Parent,,Ownership data not available,Netherlands,NOC,,"41,45",Netherlands,0%,0%,0%,0%,0%,0%,0%,"39,07",Netherlands,not applicable,100%,"50,38",Netherlands,"99,74%",exact lower bound,FY22,,,,,100111,200,5040259400
+141,HG Energy LLC,HG Energy LLC,HG Energy,1,Parent,,Ownership data not available,USA,Independent,,"40,53",USA,100%,0%,0%,0%,0%,0%,100%,"197,15",USA,100%,"48,87%","50,02",USA,90%,estimated lower bound interval,,,,,,100197,274,5038682091
+142,Birch Operations Inc,Birch Operations Inc,Birch,1,Parent,,Ownership data not available,USA,Independent,,"40,42",USA,"99,87%",0%,0%,0%,0%,0%,"99,87%","247,07",USA,100%,"84,26%","118,43",USA,NA,data unavailable,,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100274,,100274,53,5082044882
+143,ITOCHU Corporation,ITOCHU Corporation,ITOCHU,1,Parent,,SEVERAL COMPANIES WITH SAME NAME,Japan,Industrial,,"40,09","Azerbaijan, Iraq, Oman, Qatar, Russia",0%,0%,0%,0%,0%,0%,0%,"323,4","Azerbaijan, Iraq, Russia",not applicable,"96,72%","1,25","Australia, Azerbaijan, Russia",NA,insufficient reporting,FY21-22,,,,,100166,301,8001.T
+144,California Resources Corporation,California Resources Corporation,California Resources Corporation,1,Parent,,Ownership data not available,USA,Independent,,"39,97",USA,"0,88%",0%,0%,"40,56%",0%,0%,"41,43%","0,08",USA,100%,0%,"3,67",USA,"98,52%",exact lower bound,FY22,,,,,100129,79,5000003870
+145,Azule Energy Holdings Ltd,Azule Energy Holdings Ltd,Azule,1,Parent,,Ownership data not available,Angola,Operating Company,,"39,88",Angola,0%,0%,0%,0%,"7,36%",0%,"7,36%","383,32",Angola,"40,22%","97,02%","61,14",Angola,90%,estimated lower bound interval,,,,,"The company is a standalone 50/50 JV between BP plc and Eni SpA, which has been set up to combine the two companies' Angolan E&P and LNG business activities.",100817,34,5083861565
+146,Caerus Oil and Gas LLC,Caerus Oil and Gas LLC,Caerus,1,Parent,,Ownership data not available,USA,Independent,,"39,84",USA,"99,72%",0%,0%,0%,0%,0%,"99,72%",0,,0%,not applicable,"4,75",USA,90%,estimated lower bound interval,,,,,,100146,77,5001431522
+147,Waterous Energy Fund,Strathcona Resources Ltd,Strathcona,0.91,Parent,,,Canada,E&P Company,,"39,68",Canada,"25,72%","55,2%",0%,"9,79%",0%,0%,"90,72%","211,78",Canada,"99,29%","92,69%","14,95",Canada,90%,estimated lower bound interval,,Alberta Tar Sands,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100378,,100378,596,SCR.TO
+148,JSC Zarubezhneft,JSC Zarubezhneft,Zarubezhneft,1,Parent,,Russian - to be checked,Russia,INOC,,"38,38","Russia, Uzbekistan, Vietnam",0%,0%,0%,0%,0%,"51,47%","51,47%",0,,0%,not applicable,"48,86","Cuba, Egypt, Indonesia, Russia, Vietnam","99,08%",exact lower bound,FY22,,,,,100184,318,4296633209
+149,Terra Energy Partners LLC,Terra Energy Partners LLC,Terra Energy,1,Parent,,Ownership data not available,USA,Independent,,"38,28",USA,100%,0%,0%,0%,0%,0%,100%,0,,0%,not applicable,"1,29",USA,90%,estimated lower bound interval,,,,,,100138,617,5050279862
+150,Peyto Exploration and Development Corp,Peyto Exploration and Development Corp,Peyto,1,Parent,,,Canada,Independent,,"37,82",Canada,"91,33%",0%,0%,0%,0%,0%,"91,33%","197,08",Canada,100%,"77,51%","16,65",Canada,100%,exact number,FY22,,,,,100188,471,PEY.TO
+151,Vital Energy Inc,Vital Energy Inc,Vital,1,Parent,,,USA,Independent,,"37,55",USA,"98,19%",0%,0%,0%,0%,0%,"98,19%","168,93",USA,100%,"74,61%","39,48",USA,"99,63%",exact lower bound,FY22,,,,"The company, formerly known as Laredo Petroleum Inc, rebranded to Vital Energy Inc in January 2023.",100142,676,VTLE.K
+152,PennEnergy Resources LLC,PennEnergy Resources LLC,PennEnergy,1,Parent,,Ownership data not available,USA,Independent,,"37,21",USA,100%,0%,0%,0%,0%,0%,100%,"187,78",USA,100%,"51,69%","14,72",USA,90%,estimated lower bound interval,,,,,,100167,447,5042186671
+153,United Energy Group Ltd,United Energy Group Ltd,United Energy Group,1,Parent,,Chinese - to be checked,China (Hong Kong),Independent,,"36,98","Egypt, Iraq, Oman, Pakistan, Yemen",0%,0%,0%,"0,99%",0%,0%,"0,99%","192,54","Iraq, Pakistan",not applicable,"99,97%","67,87","Egypt, Iraq, Oman, Pakistan",100%,exact number,FY22,,,,,100171,654,0467.HK
+154,Mari Petroleum Company Ltd,Mari Petroleum Company Ltd,Mari Petroleum,1,Parent,,,Pakistan,Independent,,"36,96",Pakistan,"0,29%",0%,0%,"0,48%",0%,0%,"0,77%","1,75",Pakistan,not applicable,100%,"47,43","Pakistan, UAE",100%,exact number,FY22,,,,,100141,361,MGAS.PSX
+155,MOL NyRt,MOL NyRt,MOL NyRt,1,Parent,,,Hungary,INOC,,"36,95","Angola, Azerbaijan, Croatia, Egypt, Hungary, Iraq, Kazakhstan, Pakistan, Russia, Syria","0,25%",0%,0%,0%,0%,0%,"0,25%","164,82","Angola, Azerbaijan, Croatia, Hungary, Iraq, Kazakhstan",not applicable,"16,56%","39,55","Angola, Azerbaijan, Croatia, Egypt, Hungary, Iraq, Norway, Pakistan, Romania, Russia, Syria, United Kingdom","92,6%",exact lower bound,FY22,,,,,100170,377,5082159928
+156,Sinochem Group Co Ltd,Sinochem Group Co Ltd,Sinochem,1,Parent,,Ownership data not available,China,INOC,,"36,87","Brazil, Colombia, Ecuador, Indonesia, Syria, UAE, USA","74,7%",0%,0%,"14,46%",0%,0%,"89,16%","91,36",USA,100%,"90,42%","33,58","Colombia, Ecuador, Indonesia, Syria, USA",NA,data unavailable,,"Amazon Oil and Gas Drilling, Permian Basin","Environmental Destruction, Social Harm",https://gogel.org/lookup/100182,,100182,567,4298149748
+157,Northern Oil and Gas Inc,Northern Oil and Gas Inc,Northern Oil and Gas,1,Parent,,,USA,Independent,,"36,61",USA,100%,0%,0%,0%,0%,0%,100%,"267,93",USA,100%,"63,74%","18,98",USA,100%,exact number,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100258,,100258,407,NOG.N
+158,Magnolia Oil & Gas Corporation,Magnolia Oil & Gas Corporation,Magnolia,1,Parent,,,USA,Independent,,"36,5",USA,93%,0%,0%,0%,0%,0%,93%,"211,25",USA,100%,"80,22%","9,25",USA,100%,exact number,FY22,,,,,100186,356,MGY.N
+159,Flywheel Energy LLC,Flywheel Energy LLC,Flywheel,1,Parent,,Ownership data not available,USA,Independent,,"35,68",USA,100%,0%,0%,0%,0%,0%,100%,0,,0%,not applicable,0,,90%,estimated lower bound interval,,,,,,100148,229,5078538009
+160,Vedanta Resources Ltd,Vedanta Resources Ltd,Vedanta,1,Parent,,,United Kingdom,Independent,,"35,57",India,"17,82%",0%,0%,0%,0%,0%,"17,82%","184,7",India,"15,97%","37,1%","436,41",India,10%,estimated lower bound interval,FY21-22,,,,,100161,665,VDAN.NS
+161,Earthstone Energy Inc,Earthstone Energy Inc,Earthstone,1,Parent,,Ownership data not available,USA,E&P Company,,"34,33",USA,100%,0%,0%,0%,0%,0%,100%,"369,86",USA,100%,"60,85%","21,76",USA,100%,exact number,FY22,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100361,The company is in the process of being acquired by Permian Resources Corporation (also on GOGEL). The transaction is expected to close in Q4 2023.,100361,183,4295912627
+162,Merit Energy Company LLC,Merit Energy Company LLC,Merit,1,Parent,,Ownership data not available,USA,Independent,,"34,27",USA,"57,71%",0%,0%,0%,0%,0%,"57,71%","0,45",USA,100%,0%,0,,90%,estimated lower bound interval,,,,,,100115,367,4296086541
+163,DNO ASA,DNO ASA,DNO,1,Parent,,,Norway,Independent,,"34,13","Iraq, Norway, United Kingdom, Yemen",0%,0%,0%,0%,0%,"6,18%","6,18%","82,79",Norway,"56,06%","98,42%","149,94","Iraq, Ireland, Netherlands, Norway, United Kingdom, Yemen",100%,exact number,FY22,Barents Sea,"Environmental Destruction, Litigation",https://gogel.org/lookup/100164,,100164,175,DNO.OL
+164,Osaka Gas Co Ltd (Daigas Group),Osaka Gas Co Ltd (Daigas Group),Osaka Gas(Daigas),1,Parent,,,Japan,Industrial,,"34,12","Australia, Norway, Oman, USA","89,03%",0%,0%,0%,0%,0%,"89,03%","319,58","Australia, Norway, Papua New Guinea, USA","96,54%","77,05%","43,43","Australia, Norway, Papua New Guinea, Timor-Leste, USA","74,59%",estimated lower bound,FY22-23,,,,,100228,429,9532.T
+165,Lundin Energy AB,Lundin Energy AB,Lundin,1,Parent,,Not found,Sweden,Independent,,"34,1",Norway,0%,0%,0%,0%,0%,0%,0%,0,,0%,not applicable,"132,2",Norway,NA,data unavailable,,,,,The company's upstream oil & gas assets were acquired by Aker BP ASA in June 2022. The company continues to be listed on GOGEL since it meets our 2021 production criterion.,100108,353,ORRON.ST
+166,Galp Energia SGPS SA,Galp Energia SGPS SA,Galp,1,Parent,,,Portugal,Integrated,,34,"Angola, Brazil, Republic of the Congo, Mozambique",0%,0%,0%,0%,"95,37%",0%,"95,37%","243,02",Brazil,100%,"48,8%","53,28","Angola, Brazil, Republic of the Congo, Namibia, Sao Tome and Principe, Venezuela","89,61%",estimated lower bound,FY22,Cabo Delgado,"Conflict/Violence, Environmental Destruction, Social Harm",https://gogel.org/lookup/100169,,100169,238,GALP.LS
+167,Lewis Energy Group LP,Lewis Energy Group LP,Lewis Energy,1,Parent,,Ownership data not available,USA,Independent,,"33,99","Colombia, USA","95,31%",0%,0%,0%,0%,0%,"95,31%","105,6",USA,100%,"78,88%","30,1","Colombia, USA",90%,estimated lower bound interval,,,,,,100203,342,4297558682
+168,Citizen Energy LLC,Citizen Energy LLC,Citizen Energy,1,Parent,,Ownership data not available,USA,E&P Company,,"33,85",USA,100%,0%,0%,0%,0%,0%,100%,"90,86",USA,100%,"94,49%","14,44",USA,90%,estimated lower bound interval,,,,,,100242,123,5040244801
+169,Vermilion Energy Inc,Vermilion Energy Inc,Vermilion,1,Parent,,,Canada,Independent,,"33,8","Australia, Canada, France, Germany, Hungary, Ireland, Netherlands, USA","47,81%",0%,0%,"4,32%",0%,0%,"52,13%","126,5","Canada, Croatia, Netherlands, USA","91,05%","90,93%","35,82","Australia, Canada, Croatia, France, Germany, Hungary, Ireland, Netherlands, Slovakia, Ukraine, USA",100%,exact number,FY22,,,,,100168,668,VET.TO
+170,MEG Energy Corp,MEG Energy Corp,MEG Energy,1,Parent,,,Canada,Independent,,"33,54",Canada,0%,100%,0%,0%,0%,0%,100%,"130,02",Canada,100%,100%,0,,"99,93%",exact lower bound,FY22,Alberta Tar Sands,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100183,,100183,365,MEG.TO
+171,Kaiser-Francis Oil Company,Kaiser-Francis Oil Company,Kaiser-Francis,1,Parent,,Ownership data not available,USA,E&P Company,,"33,23",USA,100%,0%,0%,0%,0%,0%,100%,"47,85",USA,100%,"46,89%","57,75",USA,90%,estimated lower bound interval,,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100418,,100418,320,4296059358
+172,Paramount Resources Ltd,Paramount Resources Ltd,Paramount Resources,1,Parent,,,Canada,Independent,,"32,48",Canada,"90,31%",0%,0%,0%,0%,0%,"90,31%","215,26",Canada,100%,"77,68%","32,14",Canada,"98,47%",estimated lower bound,FY22,,,,,100204,440,POU.TO
+173,Verdun Oil Company LLC,Verdun Oil Company LLC,Verdun,1,Parent,,Ownership data not available,USA,E&P Company,,"32,41",USA,"98,72%",0%,0%,0%,0%,0%,"98,72%","131,62",USA,100%,"80,69%","23,24",USA,90%,estimated lower bound interval,,,,,,100293,667,5063388051
+174,Compania Espanola de Petroleos SA (Cepsa),Compania Espanola de Petroleos SA (Cepsa),Compania Espanola de Petroleos(CompaÃ±Ã­a EspaÃ±ola de PetrÃ³leos|Cepsa),1,Parent,,Ownership data not available,Spain,Integrated,,"32,37","Algeria, Colombia, Peru, Spain, UAE","3,41%",0%,0%,0%,0%,0%,"3,41%","19,05",Algeria,not applicable,100%,"15,6","Brazil, Colombia, Mexico, Suriname","98,85%",estimated lower bound,FY22,Amazon Oil and Gas Drilling,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100180,,100180,132,CEP.MC^H11
+175,Romanian Government,SNGN Romgaz SA,Romgaz,0.7,Parent,,,Romania,NOC,,"32,35",Romania,0%,0%,0%,0%,0%,0%,0%,"291,03",Romania,not applicable,"99,65%","41,3","Romania, Slovakia","99,4%",exact lower bound,FY22,,,,,100187,573,SNG.BX
+176,China ZhenHua Oil Co Ltd,China ZhenHua Oil Co Ltd,ZhenHua,1,Parent,,Chinese - to be checked,China,Independent,,"32,21","Egypt, Iraq, Kazakhstan, Myanmar, Syria, UAE",0%,0%,0%,0%,0%,0%,0%,"225,84","Iraq, UAE",not applicable,"93,58%","10,64","Egypt, Myanmar, Pakistan, UAE",90%,estimated lower bound interval,,Myanmar Military,"Conflict/Violence, Environmental Destruction, Social Harm",https://gogel.org/lookup/100173,,100173,114,5000026513
+177,Korea National Oil Corporation (KNOC),Korea National Oil Corporation (KNOC),Korea National Oil Corporation(KNOC),1,Parent,,Not found,South Korea,INOC,,"31,95","Canada, Egypt, Kazakhstan, Libya, Peru, South Korea, UAE, USA, Venezuela, Vietnam","27,14%","9,13%","0,4%","1,67%",0%,0%,"38,34%","102,47","Canada, UAE, USA, Vietnam",24%,"90,54%","43,82","Canada, Kazakhstan, Libya, Netherlands, Senegal, South Korea, UAE, USA, Uzbekistan, Vietnam, Yemen","99,84%",estimated lower bound,FY22,"Alberta Tar Sands, Amazon Oil and Gas Drilling","Environmental Destruction, Social Harm",https://gogel.org/lookup/100139,,100139,333,5000023088
+178,Origin Energy Ltd,Origin Energy Ltd,Origin,1,Parent,,,Australia,Independent,,"31,62",Australia,0%,0%,100%,0%,0%,0%,100%,"0,12",Australia,100%,100%,"23,52",Australia,"86,26%",exact lower bound,FY22-23,,,,,100145,427,ORG.AX
+179,Dhi Qar Oil Company (DQOC),Dhi Qar Oil Company (DQOC),Dhi Qar(DQOC),1,Parent,,Iranian - to be checked,Iraq,NOC,,"31,53",Iraq,0%,0%,0%,0%,0%,0%,0%,"292,35",Iraq,not applicable,0%,"5,13",Iraq,NA,data unavailable,,,,,,100185,168,5077904406
+180,JX Nippon Oil & Gas Exploration Corporation,JX Nippon Oil & Gas Exploration Corporation,Nippon Oil,1,Parent,,Ownership data not available,Japan,Integrated,,"31,28","Indonesia, Japan, Malaysia, Myanmar, Papua New Guinea, Qatar, UAE, United Kingdom, USA, Vietnam",0%,0%,0%,"1,39%",0%,0%,"1,39%","99,91","Indonesia, Papua New Guinea",not applicable,"18,11%","11,28","Australia, Brazil, Indonesia, Japan, Malaysia, Myanmar, Papua New Guinea, Qatar, United Kingdom, USA, Vietnam",90%,estimated lower bound interval,,Myanmar Military,"Conflict/Violence, Environmental Destruction, Social Harm",https://gogel.org/lookup/100152,,100152,319,5000012368
+181,Cheiron Petroleum Corporation,Cheiron Petroleum Corporation,Cheiron,1,Parent,,Ownership data not available,Egypt,Independent,,"31,26","Egypt, Mexico","13,81%",0%,0%,"0,75%",0%,0%,"14,56%","42,08",Egypt,not applicable,100%,"23,19",Egypt,90%,estimated lower bound interval,,,,,,100746,103,5042940367
+182,Baytex Energy Corp,Baytex Energy Corp,Baytex,1,Parent,,,Canada,Independent,,"30,35","Canada, USA","60,11%","2,12%","0,11%","25,67%",0%,0%,"88,01%","202,98","Canada, USA",100%,"72,08%","26,53","Canada, USA",100%,exact number,FY22,,,,,100189,42,BTE.TO
+183,PJSC Gazprom Neft,PJSC Gazprom Neft,Gazprom Neft,1,Parent,,Russian - to be checked,Russia,Integrated,,"30,14","Iraq, Russia","0,15%",0%,0%,0%,0%,"51,47%","51,62%","16,43",Russia,"38,92%","99,98%","9,85","Russia, Venezuela","96,85%",exact lower bound,FY21,,,,,100198,481,SIBN.MM
+184,Hunt Oil Company Inc,Hunt Oil Company Inc,Hunt Oil,1,Parent,,Ownership data not available,USA,Independent,,"29,78","Iraq, Peru, Romania, USA","12,8%",0%,0%,0%,0%,0%,"12,8%","20,05",USA,100%,"90,61%","4,01","Iraq, Peru, Romania, USA",90%,estimated lower bound interval,,Amazon Oil and Gas Drilling,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100144,,100144,281,5001311821
+185,Kosmos Energy Ltd,Kosmos Energy Ltd,Kosmos,1,Parent,,,USA,Independent,,"29,18","Equatorial Guinea, Ghana, USA",0%,0%,0%,0%,"12,08%",0%,"12,08%","261,58","Ghana, Mauritania, USA","93,43%","15,01%","84,77","Equatorial Guinea, Mauritania, Senegal, USA","99,83%",exact lower bound,FY22,Greater Tortue Ahmeyim,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100200,,100200,334,KOS.N
+186,Tokyo Gas Co Ltd,Tokyo Gas Co Ltd,Tokyo Gas,1,Parent,,,Japan,Industrial,,"28,91","Australia, Timor-Leste, USA","73,95%",0%,"3,02%",0%,"1,77%",0%,"78,74%","233,61","Australia, USA","96,26%","84,1%","5,82","Australia, Timor-Leste, USA","86,93%",estimated lower bound,FY21-22,"Scarborough Gas, Verde Island Passage","Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100207,,100207,630,9531.T
+187,NEO Energy Group Ltd,NEO Energy Group Ltd,NEO Energy,1,Parent,,Ownership data not available,United Kingdom,Investor,,"28,67",United Kingdom,0%,0%,0%,"4,71%",0%,0%,"4,71%","88,41",United Kingdom,not applicable,"35,39%","19,83",United Kingdom,90%,estimated lower bound interval,FY21,,,,,100757,392,5046392829
+188,Paloma Resources LLC,Paloma Resources LLC,Paloma Resources,1,Parent,,Ownership data not available,USA,E&P Company,,"28,44",USA,100%,0%,0%,0%,0%,0%,100%,"191,05",USA,100%,"68,23%","33,58",USA,NA,data unavailable,,,,,,100409,434,PLOh.V
+189,Reliance Industries Ltd,Reliance Industries Ltd,Reliance,1,Parent,,Indian - to be checked,India,Integrated,,"28,32",India,0%,0%,"5,58%",0%,"64,05%",0%,"69,63%","160,49",India,"62,31%","37,69%","10,19","India, USA","49,53%",exact lower bound,FY22-23,,,,,100244,517,RELI.NS
+190,Blackbeard Operating LLC,Blackbeard Operating LLC,Blackbeard,1,Parent,,Ownership data not available,USA,Independent,,"28,31",USA,"91,71%",0%,0%,0%,0%,0%,"91,71%","67,77",USA,100%,"70,18%","24,04",USA,90%,estimated lower bound interval,,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100174,,100174,58,5057566921
+191,Birchcliff Energy Ltd,Birchcliff Energy Ltd,Birchcliff,1,Parent,,,Canada,Independent,,"28,14",Canada,"98,47%",0%,0%,0%,0%,0%,"98,47%","115,77",Canada,100%,"77,75%","10,84",Canada,"98,62%",estimated lower bound,FY22,,,,,100196,54,BIR.TO
+192,Northeast Natural Energy LLC,Northeast Natural Energy LLC,Northeast Natural Energy,1,Parent,,Ownership data not available,USA,E&P Company,,"27,81",USA,100%,0%,0%,0%,0%,0%,100%,"157,38",USA,100%,"39,98%","14,79",USA,90%,estimated lower bound interval,,,,,,100236,406,5037933599
+193,Spartan Delta Corp,Spartan Delta Corp,Spartan Delta,1,Parent,,,Canada,E&P Company,,"26,83",Canada,"98,64%",0%,0%,0%,0%,0%,"98,64%","55,76",Canada,100%,"86,51%","21,8",Canada,"99,65%",estimated lower bound,FY22,,,,,100433,586,SDE.TO
+194,Jonah Energy LLC,Jonah Energy LLC,Jonah Energy,1,Parent,,Ownership data not available,USA,Independent,,"26,45",USA,"99,95%",0%,0%,0%,0%,0%,"99,95%",0,,0%,not applicable,"4,75",USA,90%,estimated lower bound interval,,,,,,100268,311,5042271234
+195,Delek Group Ltd,Ithaca Energy plc,Ithaca Energy,1,Parent,,,United Kingdom,E&P Company,Subsidiary,"26,14",United Kingdom,0%,0%,0%,"1,53%",0%,0%,"1,53%","158,32",United Kingdom,"72,76%","89,89%","16,78",United Kingdom,"98,44%",exact lower bound,FY22,,,,,100960,163,ITH.L
+196,Vitol Holding II SA,Vitol Holding II SA,Vitol,1,Parent,,Ownership data not available,Luxembourg,Industrial,,26,"Azerbaijan, Ghana, Kazakhstan, Russia, USA",50%,0%,0%,0%,0%,"15,75%","65,75%","210,66","Ghana, USA","83,88%","84,9%","37,62","Azerbaijan, Ghana, Russia, USA",90%,estimated lower bound interval,,,,,,200246,677,5040257799
+197,Talos Energy Inc,Talos Energy Inc,Talos Energy,1,Parent,,,USA,Independent,,26,USA,0%,0%,0%,0%,"8,63%",0%,"8,63%","76,44","Mexico, USA",not applicable,100%,"161,53","Mexico, USA",100%,exact number,FY22,,,,,100232,607,TALO.K
+198,Pampa Energia SA,Pampa Energia SA,Pampa,1,Parent,,,Argentina,Industrial,,"25,46","Argentina, Venezuela","85,59%",0%,0%,0%,0%,0%,"85,59%","81,83",Argentina,100%,"86,69%","42,24","Argentina, Venezuela","94,56%",estimated lower bound,FY22,Vaca Muerta,"Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100250,,100250,435,PAMPm.BA
+199,QuarterNorth Energy LLC,QuarterNorth Energy LLC,QuarterNorth,1,Parent,,Ownership data not available,USA,Independent,,"25,35","Mexico, USA",0%,0%,0%,0%,"24,03%",0%,"24,03%",0,,0%,not applicable,"21,67",USA,90%,estimated lower bound interval,,,,,,100666,508,5083992137
+200,Japan Organization for Metals and Energy Security (JOGMEC),Japan Organization for Metals and Energy Security (JOGMEC),Japan Organization for Metals and Energy Security(JOGMEC),1,Parent,,Ownership data not available,Japan,INOC,,"25,32","Australia, Indonesia, Iraq, Papua New Guinea, Russia",0%,0%,0%,0%,0%,0%,0%,"857,18","Indonesia, Iraq, Russia","59,97%","20,98%","3,34","Australia, Indonesia, Russia, Venezuela",/,not applicable,FY21-22,"Cabo Delgado, Yamal LNG and Arctic LNG 2","Conflict/Violence, Environmental Destruction, Social Harm",https://gogel.org/lookup/100179,,100179,304,5000056747
+201,Government of India,Indian Oil Corporation Ltd,Indian Oil Corp,0.52,Parent,,,India,INOC,,"25,3","Canada, India, Oman, Russia, UAE, USA, Venezuela","18,08%",0%,"1,51%","23,4%",0%,"24,41%","67,4%","197,31","Canada, India, Russia, UAE, USA, Venezuela","35,38%","92,44%","22,39","Canada, Gabon, India, Israel, Libya, Mozambique, Russia, UAE, USA, Venezuela","98,22%",estimated lower bound,FY22-23,,,,,100212,287,IOC.NS
+202,NuVista Energy Ltd,NuVista Energy Ltd,NuVista,1,Parent,,,Canada,Independent,,"25,08",Canada,"99,36%",0%,0%,0%,0%,0%,"99,36%","175,28",Canada,100%,"76,84%","16,44",Canada,100%,exact number,FY22,,,,,100241,410,NVA.TO
+203,Tullow Oil plc,Tullow Oil plc,Tullow,1,Parent,,,United Kingdom,Independent,,"24,87","Cote d'Ivoire, Gabon, Ghana",0%,0%,0%,0%,0%,0%,0%,"17,46",Ghana,not applicable,0%,"41,04","Argentina, Comoros, Cote d'Ivoire, Gabon, Guyana, Kenya, Namibia, Peru, Suriname, United Kingdom",100%,exact number,FY22,Guyana Offshore,"Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100190,,100190,644,TLW.L
+204,Petroleum Sarawak Bhd (PETROS),Petroleum Sarawak Bhd (PETROS),Petroleum Sarawak(PETROS),1,Parent,,Ownership data not available,Malaysia,Exploration Company,,"24,83",Malaysia,0%,0%,0%,0%,0%,0%,0%,0,,0%,not applicable,"7,24",Malaysia,90%,estimated lower bound interval,,,,,,100924,463,5080028101
+205,Ensign Natural Resources LLC,Ensign Natural Resources LLC,Ensign,1,Parent,,Ownership data not available,USA,E&P Company,,"24,78",USA,"98,55%",0%,0%,0%,0%,0%,"98,55%",0,,0%,not applicable,"0,12",USA,90%,estimated lower bound interval,,,,,,100338,210,5064696209
+206,Spirit Energy Ltd,Spirit Energy Ltd,Spirit Energy,1,Parent,,,United Kingdom,Independent,,"23,67","Netherlands, Norway, United Kingdom",0%,0%,0%,0%,0%,"2,44%","2,44%",0,,0%,not applicable,"25,78","Netherlands, Norway, United Kingdom","98,93%",exact lower bound,FY22,,,,,100132,587,5059340225
+207,Government of Dubai,Dubai Petroleum Establishment,Dubai Petroleum Establishment,1,Parent,,100% Holding,UAE,NOC,,"23,42",UAE,0%,0%,0%,0%,0%,0%,0%,0,,0%,not applicable,0,,90%,estimated lower bound interval,,,,,,100134,180,5001008459
+208,Surge Energy US Holdings Company,Surge Energy US Holdings Company,Surge Energy,1,Parent,,Ownership data not available,USA,Independent,,"23,09",USA,"99,89%",0%,0%,0%,0%,0%,"99,89%","101,17",USA,100%,"81,2%","27,53",USA,90%,estimated lower bound interval,,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100754,,100754,604,5060521609
+209,Empresa Nacional del Petroleo (ENAP),Empresa Nacional del Petroleo (ENAP),Empresa Nacional del Petroleo(ENAP),1,Parent,,Ownership data not available,Chile,INOC,,"23,04","Argentina, Chile, Ecuador, Egypt",0%,0%,0%,0%,0%,0%,0%,"5,79",Chile,not applicable,100%,"4,02","Argentina, Chile, Ecuador, Egypt","99,21%",exact number,FY22,Amazon Oil and Gas Drilling,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100192,,100192,193,4295863497
+210,Petro-Hunt LLC,Petro-Hunt LLC,Petro-Hunt,1,Parent,,Ownership data not available,USA,Independent,,"22,96",USA,"97,77%",0%,0%,0%,0%,0%,"97,77%","136,72",USA,100%,"71,31%","15,31",USA,NA,data unavailable,,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100243,,100243,455,5000293374
+211,Grayson Mill Energy LLC,Grayson Mill Energy LLC,Grayson Mill,1,Parent,,Ownership data not available,USA,Exploration Company,,"22,86",USA,100%,0%,0%,0%,0%,0%,100%,"219,42",USA,100%,"74,61%","10,77",USA,90%,estimated lower bound interval,,,,,,100759,248,5079892406
+212,Slawson Exploration Company Inc,Slawson Exploration Company Inc,Slawson,1,Parent,,Ownership data not available,USA,E&P Company,,"22,55",USA,"99,85%",0%,0%,0%,0%,0%,"99,85%","43,69",USA,100%,"71,6%","4,26",USA,NA,data unavailable,,,,,,100342,571,4298013077
+213,Camino Natural Resources LLC,Camino Natural Resources LLC,Camino Natural,1,Parent,,Ownership data not available,USA,Independent,,"22,54",USA,100%,0%,0%,0%,0%,0%,100%,"98,06",USA,100%,"86,14%","23,12",USA,90%,estimated lower bound interval,,,,,,100201,82,5059079874
+214,Lime Rock Resources,Lime Rock Resources,Lime Rock,1,Parent,,Ownership data not available,USA,E&P Company,,"22,25",USA,"95,21%",0%,0%,0%,0%,0%,"95,21%","96,68",USA,100%,"77,17%","5,29",USA,90%,estimated lower bound interval,,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100260,,100260,345,5000879968
+215,Dana Gas PJSC,Dana Gas PJSC,Dana Gas,1,Parent,,,UAE,E&P Company,,"22,05","Egypt, Iraq",0%,0%,0%,0%,0%,0%,0%,"359,31","Egypt, Iraq",not applicable,"16,48%","7,37","Egypt, Iraq",100%,exact number,FY22,,,,,100222,157,DANA.AD
+216,SilverBow Resources Inc,SilverBow Resources Inc,SilverBow,1,Parent,,,USA,E&P Company,,"21,74",USA,100%,0%,0%,0%,0%,0%,100%,"119,34",USA,100%,"82,35%","2,02",USA,100%,exact number,FY22,,,,,100270,564,SBOW.K
+217,OMV AG,OMV Petrom SA,OMV,1,Parent,,,Romania,NOC,Subsidiary,"21,48",Romania,0%,0%,0%,"15,11%",0%,0%,"15,11%","167,99",Romania,"3,17%",100%,"17,97","Bulgaria, Georgia, Romania","89,08%",exact lower bound,FY22,,,,,100202,423,ROSNP.BX
+218,Compania General de Combustibles SA (CGC),Compania General de Combustibles SA (CGC),Compania General de Combustibles(CGC),1,Parent,,Ownership data not available,Argentina,Industrial,,"21,36","Argentina, Venezuela","11,09%",0%,0%,0%,0%,0%,"11,09%",0,,0%,not applicable,"20,62",Argentina,"95,43%",exact lower bound,FY22,Vaca Muerta,"Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100295,,100295,133,5001093857
+219,Bridas Energy Holdings Ltd,Bridas Energy Holdings Ltd,Bridas,1,Parent,,Ownership data not available,Argentina,Industrial,,"21,19","Argentina, Bolivia, Mexico","16,82%",0%,0%,0%,0%,0%,"16,82%","57,67","Argentina, Mexico","73,54%","96,03%","26,54","Argentina, Bolivia, Mexico",NA,data unavailable,,Vaca Muerta,"Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100221,,100221,68,5001222177
+220,Scout Energy Partners,Scout Energy Partners,Scout Energy Partners,1,Parent,,Not found,USA,Independent,,"21,19",USA,"12,59%",0%,0%,0%,0%,0%,"12,59%","0,5",USA,100%,0%,0,,90%,estimated lower bound interval,,,,,,100227,550,5043912882
+221,Denbury Inc,Denbury Inc,Denbury,1,Parent,,Ownership data not available,USA,Independent,,"21,18",USA,0%,0%,0%,0%,0%,0%,0%,"228,18",USA,not applicable,100%,0,,"96,45%",exact lower bound,FY22,,,,,100216,165,HGJ1f.TPRM
+222,Pacific Energy Corporation Ltd,Pacific Energy Corporation Ltd,Pacific Energy Corporation,1,Parent,,Ownership data not available,China (Hong Kong),Integrated,,"20,9",Canada,"98,88%",0%,0%,0%,0%,0%,"98,88%","211,14",Canada,100%,"56,08%","56,03","Canada, Indonesia",90%,estimated lower bound interval,,Woodfibre LNG,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100288,,100288,431,5073353243
+223,Maverick Natural Resources LLC,Maverick Natural Resources LLC,Maverick,1,Parent,,Ownership data not available,USA,Independent,,"20,76",USA,"63,8%",0%,0%,"0,02%",0%,0%,"63,82%","24,75",USA,100%,"22,95%","0,75",USA,90%,estimated lower bound interval,,,,,,100327,364,5063387214
+224,LLOG Exploration Company LLC,LLOG Exploration Company LLC,LLOG,1,Parent,,Ownership data not available,USA,E&P Company,,"20,67",USA,"3,69%",0%,0%,0%,"19,7%",0%,"23,39%","59,5",USA,100%,100%,"7,53",USA,90%,estimated lower bound interval,,,,,,100336,346,5081467695
+225,Myanma Oil and Gas Enterprise (MOGE),Myanma Oil and Gas Enterprise (MOGE),Myanma Oil and Gas Enterpris (MOGE),1,Parent,,Ownership data not available,Myanmar,NOC,,"20,58",Myanmar,0%,0%,0%,0%,0%,0%,0%,"33,27",Myanmar,not applicable,"63,21%","4,35",Myanmar,NA,data unavailable,,Myanmar Military,"Conflict/Violence, Environmental Destruction, Social Harm",https://gogel.org/lookup/100237,,100237,382,4296761485
+226,Posco Holdings Inc,Posco International Corporation,Posco,0.71,Parent,,,South Korea,E&P Company,,"20,48","Australia, Myanmar, Peru, South Korea, Vietnam",0%,0%,"6,09%",0%,0%,0%,"6,09%","112,5","Australia, Myanmar","22,94%","62,99%","1,28","Australia, Indonesia, Malaysia, Myanmar, Vietnam","3,25%",estimated lower bound,FY22,"Myanmar Military, Amazon Oil and Gas Drilling","Conflict/Violence, Environmental Destruction, Social Harm",https://gogel.org/lookup/100229,,100229,495,5083180851
+227,Advantage Energy Ltd,Advantage Energy Ltd,Advantage Energy,1,Parent,,,Canada,E&P Company,,"20,35",Canada,100%,0%,0%,0%,0%,0%,100%,"155,23",Canada,100%,"83,94%","14,08",Canada,"99,96%",exact number,FY22,,,,,100256,8,AAV.TO
+228,Beach Energy Ltd,Beach Energy Ltd,Beach Energy,1,Parent,,,Australia,Independent,,"20,27","Australia, New Zealand","0,15%",0%,0%,0%,0%,0%,"0,15%","155,16",Australia,"32,26%","80,64%","84,26","Australia, New Zealand","98,2%",exact lower bound,FY22,,,,,100199,44,BPT.AX
+229,Bonavista Energy Corporation,Bonavista Energy Corporation,Bonavista,1,Parent,,Ownership data not available,Canada,Independent,,"20,12",Canada,"69,34%",0%,0%,0%,0%,0%,"69,34%","64,33",Canada,100%,"88,16%","9,93",Canada,90%,estimated lower bound interval,,,,,,100205,64,BNP.TO^H20
+230,Tap Rock Resources LLC,Tap Rock Resources LLC,Tap Rock,1,Parent,,Ownership data not available,USA,E&P Company,,"19,98",USA,100%,0%,0%,0%,0%,0%,100%,"0,48",USA,100%,"20,05%","85,65",USA,90%,estimated lower bound interval,,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100332,,100332,611,5060206566
+231,Ranger Oil Corporation,Ranger Oil Corporation,Ranger Oil,1,Parent,,Ownership data not available,USA,E&P Company,,"19,88",USA,"99,65%",0%,0%,0%,0%,0%,"99,65%",0,,0%,not applicable,"4,22",USA,"99,97%",exact number,FY22,,,,,100303,511,4295904699
+232,International Petroleum Corporation (IPC),International Petroleum Corporation (IPC),International Petroleum Corporation(IPC),1,Parent,,Not found,Canada,E&P Company,,"19,86","Canada, France, Malaysia","8,89%","24,46%",0%,18%,0%,0%,"51,35%","232,64",Canada,100%,"98,65%","0,89","Canada, France, Malaysia, Papua New Guinea","98,28%",estimated lower bound,FY22,Alberta Tar Sands,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100709,,100709,294,IPCOR.ST
+233,BTA Oil Producers LLC,BTA Oil Producers LLC,BTA Oil Producers,1,Parent,,Ownership data not available,USA,Independent,,"19,82",USA,100%,0%,0%,0%,0%,0%,100%,"69,42",USA,100%,"74,2%","23,87",USA,90%,estimated lower bound interval,,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100238,,100238,72,4295958024
+234,State Concern Turkmennebit,State Concern Turkmennebit,Turkmennebit,1,Parent,,Not found,Turkmenistan,NOC,,"19,34",Turkmenistan,0%,0%,0%,0%,0%,0%,0%,"48,2",Turkmenistan,not applicable,0%,0,,90%,estimated lower bound interval,,,,,,100211,593,5001130975
+235,EnQuest PLC,EnQuest PLC,EnQuest,1,Parent,,,United Kingdom,Independent,,"19,28","Malaysia, United Kingdom",0%,0%,0%,"33,76%",0%,0%,"33,76%",0,,0%,not applicable,"16,42","Malaysia, United Kingdom","99,73%",estimated lower bound,FY22,,,,,100225,208,ENQ.L
+236,Parex Resources Inc,Parex Resources Inc,Parex,1,Parent,,,Canada,E&P Company,,"19,24",Colombia,0%,0%,0%,"30,05%",0%,0%,"30,05%","7,74",Colombia,not applicable,"70,69%","93,38",Colombia,100%,exact number,FY22,,,,,100251,441,PXT.TO
+237,Midland Oil Company,Midland Oil Company,Midland Oil Company,1,Parent,,Ownership data not available,Iraq,NOC,,"18,86",Iraq,0%,0%,0%,0%,0%,0%,0%,"435,77",Iraq,not applicable,100%,0,,NA,data unavailable,,,,,,100887,370,5009378456
+238,Vista Energy SAB de CV,Vista Energy SAB de CV,Vista Energy,1,Parent,,,Mexico,E&P Company,,"18,85","Argentina, Mexico","71,92%",0%,0%,0%,0%,0%,"71,92%","233,36",Argentina,100%,"91,83%","66,9","Argentina, Mexico",100%,exact number,FY22,Vaca Muerta,"Environmental Destruction, Litigation, Social Harm",https://gogel.org/lookup/100330,,100330,675,VISTAA.MX
+239,Fasken Oil and Ranch Ltd,Fasken Oil and Ranch Ltd,Fasken,1,Parent,,Ownership data not available,USA,E&P Company,,"18,77",USA,"90,18%",0%,0%,0%,0%,0%,"90,18%","83,75",USA,100%,"67,01%","33,94",USA,NA,data unavailable,,Permian Basin,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100265,,100265,225,4298015866
+240,W&T Offshore Inc,W&T Offshore Inc,W&T Offshore,1,Parent,,,USA,Industrial,,"18,76",USA,0%,0%,0%,0%,"7,59%",0%,"7,59%",0,,0%,not applicable,"24,75",USA,"98,27%",exact lower bound,FY22,,,,,100235,678,WTI.N
+241,Colgate Energy Partners III LLC,Colgate Energy Partners III LLC,Colgate,1,Parent,,Ownership data not available,USA,E&P Company,,"18,72",USA,100%,0%,0%,0%,0%,0%,100%,0,,0%,not applicable,"22,29",USA,90%,estimated lower bound interval,,,,,The company merged with Centennial Resource Development Inc to form Permian Resources Corporation (also on GOGEL) in September 2022.,100340,129,5060577739
+242,Mesquite Energy Inc,Mesquite Energy Inc,Mesquite,1,Parent,,Ownership data not available,USA,Independent,,"18,66",USA,100%,0%,0%,0%,0%,0%,100%,"10,36",USA,100%,"35,88%","0,04",USA,90%,estimated lower bound interval,,,,,,100226,368,SNECQ.PK^G20
+243,The Williams Companies Inc,The Williams Companies Inc,The Williams,1,Parent,,Ownership data not available,USA,Industrial,,"18,64",USA,100%,0%,0%,0%,0%,0%,100%,"79,84",USA,100%,"92,3%","54,91",USA,"61,01%",estimated lower bound,FY22,,,,,200147,624,5001924814
+244,China National Petroleum Corporation (CNPC),KunLun Energy Company Ltd,KunLun Energy Company Ltd(Kunlun),1,Parent,,,China (Hong Kong),INOC,Subsidiary,"18,58","China, Kazakhstan, Oman, Peru, Thailand",0%,0%,0%,0%,0%,0%,0%,"23,07",Kazakhstan,not applicable,0%,"0,15","China, Kazakhstan, Oman, Thailand",100%,exact number,FY22,Amazon Oil and Gas Drilling,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100249,,100249,109,0135.HK
+245,Sasol Ltd,Sasol Ltd,Sasol,1,Parent,,,South Africa,Industrial,,"18,52",Mozambique,0%,0%,0%,0%,0%,0%,0%,"164,3",Mozambique,not applicable,0%,"11,12","Gabon, Mozambique, South Africa","73,67%",exact lower bound,FY21-22,South Africa Offshore,"Environmental Destruction, Litigation",https://gogel.org/lookup/100223,,100223,546,SOLJ.J
+246,Heritage Petroleum Company Ltd,Heritage Petroleum Company Ltd,Heritage Petroleum,1,Parent,,Ownership data not available,Trinidad and Tobago,Independent,,"18,3",Trinidad and Tobago,0%,0%,0%,"31,33%",0%,0%,"31,33%","12,92",Trinidad and Tobago,not applicable,100%,"27,04",Trinidad and Tobago,"96,15%",exact lower bound,,,,,,100707,272,5071526784
+247,SK Innovation Co Ltd,SK Innovation Co Ltd,SK Innovation,1,Parent,,,South Korea,E&P Company,,"18,18","China, Cote d'Ivoire, Equatorial Guinea, Libya, Peru, Qatar, Vietnam",0%,0%,0%,0%,0%,0%,0%,"103,37","China, Vietnam",not applicable,"42,74%","26,24","China, Cote d'Ivoire, Libya, Malaysia, Peru, USA, Vietnam","76,71%",exact lower bound,FY22,Amazon Oil and Gas Drilling,"Environmental Destruction, Social Harm",https://gogel.org/lookup/100193,,100193,570,096770.KS
+248,Oasis Petroleum Inc,Oasis Petroleum Inc,Oasis Petroleum,1,Parent,,Not found,USA,Independent,,"17,93",USA,100%,0%,0%,0%,0%,0%,100%,0,,0%,not applicable,"2,29",USA,100%,exact number,FY21,,,,The company merged with Whiting Petroleum Corporation to form Chord Energy Corporation (also on GOGEL) in July 2022.,100176,412,5000880448
+249,BCE-Mach LLC,BCE-Mach LLC,BCE-Mach,1,Parent,,Ownership data not available,USA,E&P Company,,"17,82",USA,"91,97%",0%,0%,0%,0%,0%,"91,97%","69,05",USA,100%,"83,78%","24,63",USA,90%,estimated lower bound interval,,,,,,100294,43,5060687473
+250,Societe Nationale des Petroles du Congo (SNPC),Societe Nationale des Petroles du Congo (SNPC),Societe Nationale des Petroles du Congo(SNPC),1,Parent,,,Republic of the Congo,NOC,,"17,78","Angola, Republic of the Congo",0%,0%,0%,"17,2%",0%,0%,"17,2%","51,86",Republic of the Congo,not applicable,93%,"10,18",Republic of the Congo,90%,estimated lower bound interval,,,,,,100839,578,5000917530
+251,Abu Dhabi National Energy Company PJSC (TAQA),Masdar TAQA,Masdar,0.43,Acquisition,https://www.taqa.com/press-releases/taqa-adnoc-and-mubadala-complete-landmark-transaction-for-stake-in-masdar-clean-energy-powerhouse/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+252,Abu Dhabi National Energy Company PJSC (TAQA),GEK Terna TAQA,Terna,0.29,Acquisition,https://masdar.ae/en/news/newsroom/uae-renewables-champion-to-acquire-greeces-terna-energy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+253,Abu Dhabi National Energy Company PJSC (TAQA),Terra-Gen TAQA,Terra-Gen,0.22,Acquisition,https://masdar.ae/en/news/newsroom/masdar-to-acquire-50-percent-stake-in-terra-gen-from-energy-capital-partners,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+254,Abu Dhabi National Energy Company PJSC (TAQA),Hero Future Energies TAQA,Hero Future Energies(Hero Group),0.09,Acquisition,https://www.livemint.com/companies/news/uae-s-masdar-invests-150-million-in-hero-future-energies-11573459881128.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+255,Abu Dhabi National Energy Company PJSC (TAQA),Lekela Power TAQA,Lekela,0.22,Acquisition,https://masdar.ae/en/news/newsroom/infinity-power-finalizes-acquisition-of-lekela-power,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+256,Abu Dhabi National Energy Company PJSC (TAQA),Infinity Power TAQA,Infinity Power,0.22,Subsidiary,https://weareinfinitypower.com/en/Founding-Companies,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+257,Abu Dhabi National Energy Company PJSC (TAQA),Jordan Wind Project Company TAQA,Jordan Wind Project Company,0.14,Subsidiary,https://masdar.ae/en/news/newsroom/financial-close-reached-to-build-the-first-utility-scale-wind-farm-in-jordan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+258,Abu Dhabi National Oil Company (ADNOC),Masdar ADNOC,Masdar,0.24,Acquisition,https://www.taqa.com/press-releases/taqa-adnoc-and-mubadala-complete-landmark-transaction-for-stake-in-masdar-clean-energy-powerhouse/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+259,Abu Dhabi National Oil Company (ADNOC),GEK Terna ADNOC,Terna,0.16,Acquisition,https://masdar.ae/en/news/newsroom/uae-renewables-champion-to-acquire-greeces-terna-energy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+260,Abu Dhabi National Oil Company (ADNOC),Terra-Gen ADNOC,Terra-Gen,0.12,Acquisition,https://masdar.ae/en/news/newsroom/masdar-to-acquire-50-percent-stake-in-terra-gen-from-energy-capital-partners,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+261,Abu Dhabi National Oil Company (ADNOC),Hero Future Energies ADNOC,Hero Future Energies(Hero Group),0.05,Acquisition,https://www.livemint.com/companies/news/uae-s-masdar-invests-150-million-in-hero-future-energies-11573459881128.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+262,Abu Dhabi National Oil Company (ADNOC),Lekela Power ADNOC,Lekela,0.12,Acquisition,https://masdar.ae/en/news/newsroom/infinity-power-finalizes-acquisition-of-lekela-power,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+263,Abu Dhabi National Oil Company (ADNOC),Infinity Power ADNOC,Infinity Power,0.12,Subsidiary,https://weareinfinitypower.com/en/Founding-Companies,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+264,Abu Dhabi National Oil Company (ADNOC),Jordan Wind Project Company ADNOC,Jordan Wind Project Company,0.08,Subsidiary,https://masdar.ae/en/news/newsroom/financial-close-reached-to-build-the-first-utility-scale-wind-farm-in-jordan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+265,BP plc,Lightsource,Lightsource,1,Acquisition,https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-agrees-to-take-full-ownership-of-lightsource-bp.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+266,BP plc,Archea,Archea,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+267,BP plc,Orisol,Orisol,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+268,BP plc,Hydrogen Energy International,Hydrogen Energy International,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+269,BP plc,Open Energi,Open Energi,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+270,BP plc,Blueprint,Blueprint,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+271,BP plc,Deep Wind,Deep Wind,"0,55",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+272,Compania Espanola de Petroleos SA (Cepsa),Suresa Retama,Suresa Retama,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+273,Delek Group Ltd,Eshkol,Eshkol,"0,84",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+274,Eni SpA,Evolvere,Evolvere,"0,7",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+275,Eni SpA,Azora,Azora,1,Acquisition,Refinitiv; https://www.eni.com/en-IT/media/press-release/2021/07/cs-egl-rinnovabili-spagna.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+276,Eni SpA,BE Power,BE Power,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+277,Eni SpA,Eolicas Riojanas,Eolicas Riojanas,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+278,Eni SpA,Hergo,Hergo,"0,65",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+279,Eni SpA,4Energia Srl,4Energia,1,Acquisition,Refinitiv; https://www.linkedin.com/company/4energia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+280,Eni SpA,PLT Energia SRL,PLT Energia,1,Acquisition,https://www.eni.com/en-IT/media/press-release/2022/12/plenitude-strengthens-its-presence-italy-and-spain-signing-agreement-acquire-100plt.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+281,Eni SpA,Dhamma Energy Group,Dhamma,1,Acquisition,https://www.eni.com/en-IT/media/press-release/2021/07/eni-acquires-solar-plants-spain-france-taking-over-dhamma-energy-group.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+282,Eni SpA,EnerOcean,EnerOcean,1,Acquisition,https://www.eni.com/content/dam/enicom/documents/press-release/migrated/2022-en/04/plenitude_wind.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+283,Equinor ASA,Wento,Wento,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+284,Equinor ASA,Chujin,Chujin,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+285,Equinor ASA,Polenergia Baltyk,Polenergia Baltyk,"0,5",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+286,Equinor ASA,Polenergia Baltyk,Polenergia Baltyk,"0,5",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+287,Equinor ASA,Scatec,Scatec,"0,16",Acquisition,Refinitiv; https://www.equinor.com/news/20230316-increases-ownership-scatec,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+288,Equinor ASA,Rio Energy,Rio Energy,1,Acquisition,Refinitiv; https://www.equinor.com/news/20230721-acquires-rio-energy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+289,Galp Energia SGPS SA,Goldenalco,Goldenalco,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Galp Energia SGPS SA,ACS Spanish Assets,Galp ACS,1,Acquisition,https://www.galp.com/corp/en/media/press-releases/press-release/id/1151/galp-completes-transaction-with-acs-becomes-iberias-leading-solar-player,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+291,INPEX Corporation,Supreme,Supreme,"0,33",Acquisition,Refinitiv; https://www.supreme-energy.com/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+292,ITOCHU Corporation,Yallourn,Yallourn,"0,1",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+293,ITOCHU Corporation,Butendiek,Butendiek,"0,11",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+294,ITOCHU Corporation,JEN Holdings,JEN Holdings,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+295,ITOCHU Corporation,Greenvision,Greenvision,"0,43",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+296,ITOCHU Corporation,Green Country,Green Country,"0,1",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+297,ITOCHU Corporation,Tyr,Tyr,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+298,ITOCHU Corporation,Solar Depot,Solar Depot,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+299,ITOCHU Corporation,NAES,NAES,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+300,ITOCHU Corporation,Winch,Winch,"0,2",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+301,ITOCHU Corporation,Bay4,Bay4,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+302,ITOCHU Corporation,Takasaki,Takasaki,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+303,Kuwait Petroleum Corporation (KPC),Occidental Geothermal,Occidental Geothermal,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+304,Mitsubishi Corporation,Tennet,Tennet,"0,49",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+305,Mitsubishi Corporation,OVO Energy,OVO Energy,"0,2",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+306,Mitsubishi Corporation,Acciona Termosolar,Acciona Termosolar,"0,15",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+307,Mitsubishi Corporation,Solar Holding,Solar Holding,"0,5",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+308,Mitsubishi Corporation,Cochrane,Cochrane,"0,4",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+309,Mitsubishi Corporation,Eventus,Eventus,"0,5",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+310,Mitsubishi Corporation,Solargruen,Solargruen,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+311,Mitsubishi Corporation,Eneco,Eneco,"0,8",Acquisition,Refinitiv; https://www.mitsubishicorp.com/jp/en/pr/archive/2020/html/0000039554.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+312,Mitsubishi Corporation,Star Energy Geothermal,Star Energy Geothermal,0.2,Acquisition,https://www.mitsubishicorp.com/jp/en/pr/archive/2012/html/0000017168.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+313,Mitsubishi Corporation,Impact Energy Asia Development Limited (IEAD),Impact Energy Asia,0.24,Acquisition,https://www.mitsubishicorp.com/jp/en/pr/archive/2021/html/0000047264.html; https://monsoonwindasia.com/stakeholders#stakeholders_structure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+314,Mitsui & Co Ltd,C2C,C2C,"0,3",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+315,Mitsui & Co Ltd,Rugeley,Rugeley,"0,2",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+316,Mitsui & Co Ltd,Erdos,Erdos,"0,25",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+317,Mitsui & Co Ltd,Ecogen Brasil,Ecogen Brasil,"0,5",Acquisition,Refinitiv; https://internationalpress.jp/2012/11/17/mitsui-y-enac-compran-la-brasilena-ecogen-proveedora-de-servicios-energeticos/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+318,Mitsui & Co Ltd,EBES,EBES,"0,17",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+319,Mitsui & Co Ltd,Eoliatec,Eoliatec,"0,5",Acquisition,Refinitiv; https://www.edf-re.com/press-release/mitsui-and-edf-renewables-announce-participation-in-wind-power-generation-project-in-mexico/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+320,Mitsui & Co Ltd,Koyo,Koyo,"0,2",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+321,Mitsui & Co Ltd,Terregra,Terregra,"0,15",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+322,Mitsui & Co Ltd,Storegga,Storegga,"0,15",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+323,Mitsui & Co Ltd,Solstice,Solstice,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+324,Mitsui & Co Ltd,Mainstream,Mainstream(Aker Offshore Wind),"0,28",Acquisition,Refinitiv; https://www.mitsui.com/jp/en/release/2022/1243172_13406.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+325,Occidental Petroleum Corporation,Elk Hills,Elk Hills,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+326,OMV AG,Eavor,Eavor,"0,07",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+327,OMV AG,Borasco,Borasco,"0,6",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+328,OQ SAOC,Orient Power,Orient Power,"0,49",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+329,Origin Energy Ltd,Octopus,Octopus,"0,2",Acquisition,https://www.originenergy.com.au/about/investors-media/origin-lifts-investment-in-fast-growing-octopus-energy/,,,https://www.originenergy.com.au/about/investors-media/origin-lifts-investment-in-fast-growing-octopus-energy/,,,,,,,,,,,,,,,,,,,,,,,,,,
+330,Origin Energy Ltd,Sun Retail,Sun Retail,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+331,Origin Energy Ltd,Uranquinty,Uranquinty,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+332,Origin Energy Ltd,Eraring,Eraring,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+333,Origin Energy Ltd,WINconnect,WINconnect,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+334,Origin Energy Ltd,Energia Andina,Energia Andina,"0,4",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+335,Origin Energy Ltd,Allegro,Allegro,"0,05",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+336,Origin Energy Ltd,Energia Austral,Energia Austral,"0,51",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+337,Origin Energy Ltd,Walcha,Walcha,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Origin Energy Ltd,Simply Blue,Simply Blue,0.05,Acquisition,https://www.irishtimes.com/business/energy-and-resources/octopus-renewables-takes-24-stake-in-simply-blue-in-15m-deal-1.4642820,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+338,Osaka Gas Co Ltd (Daigas Group),Hizen,Hizen,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+339,Osaka Gas Co Ltd (Daigas Group),Fort Point,Fort Point,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+340,Osaka Gas Co Ltd (Daigas Group),CPV Shore,CPV Shore,"0,2",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+341,Pampa Energia SA,Vientos de Arauco,Vientos de Arauco,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+342,Pampa Energia SA,Empresa Distribuidora Electrica Regional (EDERSA),Empresa Distribuidora Electrica Regional (EDERSA),"0,77",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+343,Pampa Energia SA,Aeseba,Aeseba,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+344,Pampa Energia SA,Nihuiles,Nihuiles,"0,65",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+345,Pampa Energia SA,Greenwind,Greenwind,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+346,Pampa Energia SA,Albares,Albares,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+347,Pampa Energia SA,Diamante,Diamante,"0,56",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+348,PAO NOVATEK,Novaenergo,Novaenergo,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+349,Petroleo Brasileiro SA – Petrobras,Brentech,Brentech,"0,3",Acquisition,https://brazilenergyinsight.com/2024/05/30/petrobras-informs-about-assignment-of-minority-stake-in-brentech-energia-s-a/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+350,Petroliam Nasional Bhd (Petronas),Sabah,Sabah,"0,2",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+351,Petroliam Nasional Bhd (Petronas),Amplus,Amplus,1,Acquisition,Refinitiv; https://www.petronas.com/mplus/about-us/who-we-are,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+352,Petroliam Nasional Bhd (Petronas),Wirsol Energy,Wirsol,1,Acquisition,https://www.petronas.com/integrated-report-2023/assets/pdf/PETRONAS%20Integrated%20Report%202023.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+353,Petroliam Nasional Bhd (Petronas),Gentari,Gentari,1,Acquisition,https://www.gentari.com/about/overview,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+354,PJSC Gazprom,Mosenergo,Mosenergo,"0,54",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+355,PJSC Gazprom,A2A Beta,A2A Beta,"0,5",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+356,PJSC Gazprom,Soliushn,Soliushn,"0,16",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+357,PJSC Gazprom,JSC VetroOGK-2,VetroOGK-2,"0,5",Acquisition,https://www.rechargenews.com/wind/gazproms-bank-finances-huge-wind-portfolio-of-nuclear-giant-rosatom/2-1-974006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+358,PJSC LUKOIL,South Generation,South Generation,"0,82",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+359,PJSC LUKOIL,Volgogradenergosbyt,Volgogradenergosbyt,"0,3",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+360,PJSC LUKOIL,EL5-Energo,EL5-Energo,"0,64",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+361,PJSC Tatneft,Setevaia,Setevaia,"0,1",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+362,Reliance Industries Ltd,Mskvy,Mskvy,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+363,Reliance Industries Ltd,REC Solar,REC Solar,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+364,Reliance Industries Ltd,BSES,BSES,"0,51",Acquisition,Refinitiv; https://www.bsesdelhi.com/web/brpl/about-bses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+365,Reliance Industries Ltd,Salgoacar,Salgoacar,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+366,Repsol SA,ConnectGen,ConnectGen,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+367,Repsol SA,Asterion,Asterion,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+368,Repsol SA,SeaEnergy,SeaEnergy,"0,8",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+369,Repsol SA,Wattiocorp,Wattiocorp,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+370,Repsol SA,Tramparese,Tramparese,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+371,Repsol SA,Ibereolica,Ibereolica(IbereÃ³lica),"0,5",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+372,Repsol SA,Hecate,Hecate,"0,4",Acquisition,Refinitiv; https://www.repsol.com/en/press-room/press-releases/2021/repsol-enters-the-us-renewables-market-with-the-purchase-of-40-of-project-developer-hecate-energy/index.cshtml,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+372,Repsol SA,Hecate Frye,Hecat Frye,1,Acquisition,https://www.repsol.com/en/press-room/press-releases/2022/repsol-starts-producing-electricity-at-jicarilla-2-its-first-us-solar-plant/index.cshtml,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+373,Repsol SA,CIDE HC,CIDE HC,"0,5",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+374,Repsol SA,Viesgo,Viesgo,1,Acquisition,Refinitiv; https://www.repsol.com/en/press-room/press-releases/2018/repsol-completes-purchase-of-viesgos-assets-and-customers/index.cshtml,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+376,Shell plc,Savion,Savion,1,Acquisition,https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2021/shell-acquires-savion.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+377,Shell plc,Solarenergi,Solarenergi,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+378,Shell plc,ERM Power,ERM Power,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+379,Shell plc,Hudson,Hudson,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+380,Shell plc,InterGen,InterGen,"0,5",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+381,Shell plc,Whitewater,Whitewater,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+382,Shell plc,Mountainview,Mountainview,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+383,Shell plc,NedPower,NedPower,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+384,Shell plc,Llano Estacado,Llano Estacado,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+385,Shell plc,Limejump,Limejump,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+386,Shell plc,Shapoorji,Shapoorji,1,Acquisition,Refinitiv; https://www.shapoorjipallonji.com/pdfs/press-releases/Shapoorji%20Pallonji%20Infra%20and%20Actis%20finalize%20strategic%20transaction%20of%20Solar%20Power%20assets%20-%2031.03.2019.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+387,Shell plc,ESCO Pacific,ESCO Pacific,"0,49",Acquisition,Refinitiv; https://www.pv-tech.org/shell-buys-49-stake-in-esco-pacific/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+388,Shell plc,Nextkraftwerke,Nextkraftwerke,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+389,Shell plc,Noordzeewind,Noordzeewind,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+390,Shell plc,Inspire,Inspire,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+391,Shell plc,Daystar,Daystar,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+392,Shell plc,Isemaren,Isemaren,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+393,Shell plc,WestWind,WestWind,"0,49",Acquisition,Refinitiv; https://www.shell.com.au/media/2022-media-releases/shell-completes-49-percent-acquisition-of-wind-farm-developer-westwind.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+394,Shell plc,Sprng,Sprng,1,Acquisition,Refinitiv; https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2022/shell-to-acquire-sprng-energy-group-one-of-indias-leading-renewable-power-platforms.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+395,Shell plc,Silicon Ranch,Silicon Ranch,"0,44",Acquisition,Refinitiv; https://www.siliconranch.com/stories/silicon-ranch-completes-transaction-with-shell/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+396,SNGN Romgaz SA,Electrocentrale Bucaresti,Electrocentrale Bucaresti,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+397,Tokyo Gas Co Ltd,Heolios,Heolios,"0,5",Acquisition,https://www.tokyo-gas.co.jp/Press_e/20191212-03e.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+398,Tokyo Gas Co Ltd,Ecogen Brasil,Ecogen Brasil,"0,5",Acquisition,Refinitiv; https://internationalpress.jp/2012/11/17/mitsui-y-enac-compran-la-brasilena-ecogen-proveedora-de-servicios-energeticos/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+399,Tokyo Gas Co Ltd,Shonai,Shonai,"0,3",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+400,Tokyo Gas Co Ltd,MyEnergy,MyEnergy,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+401,Tokyo Gas Co Ltd,T-Power,T-Power,"0,27",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+402,Tokyo Gas Co Ltd,Eastern Power & Electric,Eastern Power & Electric,"0,28",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+403,Tokyo Gas Co Ltd,Pacifico Energy,Pacifico Energy,"0,5",Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+404,Tokyo Gas Co Ltd,Renova,Renova,"0,13",Acquisition,Refinitiv; https://www.argusmedia.com/en/news-and-insights/latest-market-news/2553429-tokyo-gas-adds-to-japan-s-renewables-with-renova-stake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+405,TotalEnergies SE,Direct Energie,Direct Energie,1,Acquisition,Refinitiv; https://en.wikipedia.org/wiki/Total_Direct_%C3%89nergie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+406,TotalEnergies SE,Tenesol,Tenesol,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+407,TotalEnergies SE,Blue Raven,Blue Raven,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+408,TotalEnergies SE,Eden Renewables India,Eden,"0,5",Acquisition,https://eden-re.com/about-us/; https://edf-renouvelables.com/en/communiques/eden-renewables-india-increases-its-portfolio-with-1350-mwp-of-new-solar-photovoltaic-power-plants/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+409,TotalEnergies SE,Lampiris,Lampiris,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+410,TotalEnergies SE,Adani Green Energy Ltd,Adani,0.5,Acquisition,https://totalenergies.com/media/news/press-releases/india-total-expands-its-partnership-adani-renewables-and-acquires-50-2-gw-solar-portfolio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+411,TotalEnergies SE,Clearway Energy Group (CEG),Clearway,0.5,Acquisition,https://totalenergies.com/media/news/press-releases/united-states-totalenergies-acquires-50-clearway-5th-largest-us-renewable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+412,TotalEnergies SE,EMV,EMV,1,Acquisition,https://totalenergies.com/system/files/documents/2024-03/totalenergies_universal-registration-document-2023_2023_en_pdf.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+413,TotalEnergies SE,Mastil Solar,Mastil Solar,1,Acquisition,https://totalenergies.com/system/files/documents/2024-03/totalenergies_universal-registration-document-2023_2023_en_pdf.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+414,TotalEnergies SE,Mauricio Solar,Mauricio Solar,1,Acquisition,https://totalenergies.com/system/files/documents/2024-03/totalenergies_universal-registration-document-2023_2023_en_pdf.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+415,TotalEnergies SE,Mulilo Prieska PV (RF) Proprietary Limited,Mulilo,0.27,Acquisition,https://totalenergies.com/system/files/documents/2024-03/totalenergies_universal-registration-document-2023_2023_en_pdf.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+416,TotalEnergies SE,Tejo Solar,Tejo Solar,1,Acquisition,https://totalenergies.com/system/files/documents/2024-03/totalenergies_universal-registration-document-2023_2023_en_pdf.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+417,TotalEnergies SE,Vents D’Oc,Vents D’Oc,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+418,TotalEnergies SE,Quadra,Quadra(Quadran),1,Acquisition,Refinitiv; https://www.totalenergies.fr/collectivites/paroles-d-expert/actualites/totalenergies/quadran-rejoint-totalenergies,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+419,TotalEnergies SE,8point3,8point3,"0,21",Acquisition,Refinitiv; https://newsroom.sunpower.com/2018-02-05-8point3-the-Joint-Venture-Yieldco-of-First-Solar-and-SunPower-Enters-into-a-Definitive-Agreement-to-be-Acquired-by-Capital-Dynamics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+420,TotalEnergies SE,Poweo,Poweo,1,Acquisition,Refinitiv; https://www.energyprice.be/blog/acquisition-poweo-total/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+421,TotalEnergies SE,Eren,Eren,1,Acquisition,Refinitiv; https://totalenergies.com/media/news/press-releases/electricity-totalenergies-fully-acquires-total-eren-after-successful,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+422,TotalEnergies SE,Casa dos Ventos,Casa dos Ventos,"0,34",Acquisition,Refinitiv; https://totalenergies.com/media/news/press-releases/totalenergies_partners_with_casa_dos_ventos_to_jointly_develop_renewable_energy_portfolio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+423,TotalEnergies SE,Novenergia,Novenergia,1,Acquisition,Refinitiv; https://www.reuters.com/article/idUSL8N21Q1T4/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+424,TotalEnergies SE,Sunpower,Sunpower,0.5,Acquisition,Refinitiv; https://www.spglobal.com/marketintelligence/en/mi/country-industry-forecasting.html?id=1065929483; https://en.wikipedia.org/wiki/SunPower,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+425,Vedanta Resources Ltd,Meenakshi,Meenakshi,1,Acquisition,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+426,Government of Abu Dhabi,Globalfoundries Europe Ltd,Globalfoundries,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+427,Government of Abu Dhabi,Chengdu Jiaxin Technology Co Ltd,Chengdu Jiaxin,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+428,Government of Abu Dhabi,Generacion Electrica Peninsular SA,Generacion Electrica Peninsular SA,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+429,Government of Abu Dhabi,Suresa Retama SL,Suresa,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+430,Government of Abu Dhabi,Servicios Energeticos De Alta Eficiencia SA,Servicios Energeticos De Alta Eficiencia SA,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+431,Government of Abu Dhabi,Cogeneracion de Tenerife SAU,Cogeneracion de Tenerife SAU,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+432,Government of Abu Dhabi,Emirates Nuclear Energy Corp,Emirates Nuclear Energy Corp,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+433,Government of Abu Dhabi,Nawah Energy Company PJSC,Nawah,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+434,Government of Abu Dhabi,Sweihan Energy Holding Company PJSC,Sweihan,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+435,Government of Abu Dhabi,Abu Dhabi National Energy Company PJSC,Abu Dhabi National Energy Company PJSC,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+436,Government of Abu Dhabi,Taweelah Asia Power Company PSC,Taweelah,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+437,Government of Abu Dhabi,Al Ain Distribution Co JSC,Al Ain,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+438,Government of Abu Dhabi,Abu Dhabi Distribution Company P S C,Abu Dhabi Distribution Company P S C,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+439,Government of Abu Dhabi,Ruwais Power Holding Co,Ruwais,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+440,Government of Abu Dhabi,Union Power Holding Company PJC,Union Power Holding Company PJC,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+441,Government of Abu Dhabi,Takoradi International  Co,Takoradi,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+442,Government of Abu Dhabi,Abu Dhabi Transmission & Despatch Co PJSC,Abu Dhabi Transmission & Despatch Co PJSC,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+443,Government of Abu Dhabi,Gulf Total Tractebel Power Co PJSC,Tractebel,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+444,Government of Abu Dhabi,Fujairah Water and Electricity Co,Fujairah,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+445,Government of Abu Dhabi,Emirates Semb Corp Water and Power Company PJSC,Emirates Semb Corp Water and Power Company PJSC,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+446,Government of Abu Dhabi,Almirfa Power Company PJSC,Almirfa,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+447,Government of Abu Dhabi,Mirfa International Power and Water Company PJSC,Mirfa,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+448,Government of Abu Dhabi,Shuweihat CMS International Power Co PJSC,Shuweihat,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+449,Government of Abu Dhabi,Emirates CMS Power Co PJSC,Emirates CMS Power Co PJSC,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+450,Government of Abu Dhabi,Abu Dhabi Future Energy Company Pjsc,Abu Dhabi Future Energy Company Pjsc,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+451,Government of Abu Dhabi,Shams Power Company PJSC,Shams,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+452,Government of Abu Dhabi,Vetroelektrane Balkana doo Beograd,Vetroelektrane,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+453,Government of Abu Dhabi,Abu Dhabi Water and Electricity Authority,Abu Dhabi Water and Electricity Authority,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+454,Government of Algeria,Shariket Govt,Shariket,0.5,Sister,Refinitiv; https://www.africa-energy.com/news-centre/article/ge-iberdrola-build-koudiet-eddraouch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+455,Government of Algeria,Sonelgaz,Sonelgaz,1,Sister,https://en.wikipedia.org/wiki/Sonelgaz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+456,Government of Dubai,Dubai Electricity and Water Authority PJSC,Dubai Electricity and Water Authority(DEWA),0.82,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+457,Government of Dubai,Palm District Cooling LLC,Palm,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+458,Government of Dubai,Shuaa Energy 2 PSC,Shuaa,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+459,Government of Dubai,Noor Energy 1 PSC,Noor,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+460,Government of Dubai,Empower FM LLC,Empower,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+461,Government of Dubai,BD4 Group GmbH,BD4,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+462,Government of India,Nuclear Power Corp of India Ltd,Nuclear Power Corp of India Ltd,1,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+463,Government of India,Solar Energy Corporation of India Ltd,Solar Energy Corporation of India Ltd,1,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+464,Government of India,Damodar Valley Corp,Damodar,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+465,Government of India,Power Grid Corporation of India Ltd,Power Grid Corporation of India Ltd,0.5134,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+466,Government of India,Powergrid Narela Transmission Ltd,Narela,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+467,Government of India,Powergrid Ajmer Phagi Transmission Ltd,Ajmer,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+468,Government of India,Powergrid NM Transmission Ltd,Powergrid NM Transmission Ltd,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+469,Government of India,POWERGRID Warora Transmission Ltd,Warora,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+470,Government of India,Powergrid Rampur Sambhal Transmission Ltd,Rampur,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+471,Government of India,Powergrid Fatehgarh Transmission Ltd,Fatehgarh,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+472,Government of India,Powergrid Varanasi Transmission System Ltd,Varanasi,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+473,Government of India,Khavda Ii-B Transmission Ltd,Khavda,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+474,Government of India,Ramgarh II Transmission Ltd,Ramgarh,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+475,Government of India,Ananthpuram Kurnool Transmission Ltd,Ananthpuram,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+476,Government of India,Powergrid Himachal Transmission Ltd,Himachal,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+477,Government of India,Vataman Transmission Ltd,Vataman,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+478,Government of India,Powergrid Jabalpur Transmission Ltd,Jabalpur,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+479,Government of India,Powergrid Bhind Guna Transmission Ltd,Bhind,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+480,Government of India,Grid Controller of India Ltd,Grid Controller of India Ltd,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+481,Government of India,Powergrid Vemagiri Transmission Ltd,Vemagiri,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+482,Government of India,Vizag Transmission Ltd,Vizag,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+483,Government of India,BEL Optronic Devices Ltd,Optronic,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+484,Government of India,Deoghar Mega Power Ltd,Deoghar,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+485,Government of India,PFC Projects Ltd,PFC,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+486,Government of India,POWERGRID BHADLA SIKAR TRANSMISSION LIMITED,Bhadla,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+487,Government of India,Kishtwar Transmission Ltd,Kishtwar,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+488,Government of India,Powergrid Aligarh Sikar Transmission Ltd,Aligarh,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+489,Government of India,Koppal-Narendra Transmission Ltd,Koppal-Narendra,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+490,Government of India,Jharkhand Infrapower Ltd,Jharkhand,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+491,Government of India,Bihar Infrapower Ltd,Bihar,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+492,Government of India,Orissa Integrated Power Ltd,Orissa,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+493,Government of India,Cheyyur Infra Ltd,Cheyyur,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+494,Government of India,Coastal Maharashtra Mega Power Ltd,Maharashtra,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+495,Government of India,Mandar Transmission Ltd,Mandar,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+496,Government of India,Vemagiri II Transmission Ltd,Vemagiri,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+497,Government of India,Powergrid Er Ner Transmission Ltd,Er Ner,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+498,Government of India,Facor Power Ltd,Facor,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+499,Government of India,Chandil Transmission Ltd,Chandil,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+500,Government of India,Powergrid Sikar Transmission Ltd,Sikar,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+501,Government of India,Bidar Transmission Ltd,Bidar,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+502,Government of India,MP Power Transmission Package-I Ltd,MP Power Transmission Package-I Ltd,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+503,Government of India,Koderma Transmission Ltd,Koderma,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+504,Government of India,Gadag Transmission Ltd,Gadag,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+505,Government of India,Nellore Transmission Ltd,Nellore,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+506,Government of India,Coastal Tamil Nadu Power Ltd,Tamil,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+507,Government of India,Meenakshi Energy Ltd,Meenakshi,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+508,Government of India,CIL Solar PV Ltd,CIL Solar,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+509,Government of India,Mahanadi Basin Power Ltd,Mahanadi,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+510,Government of India,NTPC Ltd,NTPC,0.511,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+511,Government of India,Nabinagar Power Generating Co Ltd,Nabingar,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+512,Government of India,North Eastern Electric Power Corp Ltd,North Eastern Electric Power Corp Ltd,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+513,Government of India,Patratu Vidyut Utpadan Nigam Ltd,Patratu,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+514,Government of India,Bharat Heavy Electricals Ltd,Bharat(BHEL),0.6317,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+515,Government of India,NLC India Ltd,Neyveli(NLC),0.792,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+516,Government of India,HPCL Biofuels Ltd,HPCL,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+517,Government of India,NHPC Ltd,NHPC,0.7095,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+518,Government of India,Bundelkhand Saur Urja Ltd,Bundelkhand,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+519,Government of India,Narmada Hydroelectric Development Corp Ltd,Narmada(NHDC),NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+520,Government of India,Ratle Hydroelectric Power Corporation Ltd,Ratle,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+521,Government of India,Loktak Downstream Hydroelectric Corp Ltd,Loktak,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+522,Government of India,Lanco Teesta Hydro Power Ltd,Lanco,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+523,Government of India,Chenab Valley Power Projects Pvt Ltd,Chenab,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+524,Government of India,Energy Efficiency Services Ltd,Energy Efficiency Services Ltd,0.9999,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+525,Government of India,Edina Ltd,Edina,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+526,Government of India,EPSLTrigeneration Pvt Ltd,EPSLTrigeneration,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+527,Government of India,SJVN Ltd,SJVN,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+528,Government of India,THDC India Ltd,THDC,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+529,Government of Indonesia,PT Perusahaan Listrik Negara (Persero),Perusahaan(Persero|PLN),1,Sister,https://en.wikipedia.org/wiki/Perusahaan_Listrik_Negara,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+530,Government of Iraq,Al Zawraa General Co,Al Zawraa,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+531,Government of Iraq,Diala State for Electrical Industries Co,Diala,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+532,Government of Malaysia,Tenaga,Tenaga(TNB),0.26,Sister,https://en.wikipedia.org/wiki/Tenaga_Nasional#cite_note-TNB_IAR_2022-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+533,Government of Saudi Arabia,Vas Integrated Solutions LLC,Vas,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+534,Government of Saudi Arabia,Saudi Electricity Company SJSC,Saudi Electricity Company SJSC,0.7431,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+535,Government of Saudi Arabia,National Grid SA,National Grid SA,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+536,Government of Saudi Arabia,Specialized Oilfield Products LLC,Specialized Oilfield Products LLC,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+537,Government of Saudi Arabia,ADVANCED ELECTRONICS SUPPORT SERVICES COMPANY LTD,ADVANCED ELECTRONICS SUPPORT SERVICES COMPANY LTD,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+538,Government of Saudi Arabia,Acwa Power Company SJSC,ACWA,0.44,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+539,Ministerio de Hacienda y Crédito Público de Colombia,Interconnection Electric SA ESP,Interconnection,0.51,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+540,Ministerio de Hacienda y Crédito Público de Colombia,Consorcio Transmantaro SA,Transmantaro,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+541,Ministerio de Hacienda y Crédito Público de Colombia,Transelca SA ESP,Transelca,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+542,Ministerio de Hacienda y Crédito Público de Colombia,Interchile SA,Interchile,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+543,Ministerio de Hacienda y Crédito Público de Colombia,ISA Investimentos e Participacoes do Brasil SA,ISA,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+544,Ministerio de Hacienda y Crédito Público de Colombia,Intercolombia SA ESP,Intercolombia,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+545,Ministerio de Hacienda y Crédito Público de Colombia,CTEEP - Companhia de Transmissao de Energia Eletrica Paulista,CTEEP,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+546,Ministerio de Hacienda y Crédito Público de Colombia,Interligacao Eletrica Riacho Grande,Riacho,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+547,Oman Investment Authority,NAMA Holding Company SAOC,NAMA,1,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+548,Oman Investment Authority,Rural Areas Electricity SAOC Co,Rural Areas Electricity SAOC Co,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+549,Oman Investment Authority,Nama Electricity Distribution Company SAOC,Nama Electricity Distribution Company SAOC,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+550,Oman Investment Authority,Muscat Electricity Distribution Company SAOC,Muscat,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+551,Oman Investment Authority,Majan Electricity Company SAOC,Majan,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+552,Oman Investment Authority,Al Ghubrah Power and Desalination Company SAOC,Al Ghubrah,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+553,Oman Investment Authority,Wadi Al Jizzi Power Co SAOC,Wadi,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+554,Oman Investment Authority,Dhofar Power Co SAOG,Dhofar,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+555,Posco Holdings Inc,VENTUS LTD,Ventus,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+556,Posco Holdings Inc,Tancheon E&E,Tancheon,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+557,Posco Holdings Inc,Korea Fuel Cell,Korea Fuel Cell,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+558,Posco Holdings Inc,Pohang Scrap Recycling Center Co Ltd,Pohang,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+559,PTT PCL,Sapthip Co Ltd,Sapthip,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+560,PTT PCL,Thaioil Energy Service Co Ltd,Thaioil,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+561,PTT PCL,TOP SPP Co Ltd,TOP,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+562,PTT PCL,Nuovo Plus Co Ltd,Nuovo,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+563,PTT PCL,Global Power Synergy PCL,Global Power Synergy PCL,0.4253,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+564,State-owned Assets Supervision and Administration Commission of the State Council,China National Nuclear Corporation,China National Nuclear Corporation(CNNC),NA,Sister,https://en.wikipedia.org/wiki/China_National_Nuclear_Corporation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+565,State-owned Assets Supervision and Administration Commission of the State Council,State Power Investment Corporation,State Power Investment Corporation(SPIC),NA,Sister,https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission_of_the_State_Council#Central_SOEs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+566,State-owned Assets Supervision and Administration Commission of the State Council,State Grid Corporation of China,State Grid Corporation of China(SGCC),NA,Sister,https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission_of_the_State_Council#Central_SOEs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+567,State-owned Assets Supervision and Administration Commission of the State Council,China Southern Power Grid,China Southern Power(CSG),NA,Sister,https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission_of_the_State_Council#Central_SOEs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+568,State-owned Assets Supervision and Administration Commission of the State Council,China Huaneng Group,Huaneng,NA,Sister,https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission_of_the_State_Council#Central_SOEs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+569,State-owned Assets Supervision and Administration Commission of the State Council,China Datang Corporation,Datang,NA,Sister,https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission_of_the_State_Council#Central_SOEs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+570,State-owned Assets Supervision and Administration Commission of the State Council,China Huadian Corporation,Huadian,NA,Sister,https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission_of_the_State_Council#Central_SOEs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+571,State-owned Assets Supervision and Administration Commission of the State Council,China Three Gorges Corporation,Three Gorges(CTG),NA,Sister,https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission_of_the_State_Council#Central_SOEs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+572,State-owned Assets Supervision and Administration Commission of the State Council,China Energy Investment Corporation,China Energy Investment(Guodian|Shenhua|National Energy Group),NA,Sister,https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission_of_the_State_Council#Central_SOEs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+573,State-owned Assets Supervision and Administration Commission of the State Council,China State Construction Engineering Corporation,China State Construction Engineering Corporation(CSEC),NA,Sister,https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission_of_the_State_Council#Central_SOEs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+574,State-owned Assets Supervision and Administration Commission of the State Council,Powerchina,Powerchina,NA,Sister,https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission_of_the_State_Council#Central_SOEs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+575,State-owned Assets Supervision and Administration Commission of the State Council,China Energy Engineering Corporation,China Energy Engineering Corporation(CEEC),NA,Sister,https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission_of_the_State_Council#Central_SOEs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+576,State-owned Assets Supervision and Administration Commission of the State Council,China General Nuclear Power Group,China General Nuclear Power Group(CGN),NA,Sister,https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission_of_the_State_Council#Central_SOEs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+577,State-owned Assets Supervision and Administration Commission of the State Council,China Resources,China Resources(CRC),NA,Sister,https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission_of_the_State_Council#Central_SOEs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+578,State-owned Assets Supervision and Administration Commission of the State Council,China Energy Conservation and Environmental Protection Group Corporation,Energy Conservation and Environmental Protection(CECIC|CECEP),NA,Sister,https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission_of_the_State_Council#Central_SOEs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+579,State-owned Assets Supervision and Administration Commission of the State Council,"CHANGSHA XIANGHE NEW ENERGY CO., LTD.",Xianghe Clean Energy,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+580,State-owned Assets Supervision and Administration Commission of the State Council,Jiangsu Kunlun Dongrui Energy Co Ltd,Jiangsu Kunlun,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+581,Abu Dhabi National Oil Company (ADNOC),Emirates Semb Corp Water and Power Company PJSC,Emirates Semb,0.6,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+582,Abu Dhabi National Oil Company (ADNOC),Al Ain Distribution Co JSC,AI Ain,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+583,Abu Dhabi National Oil Company (ADNOC),Taweelah Asia Power Company PSC,Taweelah,0.7,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+584,Abu Dhabi National Oil Company (ADNOC),Shuweihat CMS International Power Co PJSC,Shuweihat,0.6,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+585,Abu Dhabi National Oil Company (ADNOC),Almirfa Power Company PJSC,Almirfa,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+586,Abu Dhabi National Oil Company (ADNOC),Ruwais Power Holding Co,Ruwais,0.6,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+587,Abu Dhabi National Oil Company (ADNOC),Gulf Total Tractebel Power P J S Industrial Co,Tractebel,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+588,Abu Dhabi National Oil Company (ADNOC),Mirfa International Power and Water Company PJSC,Mirfa,0.6,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+589,Abu Dhabi National Oil Company (ADNOC),Asia Gulf Power Service Co Ltd,Asia Gulf Power Service Co Ltd,0.23,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+590,Abu Dhabi National Oil Company (ADNOC),Jubail Energy Co,Jubail,0.25,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+591,Abu Dhabi National Oil Company (ADNOC),Fujairah Water and Electricity Co,Fujairah,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+592,Abu Dhabi National Oil Company (ADNOC),Union Power Holding Company PJC,Union Power Holding Company PJC,0.9,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+593,Abu Dhabi National Oil Company (ADNOC),Shuweihat Asia Power Company PJSC,Shuweihat Asia Power Company PJSC,0.4,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+594,Abu Dhabi National Oil Company (ADNOC),ARABIAN POWER CO,Arabian,0.4,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+595,Abu Dhabi National Oil Company (ADNOC),Takoradi International Co,Takoradi,0.9,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+596,Abu Dhabi National Oil Company (ADNOC),Emirates CMS Power Co PJSC,Emirates CMS,0.6,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+597,BP plc,Cedar Creek,Cedar Creek,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+598,BP plc,Goshen,Goshen,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+599,BP plc,Auwahi,Auwahi,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+600,BP plc,Lyceum,Lyceum,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+601,BP plc,Mehoopany,Mehoopany,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+602,BP plc,Donoma,Donoma,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+603,BP plc,Gnowee,Gnowee,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+604,BP plc,Freetricity,Freetricity,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+605,BP plc,Free Power for Schools,Free Power for Schools,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+606,BP plc,Burnthouse,Burnthouse,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+607,BP plc,H7,H7,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+608,BP plc,Black Bear Alabama,Black Bear Alabama,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+609,BP plc,Bass,Bass,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+610,BP plc,Bighom,Bighom,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+611,BP plc,Aashman,Aashman,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+612,BP plc,Kala,Kala,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+613,BP plc,Bahia de Bizkaia,Bahia de Bizkaia,"0,75",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+614,BP plc,Sun and Soil,Sun and Soil,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+615,BP plc,MTS Francis,MTS Francis,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+616,BP plc,TWQE2,TWQE2,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+617,BP plc,Pont Andrew,Pont Andrew,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+618,BP plc,Lora,Lora,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+619,BP plc,Thames,Thames,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+620,BP plc,Shakti,Shakti,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+621,BP plc,Nextpower,Nextpower,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+622,BP plc,Trefinnick,Trefinnick,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+623,BP plc,Meri,Meri,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+624,BP plc,Sula,Sula,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+625,BP plc,Tuwale,Tuwale,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+626,BP plc,Tonatiuh,Tonatiuh,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+627,BP plc,Nima,Nima,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+628,BP plc,Palk,Palk,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+629,BP plc,Open energi,Open energi,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+630,BP plc,Impact Solar,Impact Solar,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+631,BP plc,Your Power,Your Power,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+632,BP plc,Parque Eolico del Sur,Parque Eolico del Sur,"0,28",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+633,BP plc,Coloursflow,Coloursflow,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+634,BP plc,Solenova,Solenova,"0,25",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+635,BP plc,Heliex,Heliex,"0,32",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+636,BP plc,Empire Offshore,Empire Offshore,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+637,BP plc,Nextpower,Nextpower,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+638,BP plc,Bodmin,Bodmin,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+639,BP plc,Chittering,Chittering,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640,BP plc,Maverick Solar,Maverick Solar,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641,BP plc,Honeysuckle,Honeysuckle,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+642,BP plc,Fuerzas Energeticas del Sur de Europa,Fuerzas Energeticas del Sur de Europa,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+643,BP plc,Free Power for Schools,Free Power for Schools,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+644,BP plc,Blue Marble,Blue Marble,"0,24",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+645,BP plc,Ocwen,Ocwen,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+646,BP plc,Archaea,Archaea,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+647,China National Petroleum Corporation (CNPC),China Oil Group Electrical Energy,China Oil Group Electrical Energy,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+648,Compania Espanola de Petroleos SA (Cepsa),SURESA RETAMA S.L.,Suresa Retama,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+649,Compania Espanola de Petroleos SA (Cepsa),Generacion Electrica Peninsular SA,Peninsular,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+650,Compania Espanola de Petroleos SA (Cepsa),Servicios Energeticos De Alta Eficiencia SA,Servicios Energeticos De Alta Eficiencia(SEDAE),NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+651,Compania Espanola de Petroleos SA (Cepsa),Nueva Generadora del Sur SA,Nueva Generadora del Sur(NGS),0.5,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+652,Delek Group Ltd,DKL Energy Ltd,DKL,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+653,Empresa Nacional del Petroleo (ENAP),Energia Andina SA,Energia Andina,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+654,Eni SpA,PLT Puregreen SpA,Puregreen,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+655,Eni SpA,Easy Gas & Power Srl,Easy Gas & Power Srl,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+656,Eni SpA,Micropower Srl,Micropower,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+657,Eni SpA,EOLICA WIND POWER SRL,EOLICA WIND POWER SRL,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+658,Eni SpA,Green Parity Srl,Parity,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+659,Eni SpA,Societa Agricola Isola d'Agri Srl,Isola d'Agri,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+660,Eni SpA,SKGR Energy SMSa,SKGR,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+661,Eni SpA,Vårgrønn,Vargronn(Vårgrønn|VÃ¥rgrÃ¸nn),0.7,Subsidiary,https://www.eni.com/en-IT/media/press-release/2020/11/eni-hitecvision-launch-vargronn.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+662,Eni SpA,Arm Wind,Arm Wind,1,Subsidiary,https://www.eni.com/en-IT/media/press-release/2022/03/eni-inaugurates-its-second-wind-farm-in-kazakhstan.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+663,Galp Energia SGPS SA,Mocatero Solar SL,Mocatero,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+664,Galp Energia SGPS SA,Hazaia Solar SL,Hazaia,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+665,Galp Energia SGPS SA,Escarnes Solar SL,Escarnes,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+666,Galp Energia SGPS SA,Escatron Solar Dos SL,Escatron,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+667,Galp Energia SGPS SA,Mediomonte Solar SL,Mediomonte,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+668,Galp Energia SGPS SA,Emocion Solar SL,Emocion,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+669,Galp Energia SGPS SA,Ignis Solar Uno SL,Ignis,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+670,Galp Energia SGPS SA,Palabra Solar SL,Palabra,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+671,Galp Energia SGPS SA,Esplendor Solar SL,Esplendor,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+672,Galp Energia SGPS SA,Talento Solar SL,Talento,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+673,Galp Energia SGPS SA,El Robledo Eolica SL,El Robledo,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+674,Galp Energia SGPS SA,Envitero Solar SL,Envtero,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+675,Galp Energia SGPS SA,Carrico Cogeracao Sociedade de Geracao de Electricidade e Calor SA,Carrico,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+676,Galp Energia SGPS SA,Agroger Sociedade de Cogeracao do Oeste SA,Agroger,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+677,Galp Energia SGPS SA,Portcogeracao SA,Portcogeracao,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+678,Galp Energia SGPS SA,Ancora Wind Energia Eolica SA,Ancora,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+679,Galp Energia SGPS SA,Eolica do Sincelo SA,Sincelo,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+680,Galp Energia SGPS SA,Eolica da Linha SA,Linha,0.35,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Galp Energia SGPS SA,Ictio Solar SLU,Ictio,1,Subsidiary,https://www.galp.com/corp/Portals/0/Recursos/Investidores/IMR2023/EN/AnnualIntegratedReport2023.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Galp Energia SGPS SA,Fornax Energy SL,Fornax,1,Subsidiary,https://www.galp.com/corp/Portals/0/Recursos/Investidores/IMR2023/EN/AnnualIntegratedReport2023.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+681,INPEX Corporation,Sarulla Operations LTD INPEX,Sarulla,0.18,Subsidiary,https://www.thinkgeoenergy.com/first-110-mw-unit-of-sarulla-geothermal-plant-starts-operation/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+682,INPEX Corporation,Primula Holding BV,Primula,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+683,INPEX Corporation,Enel Green Power Australia Pty Ltd,Enel Australia,0.5,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+684,INPEX Corporation,Eliiy Power Co Ltd,Eliiy,0.1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+685,ITOCHU Corporation,Sarulla Operations LTD ITOCHU,Sarulla,0.25,Subsidiary,https://www.thinkgeoenergy.com/first-110-mw-unit-of-sarulla-geothermal-plant-starts-operation/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+686,ITOCHU Corporation,Houfu Energy Service Co Ltd,Houfu,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+687,ITOCHU Corporation,Jouetsu Energy Service CoLTD,Jouetsu,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+688,ITOCHU Corporation,Tokyo Toshi Service KK,Toshi,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+689,ITOCHU Corporation,Shinko LLC,Shinko,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+690,ITOCHU Corporation,Bay4 Energy Services LLC,Bay4,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+691,ITOCHU Corporation,Naes Power Contractors Inc,Naes,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+692,Korea Gas Corporation (KOGAS),Amec Partners Korea Ltd,Amec Partners Korea,0.15,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+693,Ministerio de Hacienda y Crédito Público de Colombia,Interconnection Electric SA ESP,Interconnection,0.51,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+694,Ministerio de Hacienda y Crédito Público de Colombia,Consorcio Transmantaro SA,Transmantaro,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+695,Ministerio de Hacienda y Crédito Público de Colombia,Transelca SA ESP,Transelca,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+696,Ministerio de Hacienda y Crédito Público de Colombia,Interchile SA,Interchile,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+697,Ministerio de Hacienda y Crédito Público de Colombia,ISA Investimentos e Participacoes do Brasil SA,ISA,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+698,Ministerio de Hacienda y Crédito Público de Colombia,Intercolombia SA ESP,Intercolombia,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+699,Ministerio de Hacienda y Crédito Público de Colombia,CTEEP - Companhia de Transmissao de Energia Eletrica Paulista,CTEEP,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+700,Ministerio de Hacienda y Crédito Público de Colombia,Interligacao Eletrica Riacho Grande,Riacho,NA,Sister,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+701,Mitsubishi Corporation,Electricidad Aguila de Tuxpan S de RL de CV,Aguila de Tuxpan,0.5,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+702,Mitsubishi Corporation,Amper Central Solar SA,Amper,0.344,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+703,Mitsubishi Corporation,KK Lithium Energy Japan,Lithium Japan,0.4194,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+704,Mitsubishi Corporation,Ovo Group Ltd,Ovo,0.2,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+705,Mitsubishi Corporation,AgroPower BV,AgroPower,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+706,Mitsubishi Corporation,Ppa Borssele BV,Borssele,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+707,Mitsubishi Corporation,Nordgroeoen Energie GmbH,Nordgroeoen,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+708,Mitsubishi Corporation,Windpark Nieuwe Waterweg BV,Nieuwe,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+709,Mitsubishi Corporation,Wp Hzp BV,Wp Hzp BV,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+710,Mitsubishi Corporation,BioEnergieCentrale Delfzijl BV,BioEnergieCentrale,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+711,Mitsubishi Corporation,Warmtebedrijf Eneco Delft BV,Warmtebedrijf,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+712,Mitsubishi Corporation,Spontanae BV,Spontanae,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+713,Mitsubishi Corporation,Solano Wind,Solano,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+714,Mitsubishi Corporation,Newcastle Wind,Newcastle,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+715,Mitsubishi Corporation,Libeccio I,Libeccio,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+716,Mitsubishi Corporation,Les Vents De Perwez,Les Vents,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+717,Mitsubishi Corporation,Sirocco Wind,Sirocco,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+718,Mitsubishi Corporation,LichtBlick SE,LichtBlick,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+719,Mitsubishi Corporation,Solargruen GmbH,Solarguen,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+720,Mitsubishi Corporation,Nordland Energie GmbH,Nordland,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+721,Mitsubishi Corporation,Solaerco Antwerpen,Solaerco,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+722,Mitsubishi Corporation,Wonderlaand 1 BV,Wonderlaand,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+723,Mitsubishi Corporation,Tullo Wind Farm Ltd,Tullo,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+724,Mitsubishi Corporation,Oxxio Nederland BV,Oxxio,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+725,Mitsubishi Corporation,Iron Wire Works Indonesia PT,Iron Wire Works,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+726,Mitsubishi Corporation,Aoi Kohan Co Ltd,Aoi,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+727,Mitsubishi Corporation,Diamond Generating Corp,Diamond,1,Subsidiary,Refinitiv; https://www.dgc-us.com/dgcgroup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+728,Mitsubishi Corporation,Wildflower Energy LP,Wildflower,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+729,Mitsubishi Corporation,Mariposa Energy LLC,Mariposa,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+730,Mitsubishi Corporation,New England Aqua Ventus,New England Aqua Ventus,NA,Subsidiary,https://www.dowind.com/project,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+731,Mitsui & Co Ltd,SymEnergy Inc,SymEnergy,0.205,Subsidiary,Refinitiv; https://symenergy-co-jp.translate.goog/company/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+732,Mitsui & Co Ltd,Forsee Power SA,Forsee,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+733,Mitsui & Co Ltd,Omuta Miikeko Solar Park KK,Omuta,0.5,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+734,Mitsui & Co Ltd,Nova Empire PCL,Nova Empire,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+735,Mitsui & Co Ltd,IPM Eagle LLP,IPM,0.3,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+736,Mitsui & Co Ltd,Paiton Energy PT,Paiton,0.455,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+737,Mitsui & Co Ltd,EBES Sistemas de Energia SA,EBES,0.17,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+738,Mitsui & Co Ltd,Lhyfe SA,Lhyfe,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+739,Mitsui & Co Ltd,Retig Ltd,Retig,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+740,Mitsui & Co Ltd,Tonik Energy Ltd,Tonik,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+741,Mitsui & Co Ltd,Mypower Corp,Mypower,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+742,Mitsui & Co Ltd,Solstice Power Technologies LLC,Solstice,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+743,Mitsui & Co Ltd,Central Anahuac SA de CV,Anahuac,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+744,Mitsui & Co Ltd,Engie ANZ,Engie ANZ,0.07,Subsidiary,https://www.infrastructureinvestor.com/engie-and-mitsui-seek-partner-for-new-australian-renewables-platform/; https://engie.com.au/sites/default/files/2021-05/Media-Release-ENGIE-Australian-Renewable-Energy-Trust-13102020.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+745,Mubadala Petroleum LLC (Mubadala Energy),Masdar Mubadala,Masdar,0.33,Subsidiary,https://www.taqa.com/press-releases/taqa-adnoc-and-mubadala-complete-landmark-transaction-for-stake-in-masdar-clean-energy-powerhouse/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+746,Mubadala Petroleum LLC (Mubadala Energy),GEK Terna Mubadala,Terna,0.22,Acquisition,https://masdar.ae/en/news/newsroom/uae-renewables-champion-to-acquire-greeces-terna-energy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+747,Mubadala Petroleum LLC (Mubadala Energy),Terra-Gen Mubadala,Terra-Gen,0.17,Acquisition,https://masdar.ae/en/news/newsroom/masdar-to-acquire-50-percent-stake-in-terra-gen-from-energy-capital-partners,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+748,Mubadala Petroleum LLC (Mubadala Energy),Hero Future Energies Mubadala,Hero Future Energies(Hero Group),0.07,Acquisition,https://www.livemint.com/companies/news/uae-s-masdar-invests-150-million-in-hero-future-energies-11573459881128.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+749,Mubadala Petroleum LLC (Mubadala Energy),Lekela Power Mubadala,Lekela,0.17,Acquisition,https://masdar.ae/en/news/newsroom/infinity-power-finalizes-acquisition-of-lekela-power,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+750,Mubadala Petroleum LLC (Mubadala Energy),Infinity Power Mubadala,Infinity Power,0.17,Subsidiary,https://weareinfinitypower.com/en/Founding-Companies,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+751,Mubadala Petroleum LLC (Mubadala Energy),Jordan Wind Project Company Mubadala,Jordan Wind Project Company,0.1,Subsidiary,https://masdar.ae/en/news/newsroom/financial-close-reached-to-build-the-first-utility-scale-wind-farm-in-jordan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+752,NJSC Naftogaz of Ukraine,KHERSONS'KA TETs PAT,Kherson,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+753,Origin Energy Ltd,Wind Power Pty Ltd,Wind Power Pty Ltd,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+754,Origin Energy Ltd,Acumen Metering Pty Ltd,Acumen,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+755,Origin Energy Ltd,Winconnect Pty Ltd,Winconnect,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+756,Origin Energy Ltd,OE Power Pty Ltd,OE Power Pty Ltd,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+757,Origin Energy Ltd,Sun Retail Pty Ltd,Sun Retail,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+758,Origin Energy Ltd,Cogent Energy Pty Ltd,Cogent,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+759,Origin Energy Ltd,Walchaenergy Pty Ltd,Walchaenergy,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+760,Osaka Gas Co Ltd (Daigas Group),Senboku Natural Gas Powar Generation Co Ltd,Senboku,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+761,Osaka Gas Co Ltd (Daigas Group),Nakayama Kyodo Power Co Ltd,Nakayama,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+762,Osaka Gas Co Ltd (Daigas Group),Shiribetsu Wind Development KK,Shriribetsu,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+763,Osaka Gas Co Ltd (Daigas Group),"HIZEN WIND POWER GENERATION CO., LTD.",Hizen,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+764,Osaka Gas Co Ltd (Daigas Group),Gas And Power Co Ltd,Gas And Power Co Ltd,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+765,Osaka Gas Co Ltd (Daigas Group),Nakayama Nagoya Joint Power Generation Co Ltd,Nakayama Nagoya,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+766,Osaka Gas Co Ltd (Daigas Group),Hirao Wind Development Co Ltd,Hirao,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+767,Osaka Gas Co Ltd (Daigas Group),Yura Wind Development Co Ltd,Yura,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+768,Osaka Gas Co Ltd (Daigas Group),D&D Solar GK,D&D Solar,NA,Subsidiary,Refinitiv; https://www.osakagas.co.jp/en/whatsnew/__icsFiles/afieldfile/2020/12/23/20201217_2.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+769,Osaka Gas Co Ltd (Daigas Group),Himeji Natural Gas Power Generation CoLTD,Himeji,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+770,Pampa Energia SA,Albares Renovables Argentina SA en Formacion,Albares,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+771,Pampa Energia SA,Greenwind SA,Greenwind,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+772,Pampa Energia SA,Powerco SA,Powerco,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+773,Pampa Energia SA,Vientos de Arauco Renovables SAU,Arauco,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+774,Pampa Energia SA,IEASA SA,IEASA,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+775,Pampa Energia SA,Pampa Inversiones SA,Pampa Inversiones,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+776,Pampa Energia SA,Inversora Ingentis SA,Ingentis,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+777,Petroleo Brasileiro SA – Petrobras,UEG Araucaria Ltda,Araucaria,0.2,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+778,Petroleo Brasileiro SA – Petrobras,Brentech Energia SA,Brentech,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+779,Petroleo Brasileiro SA – Petrobras,Termobahia SA,Termobahia,0.99,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+780,Petroleo Brasileiro SA – Petrobras,Brasympe Energia SA,Brasympe,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+781,Petroleo Brasileiro SA – Petrobras,Baixada Santista Energia SA,Baixada,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+782,Petroleo Brasileiro SA – Petrobras,Energetica Suape II SA,Suape,0.2,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+783,Petroleo Brasileiro SA – Petrobras,Termomacae Ltda,Termomacae,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+784,Petroliam Nasional Bhd (Petronas),Solbridge Energy Pvt Ltd,Solbridge,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+785,Petroliam Nasional Bhd (Petronas),Onevolt Energy Pvt Ltd,Onevolt,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+786,Petroliam Nasional Bhd (Petronas),Nay Energy Pvt Ltd,Nay,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+787,Petroliam Nasional Bhd (Petronas),Sunroot Energy Pvt Ltd,Sunroot,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+788,Petroliam Nasional Bhd (Petronas),Ananth Solar Power Maharashtra Pvt Ltd,Ananth,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+789,Petroliam Nasional Bhd (Petronas),Pengerang Power Sdn Bhd,Pengerang,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+790,Petroliam Nasional Bhd (Petronas),NE Suria Satu Sdn Bhd,Suria Satu,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+791,PJSC Gazprom,TGC-1,TGC-1,0.52,Subsidiary,https://www.tgc1.ru/en/company/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+792,PJSC Gazprom,Sefe,Sefe,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+793,PJSC Gazprom,TEK-Energo,TEK-Energo,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+794,PJSC Gazprom,Mosgorenergo,Mosgorenergo,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+795,PJSC Gazprom,CRMZ,CRMZ,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+796,PJSC Gazprom,TGK,TGK,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+797,PJSC Gazprom,Murmanskaya,Murmanskaya,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+798,PJSC Gazprom,Vtoraya,Vtoraya,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+799,PJSC Gazprom,Svobodnenskaya,Svobodnenskaya,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+800,PJSC Gazprom,Teploinvest,Teploinvest,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+801,PJSC Gazprom,Gelendzhikteploenergo,Gelendzhikteploenergo,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+802,PJSC Gazprom,Armavirteploenergo,Armavirteploenergo,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+803,PJSC Gazprom,Mosenergo,Mosenergo,0.5,Subsidiary,Refinitiv; https://en.wikipedia.org/wiki/List_of_Gazprom_subsidiaries,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+804,PJSC Rosneft Oil Company,Okhinskaya,Okhinskaya,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+805,PJSC Rosneft Oil Company,NGT-Energiya,NGT-Energiya,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+806,PJSC Tatneft,Setevaya Kompaniya AO,Setevaya,0.04,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+807,PT Medco Daya Abadi Lestari,Sarulla Operations LTD Medco,Sarulla,0.19,Subsidiary,https://www.thinkgeoenergy.com/first-110-mw-unit-of-sarulla-geothermal-plant-starts-operation/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+808,PT Medco Daya Abadi Lestari,Mitra Energi Batam PT,Mitra,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+809,PT Medco Daya Abadi Lestari,Dalle Energy Batam PT,Dalle,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+810,PT Medco Daya Abadi Lestari,Multidaya Prima Elektrindo PT,Multidaya,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+811,PT Medco Daya Abadi Lestari,Pembangkitan Pusaka Parahiangan PT,Pembangkitan Pusaka Parahiangan,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+812,PT Medco Daya Abadi Lestari,Universal Batam Energy PT,Universal Batam,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+813,PT Medco Daya Abadi Lestari,Energi Listrik Batam PT,Listrik,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+814,QatarEnergy,Ras Laffan,Ras Laffan,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+815,QatarEnergy,Mesaieed,Mesaieed,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+816,QatarEnergy,Qatar Electricity (QEWC),Qatar Electricity (QEWC),NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+817,QatarEnergy,Ras Girtas,Ras Girtas,"0,15",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+818,QatarEnergy,Siraj Energy,Siraj,0.4,Subsidiary,https://www.qewc.com/qewc/en/portfolio-item/siraj-solar-energy/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+819,Reliance Industries Ltd,Jamnagar Utilities & Power Pvt Ltd,Jamnagar,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+820,Reliance Industries Ltd,Den Premium Multilink Cable Network Pvt Ltd,Multilink,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+821,Reliance Industries Ltd,Addverb Technologies Ltd,Addverb,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+822,Reliance Industries Ltd,REC Americas LLC,REC Americas,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+823,Reliance Industries Ltd,A123 Systems (China) Materials Co Ltd,A123,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+824,Reliance Industries Ltd,Rec Solar Holdings AS,Rec Solar,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+825,Reliance Industries Ltd,Faradion Ltd,Faradion,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+826,Repsol SA,Inch Cape Offshore Ltd,Inch Cape,0.51,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+827,Repsol SA,Asterion Energies SL,Asterion,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+828,Repsol SA,Gaolania Servicios SL,Gaolania,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+829,Repsol SA,Ibil Gestor de Carga de Vehiculo Electrico SA,Ibil,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+830,Shaanxi Yanchang Petroleum (Group) Co Ltd,Shenmu Xinyuan Multipurpose Utilization Power Generation Co Ltd,Shenmu Xinyuan Multipurpose,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+831,Shell plc,Sonnen,Sonnen,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+832,Shell plc,Pulse,Pulse,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+833,Shell plc,NoordzeeWind,NoordzeeWind,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+834,Shell plc,Inspire,Inspire,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+835,Shell plc,CSE23,CSE23,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+836,Shell plc,Limejump,Limejump,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+837,Shell plc,Munmu Baram,Munmu Baram,"0,8",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+838,Shell plc,First Utility,First Utility,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+839,Shell plc,Marrramwind,Marrramwind,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+840,Shell plc,Mid-Atlantic Offshore,Mid-Atlantic Offshore,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+841,Shell plc,SouthCoast,SouthCoast,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+842,Shell plc,Husk,Husk,"0,3",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+843,Shell plc,Newgen,Newgen,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+844,Shell plc,Madison Fields,Madison Fields,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+845,Shell plc,Marlim,Marlim,"0,3",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+846,Shell plc,Crosswind,Crosswind,"0,8",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+847,Shell plc,Top Deer,Top Deer,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+848,Shell plc,NedPower,NedPower,"0,5",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+849,Shell plc,Baconton,Baconton,"0,35",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+850,Shell plc,Elios,Elios,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+851,Shell plc,Orb,Orb,"0,24",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+852,Sinochem Group Co Ltd,Zhonghua Oil Henan Co Ltd,Zhonghua,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+853,Sinochem Group Co Ltd,Corrie Maccoll Malaysia Sdn Bhd,Corrie Maccoll,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+854,SK Innovation Co Ltd,Ulsan Aromatics Co Ltd,Ulsan Aromatics,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+855,SK Innovation Co Ltd,SK Battery Manufacturing Kft,SK Battery,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+856,SK Innovation Co Ltd,Korea LNG Ltd,Korea LNG,0.16,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+857,SK Innovation Co Ltd,SK IE Technology Co Ltd,SK IE,0.61,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+858,SK Innovation Co Ltd,Precursor Energetics Inc,Precursor,0.14,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+859,SK Innovation Co Ltd,HelioVolt Corp,HelioVolt,0.24,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+860,Sonatrach SpA,Shariket,Shariket,0.5,Subsidiary,Refinitiv; https://www.africa-energy.com/news-centre/article/ge-iberdrola-build-koudiet-eddraouch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+861,Sonatrach SpA,Societe Algerienne de Realisation de Projets Industriels (SARPI),Societe Algerienne de Realisation de Projets Industriels (SARPI),NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+862,Sonatrach SpA,Algerian Energy Company,Algerian Energy Company,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+863,Sonatrach SpA,New Energy Algeria (NEAL),New Energy Algeria(NEAL),"0,5",Subsidiary,"Refinitiv; https://www.africaintelligence.com/north-africa/2022/02/18/still-no-light-at-end-of-tunnel-for-1000-mw-solar-project,109735050-art",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+864,Tokyo Gas Co Ltd,Chiba Offshore Wind Inc,Chiba,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+865,Tokyo Gas Co Ltd,SIRC Co Ltd,SIRC,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+866,Tokyo Gas Co Ltd,Ohgishima Power Co Ltd,Ohgishima,0.75,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+867,Tokyo Gas Co Ltd,Gastar Co Ltd,Gastar,0.78,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+868,Tokyo Gas Co Ltd,Prominet Power Co Ltd,Prominet,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+869,Tokyo Gas Co Ltd,Yukai Engineering Inc,Yukai,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+870,Tokyo Gas Co Ltd,TTK Power LLC,TTK,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+871,TotalEnergies SE,174 Power Global,174 Power,0.5,Subsidiary,https://totalenergies.com/media/news/press-releases/Solar-Projects-of-the-Total-Hanwha-174PG-JV-in-the-USA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+872,TotalEnergies SE,Margeriaz,Margeriaz,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+873,TotalEnergies SE,Tqn hydro,Tqn hydro,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+874,TotalEnergies SE,Cogenra,Cogenra,"0,56",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+875,TotalEnergies SE,Diamond Energy Pty Ltd,Diamond Energy,"0,14",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+876,TotalEnergies SE,Bluecharge,Bluecharge,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+877,TotalEnergies SE,Shams,Shams,"0,2",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+878,TotalEnergies SE,Fleming,Fleming,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+879,TotalEnergies SE,Eolmed,Eolmed,"0,2",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+880,TotalEnergies SE,La Seauve,La Seauve,"0,4",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+881,TotalEnergies SE,Tractebel,Tractebel,"0,2",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+882,TotalEnergies SE,Maxeon,Maxeon,"0,27",Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+883,TotalEnergies SE,Helio,Helio,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+884,TotalEnergies SE,Compagnie Electrique De Bretagne,Compagnie Electrique De Bretagne,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+885,TotalEnergies SE,Smalt,Smalt,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+886,TotalEnergies SE,TQN solar,TQN solar,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+887,TotalEnergies SE,Solaire Gran Sud,Solaire Gran Sud,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+888,TotalEnergies SE,Marcinelle,Marcinelle,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+889,TotalEnergies SE,Mistral en Beauce,Mistral en Beauce,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+890,TotalEnergies SE,Tenesol,Tenesol,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+891,TotalEnergies SE,Go Electric,Go Electric,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+892,TotalEnergies SE,Renoptipower,Renoptipower,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+893,TotalEnergies SE,E Vento Ciro,E Vento Ciro,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+894,TotalEnergies SE,Generg,Generg,1,Subsidiary,Refinitiv; https://totalenergies.com/system/files/documents/2024-03/totalenergies_universal-registration-document-2023_2023_en_pdf.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+895,TotalEnergies SE,Genergreen,Genergreen,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+896,TotalEnergies SE,Solar Star (SolarStar),Solar Star(SolarStar),1,Subsidiary,Refinitiv; https://totalenergies.com/system/files/documents/2024-03/totalenergies_universal-registration-document-2023_2023_en_pdf.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+897,TotalEnergies SE,Blue Raven,Blue Raven,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+898,TotalEnergies SE,Solaire Generation,Solaire Generation,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+899,TotalEnergies SE,Sunstrong,Sunstrong,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+900,TotalEnergies SE,Greenbotics,Greenbotics,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+901,TotalEnergies SE,Solarbridge,Solarbridge,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+902,Vedanta Resources Ltd,Sterlite Ports Ltd,Sterlite,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+903,Vedanta Resources Ltd,Maritime Ventures Private Ltd,Maritime Ventures,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+904,Vedanta Resources Ltd,Malco Energy Ltd,Malco,1,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+905,Vedanta Resources Ltd,AvanStrate Inc,AvanStrate,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+906,Vietnam Oil and Gas Group (PetroVietnam),Petrovietnam Power Corp,Petrovietnam Power Corp,0.8,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+907,Vietnam Oil and Gas Group (PetroVietnam),Hua Na Hydropower JSC,Hua Na,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+908,Vietnam Oil and Gas Group (PetroVietnam),Dakdrinh Hydropower JSC,Dakdrinh,NA,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+909,YPF SA,Central Dock Sud SA,Central Dock,0.4,Subsidiary,Refinitiv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
